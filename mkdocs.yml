@@ -1,0 +1,9 @@
+site_name: Recipe Collection
+site_url: https://adamkoziol.github.io/recipes
+site_description: Recipe Collection
+
+pages:
+- Home: 'index.md'
+- Main Dishes:
+    - 'Italian':
+        - 'Tomato-Based Pasta Sauce': 'mains/standard_tomato_based_pasta_sauce.md'
