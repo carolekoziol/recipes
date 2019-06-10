@@ -5,5 +5,9 @@ site_description: Recipe Collection
 pages:
 - Home: 'index.md'
 - Main Dishes:
-    - 'Italian':
-        - 'Tomato-Based Pasta Sauce': 'mains/standard_tomato_based_pasta_sauce.md'
+    - 'Omni':
+        - 'Italian':
+            - 'Tomato-Based Pasta Sauce': 'mains/standard_tomato_based_pasta_sauce.md'
+    - 'Vegetarian':
+        - 'Chinese':
+            - "General Tao Noodle Bowl": 'mains/general_tao_noodle_bowl.md'
