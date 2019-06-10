@@ -1,5 +1,6 @@
 ## General Tao Noodle Bowl
 
+[Original Recipe](https://www.purekitchenottawa.com/blog/generaltaonoodle)
 
 ### Ingredients
 
