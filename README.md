@@ -1,2 +1,2 @@
 ### Recipes
-[Site](https://adamkoziol.github.io/recipes/)
+[Site](https://carolekoziol.github.io/recipes/)
