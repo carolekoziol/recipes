@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://carolekoziol.github.io/recipes/</loc>
-     <lastmod>2019-06-12</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/mains/standard_tomato_based_pasta_sauce/</loc>
-     <lastmod>2019-06-12</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/mains/general_tao_noodle_bowl/</loc>
-     <lastmod>2019-06-12</lastmod>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/entrees/general_tao_noodle_bowl/</loc>
+     <lastmod>2019-06-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/entrees/cabbage_stroganoff/</loc>
+     <lastmod>2019-06-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/entrees/standard_tomato_based_pasta_sauce/</loc>
+     <lastmod>2019-06-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
 </urlset>
