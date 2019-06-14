@@ -1,13 +1,30 @@
 site_name: Recipe Collection
 site_url: https://carolekoziol.github.io/recipes
 site_description: Recipe Collection
+theme: mkdocs
 
-pages:
-- Home: 'index.md'
-- Main Dishes:
-    - 'Omni':
-        - 'Italian':
-            - 'Tomato-Based Pasta Sauce': 'mains/standard_tomato_based_pasta_sauce.md'
-    - 'Vegetarian':
-        - 'Chinese':
-            - "General Tao Noodle Bowl": 'mains/general_tao_noodle_bowl.md'
+nav:
+- Appetizers:
+    - Placeholder:
+        - Food: ''
+- Breakfast:
+    - Placeholder:
+        - Food: ''
+- Desserts:
+    - Placeholder:
+        - Food: ''
+- Drinks:
+    - Placeholder:
+        - Food: ''
+- Entrees:
+    - 'Chinese':
+        - "General Tao Noodle Bowl": 'entrees/general_tao_noodle_bowl.md'
+    - 'Pasta':
+        - 'Cabbage stroganoff': 'entrees/cabbage_stroganoff.md'
+        - 'Tomato-Based Pasta Sauce': 'entrees/standard_tomato_based_pasta_sauce.md'
+- Salads:
+    - Placeholder:
+        - Food: ''
+- Snacks:
+    - Placeholder:
+        - Food: ''
