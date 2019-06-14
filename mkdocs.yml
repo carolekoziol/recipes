@@ -22,8 +22,10 @@ nav:
 - Entrees:
     - Chinese:
         - General Tao Noodle Bowl: 'entrees/general_tao_noodle_bowl.md'
+    - Indian:
+        - Baingan Bharta: 'entrees/baingan_bharta.md'
     - Pasta:
-        - Cabbage stroganoff: 'entrees/cabbage_stroganoff.md'
+        - Cabbage Stroganoff: 'entrees/cabbage_stroganoff.md'
         - Tomato-Based Pasta Sauce: 'entrees/standard_tomato_based_pasta_sauce.md'
 - Sauces:
     - Placeholder:
