@@ -7,6 +7,9 @@ nav:
 - Appetizers:
     - Placeholder:
         - Food: ''
+- Breads:
+    - Placeholder:
+        - Food: '
 - Breakfast:
     - Placeholder:
         - Food: ''
@@ -22,6 +25,9 @@ nav:
     - 'Pasta':
         - 'Cabbage stroganoff': 'entrees/cabbage_stroganoff.md'
         - 'Tomato-Based Pasta Sauce': 'entrees/standard_tomato_based_pasta_sauce.md'
+- Sauces:
+    - Placeholder:
+        - Food: ''
 - Salads:
     - Placeholder:
         - Food: ''
