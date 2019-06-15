@@ -1,7 +1,7 @@
 site_name: Recipes
 site_url: https://carolekoziol.github.io/recipes
 site_description: Recipe Collection
-theme: yeti
+theme: mkdocs
 
 nav:
 - Appetizers:
@@ -11,6 +11,9 @@ nav:
     - Placeholder:
         - Food: ''
 - Breakfast:
+    - Placeholder:
+        - Food: ''
+- Cheese:
     - Placeholder:
         - Food: ''
 - Desserts:
@@ -33,7 +36,7 @@ nav:
 - Salads:
     - Placeholder:
         - Food: ''
-- Side Dishes:
+- Sides:
     - Placeholder:
         - Food: ''
 - Snacks:
