@@ -1,44 +1,67 @@
-site_name: Recipes
+site_name: The Koziol Recipe Collection
 site_url: https://carolekoziol.github.io/recipes
 site_description: Recipe Collection
 theme: mkdocs
 
 nav:
-- Appetizers:
-    - Placeholder:
-        - Food: ''
-- Breads:
-    - Placeholder:
-        - Food: ''
-- Breakfast:
-    - Placeholder:
-        - Food: ''
-- Cheese:
-    - Placeholder:
-        - Food: ''
-- Desserts:
-    - Placeholder:
-        - Food: ''
-- Drinks:
-    - Placeholder:
-        - Food: ''
-- Entrees:
-    - Chinese:
-        - General Tao Noodle Bowl: 'entrees/general_tao_noodle_bowl.md'
-    - Indian:
-        - Baingan Bharta: 'entrees/baingan_bharta.md'
-    - Pasta:
-        - Cabbage Stroganoff: 'entrees/cabbage_stroganoff.md'
-        - Tomato-Based Pasta Sauce: 'entrees/standard_tomato_based_pasta_sauce.md'
-- Sauces:
-    - Placeholder:
-        - Food: ''
-- Salads:
-    - Placeholder:
-        - Food: ''
-- Sides:
-    - Placeholder:
-        - Food: ''
-- Snacks:
-    - Placeholder:
-        - Food: ''
+- Recipe Index:
+    - Appetizers & Snacks:
+        - Placeholder:
+            - Food: ''
+    - Beverages:
+        - Placeholder:
+            - Food: ''
+    - Breads:
+        - Placeholder:
+            - Food: ''
+    - Breakfasts & Brunchs:
+        - Placeholder:
+            - Food: ''
+    - Cheeses:
+        - Placeholder:
+            - Food: ''
+    - Dehydrators:
+        - Placeholder:
+            - Food: ''
+    - Desserts:
+        - Cakes:
+            - Food: ''
+        - Cookies:
+            - Food: ''
+        - Baking:
+            - Food: ''
+    - Main Courses:
+        - Chinese:
+            - General Tao Noodle Bowl: 'main_course/general_tao_noodle_bowl.md'
+        - Indian:
+            - Baingan Bharta: 'main_course/baingan_bharta.md'
+        - Pasta:
+            - Cabbage Stroganoff: 'main_course/cabbage_stroganoff.md'
+            - Tomato-Based Pasta Sauce: 'main_course/standard_tomato_based_pasta_sauce.md'
+    - Salads:
+        - Placeholder:
+            - Food: ''
+    - Sides:
+        - Vegetable:
+            - Stir Fry Bean Sprouts with Fried Garlic: 'sides/stir_fry_bean_sprouts.md'
+            - Grilled Onions: 'sides/grilled_onions.md'
+            - Roasted Radishes: ''
+        - Legumes:
+            - Baked Beans: 'sides/baked_beans_instant_pot.md'
+        - Rice:
+            -  Food: ''
+    - Soups & Stews:
+        - Cold Soups:
+            - Food: ''
+        - Hot Soups:
+            - Food: ''
+        - Stews:
+            - Food: ''           
+    - Sauces/Dips/Condiments:
+        - Placeholder:
+            - Food: ''
+    - Techniques:
+        - Placeholder:
+            - Food: ''
+- About:
+    - 'Placeholder'

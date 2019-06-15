@@ -2,9 +2,11 @@
 
 [Original Recipe from Pure Kitchen](https://www.purekitchenottawa.com/blog/generaltaonoodle)
 
+![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
+
 ![Picture](../img/general_tao_noodle_bowl.jpg)
 
-#### Rating 9.5/10
+** Rating 9.5/10 **
 
 ### Ingredients
 
@@ -93,3 +95,5 @@ Cook Time: **5 – 10 minutes** (needs to be watched while cooking)
 3. Cut the block of tofu into 10ish slices. Place the tofu into the marinade and let rest for at least 1 hour.
 4. Lay tofu slices out onto a parchment lined baking sheet and pour a small amount of the marinade over the tofu.
 5. Bake at 350 for 20-30 minutes, until most of the marinade has been baked into the tofu and it has darkened slightly.
+
+_Tags: Vegan, main_

@@ -4,7 +4,7 @@
 
 ![Picture](../img/baingan_bharta.jpg)
 
-#### Rating 9.5/10
+** Total time: 30 minutes || Serving: 4 || Rating 9.5/10 **
 
 ### Ingredients
 

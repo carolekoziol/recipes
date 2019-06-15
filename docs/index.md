@@ -1,5 +1,10 @@
+#### Home
+
 ![Catso](img/catso.JPG)
 
-#### [Appetizers]()
-#### [Breakfast]()
-#### [Entrees](entrees.md)
+- [Appetizers & Snacks]()
+- [Breakfasts & Brunchs]()
+- [Sides]()
+- [Main courses](main_course.md)
+- [Salads]()
+- [Soups & Stews]()
