@@ -31,7 +31,7 @@ nav:
         - Baking:
             - Food: ''
     - Main Courses:
-        - Chinese:
+        - Asian:
             - General Tao Noodle Bowl: 'main_course/general_tao_noodle_bowl.md'
         - Indian:
             - Baingan Bharta: 'main_course/baingan_bharta.md'
@@ -45,7 +45,8 @@ nav:
         - Vegetable:
             - Stir Fry Bean Sprouts with Fried Garlic: 'sides/stir_fry_bean_sprouts.md'
             - Grilled Onions: 'sides/grilled_onions.md'
-            - Roasted Radishes: ''
+            - Roasted Radishes: 'sides/roasted_radishes.md'
+            - Succotash: 'sides/succotash.md'
         - Legumes:
             - Baked Beans: 'sides/baked_beans_instant_pot.md'
         - Rice:

@@ -1,6 +1,6 @@
 ## Baked Beans - Instant Pot
 
-[Original Recipe from Amy Jacky](https://www.pressurecookrecipes.com/instant-pot-baked-beans/)
+[Original Recipe by Amy Jacky](https://www.pressurecookrecipes.com/instant-pot-baked-beans/)
 
 ![Picture](../img/baked_beans.jpg)
 
