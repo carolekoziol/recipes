@@ -1,6 +1,8 @@
 ## Baingan Bharta
 
 [Original Recipe from Cook with Manali](https://www.cookwithmanali.com/baingan-bharta/)
+![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
+![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 
 ![Picture](../img/baingan_bharta.jpg)
 
@@ -8,7 +10,7 @@
 
 ### Ingredients
 
-- 2 medium eggplant, around 550 grams each
+- 2 medium eggplants, around 550 grams each
 - 3 tablespoon oil, I used vegetable oil
 - 8 large garlic cloves, chopped
 - 2 inch ginger , chopped
@@ -40,3 +42,5 @@
 7. Stir in the chopped cilantro and mix. Remove pan from heat.
 
 Serve baingan bharta hot with fresh rotis, pita or naan!
+
+_Tags: Vegan, Gluten-free, indian, main_

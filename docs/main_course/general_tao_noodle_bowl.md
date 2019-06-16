@@ -1,7 +1,6 @@
 ## General Tao Noodle Bowl
 
 [Original Recipe from Pure Kitchen](https://www.purekitchenottawa.com/blog/generaltaonoodle)
-
 ![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
 
 ![Picture](../img/general_tao_noodle_bowl.jpg)
@@ -9,8 +8,6 @@
 ** Rating 9.5/10 **
 
 ### Ingredients
-
-
 
 - 8 oz General Tao sauce (recipe below)
 - 10 oz rice noodle 3mm
@@ -23,10 +20,7 @@
 - 2 tbsp sesame seeds toasted
 - Sunflower oil
 
-
 ### Steps
-
-
 
 1. Bring a pot of water to a boil. Drop the noodles into the water for about 1-2 minutes. Remove from water using a strainer.
 2. In a medium-large pan, heat oil.
@@ -36,14 +30,11 @@
 
 **Tip** You can substitute the vegetables here with any of your favourite vegetables, and add toasted nuts or any other protein source of your choice!
 
-
 ### General Tao Sauce
 
 Yield: **4 cups** (This seems to be the right amount of sauce for this recipe)
 
 Cook Time: **5 – 10 minutes** (needs to be watched while cooking)
-
-
 
 - 1 cup ketchup
 - 1/2 cup tamari (substitute soy sauce, or coconut aminos)
@@ -60,7 +51,6 @@ Cook Time: **5 – 10 minutes** (needs to be watched while cooking)
 
 #### For the slurry:
 
-
 - 3 Tbsp. cornstarch
 - 3 Tbsp. water
 
@@ -74,7 +64,6 @@ Cook Time: **5 – 10 minutes** (needs to be watched while cooking)
 **Yield: **1 Litres
 
 **Prep Time: **30** **minutes
-
 
 - 1 block firm tofu, water drained from package (we use locally made and GMO free La Soyarie tofu!)
 - ¾ cup + 2 tbsp lime juice
@@ -90,10 +79,10 @@ Cook Time: **5 – 10 minutes** (needs to be watched while cooking)
 
 ####
 
-1. Pressed the tofu to extract extra water (make it extra firm)
+1. Press the tofu to extract extra water (make it extra firm)
 2. Combine all ingredients in a bowl and mix well with a whisk.
 3. Cut the block of tofu into 10ish slices. Place the tofu into the marinade and let rest for at least 1 hour.
 4. Lay tofu slices out onto a parchment lined baking sheet and pour a small amount of the marinade over the tofu.
 5. Bake at 350 for 20-30 minutes, until most of the marinade has been baked into the tofu and it has darkened slightly.
 
-_Tags: Vegan, main_
+_Tags: Vegan, asian, tso, main_

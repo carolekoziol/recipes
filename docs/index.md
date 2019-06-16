@@ -4,7 +4,7 @@
 
 - [Appetizers & Snacks]()
 - [Breakfasts & Brunchs]()
-- [Sides]()
+- [Sides](sides.md)
 - [Main courses](main_course.md)
 - [Salads]()
 - [Soups & Stews]()
