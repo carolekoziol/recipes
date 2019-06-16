@@ -13,7 +13,7 @@
 
 
 - 8 oz General Tao sauce (recipe below)
-- 10 oz rice noodle 3mm, soaked for 1 hour
+- 10 oz rice noodle 3mm
 - 4 pieces ginger lime tofu (recipe below)
 - 2 cups collard green, cleaned destemmed and chopped
 - 2 red/yellow bell peppers, chopped
@@ -39,14 +39,14 @@
 
 ### General Tao Sauce
 
-Yield: **4 cups** (This seem right amount of sauce for this recipe)
+Yield: **4 cups** (This seems to be the right amount of sauce for this recipe)
 
 Cook Time: **5 – 10 minutes** (needs to be watched while cooking)
 
 
 
 - 1 cup ketchup
-- 1/2 cup tamari
+- 1/2 cup tamari (substitute soy sauce, or coconut aminos)
 - 1/2 cups water
 - 1/2 cup maple syrup
 - 3 1/2 Tablespoon mirin
