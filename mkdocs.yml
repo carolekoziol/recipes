@@ -15,12 +15,12 @@ nav:
         - Placeholder:
             - Food: ''
     - Breakfasts & Brunchs:
-        - Placeholder:
-            - Food: ''
+        - Vegetables:
+            - Roasted Brussel Sprouts with Bacon and Apples: 'sides/roasted_brussels_sprouts_bacon_apples.md'
     - Cheeses:
         - Placeholder:
             - Food: ''
-    - Dehydrators:
+    - Dehydrator:
         - Placeholder:
             - Food: ''
     - Desserts:
@@ -31,23 +31,34 @@ nav:
         - Baking:
             - Food: ''
     - Main Courses:
+        - North American: 
+            - Big Bhaji Burger: 'main_course/big_bhaji_burger.md'
+            - Donair: 'main_course/donair.md'
         - Bowls:
             - General Tao Noodle Bowl: 'main_course/general_tao_noodle_bowl.md'
+        - Casseroles:
+            - Jambalaya: 'main_course/jambalaya.md'
+        - Curry: 
+            - Food: ''
+        - Stir-Fry: 
+            - Food: ''
         - Indian:
             - Baingan Bharta: 'main_course/baingan_bharta.md'
+            - Noodle-Free Pad Thai: 'main_course/noodle_free_pad_thai.md'
         - Pasta:
             - Cabbage Stroganoff: 'main_course/cabbage_stroganoff.md'
-            - Tomato-Based Pasta Sauce: 'main_course/standard_tomato_based_pasta_sauce.md'
-    - Salads:
-        - Placeholder:
-            - Food: ''
+        - Salads:
+            - Placeholder:
+                - Food: ''
     - Sides:
         - Vegetable:
-            - Aloo Palak: 'sides/aloo_palak.md'
-            - Grilled Onions: 'sides/grilled_onions.md'
-            - Mushroom Spinach Potstickers: 'sides/mushroom_spinach_potstickers.md'
-            - Roasted Radishes: 'sides/roasted_radishes.md'
+            - Squished Baby Potatoes: 'sides/squished_baby_potatoes.md'
             - Stir Fry Bean Sprouts with Fried Garlic: 'sides/stir_fry_bean_sprouts.md'
+            - Grilled Onions: 'sides/grilled_onions.md'
+            - Roasted Butternut Squash: 'sides/roasted_butternut_squash.md'
+            - Roasted Maple Squash: 'sides/roasted_maple_squash.md'
+            - Roasted Brussel Sprouts with Bacon and Apples: 'sides/roasted_brussels_sprouts_bacon_apples.md'
+            - Roasted Radishes: 'sides/roasted_radishes.md'
             - Succotash: 'sides/succotash.md'
         - Legumes:
             - Baked Beans: 'sides/baked_beans_instant_pot.md'
@@ -61,10 +72,16 @@ nav:
         - Stews:
             - Food: ''           
     - Sauces/Dips/Condiments:
-        - Placeholder:
-            - Food: ''
-    - Techniques:
-        - Placeholder:
-            - Food: ''
+        - Sauce:
+            - Tomato-Based Pasta Sauce: 'sauces/standard_tomato_based_pasta_sauce.md'
+- Basics:
+    - Tofu:
+        - Soy tofu: ''
+        - Chickpea tofu: ''
+    - Tempeh: ''
+    - Sausage: ''
+    - Broth:
+        - Bone Broth: ''
+        - Vegetable Broth: ''
 - About:
     - 'Placeholder'

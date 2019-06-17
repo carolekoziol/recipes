@@ -11,7 +11,7 @@
 ### Ingredients
 
 - 2 medium eggplants, around 550 grams each
-- 3 tablespoon oil, I used vegetable oil
+- 3 tablespoon oil, ( olive oil, vegetable oil, coconut oil etc.)
 - 8 large garlic cloves, chopped
 - 2 inch ginger , chopped
 - 1 green chili, or to taste, chopped (optional)
@@ -43,4 +43,4 @@
 
 Serve baingan bharta hot with fresh rotis, pita or naan!
 
-_Tags: Vegan, Gluten-free, indian, main_
+_Tags: vegan, gluten-free, dairy-free, 30 minutes, indian, main_
