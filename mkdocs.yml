@@ -16,7 +16,7 @@ nav:
             - Food: ''
     - Breakfasts & Brunchs:
         - Vegetables:
-            - Roasted Brussel Sprouts with Bacon and Apples: 'sides/roasted_brussels_sprouts_bacon_apples.md'
+            - Roasted Brussel Sprouts with Bacon and Apples: 'sides/roasted_brussel_sprouts_bacon_apples.md'
     - Cheeses:
         - Placeholder:
             - Food: ''
@@ -44,6 +44,7 @@ nav:
             - Food: ''
         - Indian:
             - Baingan Bharta: 'main_course/baingan_bharta.md'
+            - Dairy-Free Butter Chicken: 'main_course/dairy_free_butter_chicken.md'
             - Noodle-Free Pad Thai: 'main_course/noodle_free_pad_thai.md'
         - Pasta:
             - Cabbage Stroganoff: 'main_course/cabbage_stroganoff.md'
@@ -52,14 +53,17 @@ nav:
                 - Food: ''
     - Sides:
         - Vegetable:
-            - Squished Baby Potatoes: 'sides/squished_baby_potatoes.md'
-            - Stir Fry Bean Sprouts with Fried Garlic: 'sides/stir_fry_bean_sprouts.md'
+            - Aloo Palak: 'sides/aloo_palak.md'
             - Grilled Onions: 'sides/grilled_onions.md'
+            - Mushroom spinach potstickers: 'sides/mushroom_spinach_potstickers.md'
+            - Roasted Brussel Sprouts with Bacon and Apples: 'sides/roasted_brussel_sprouts_bacon_apples.md'
             - Roasted Butternut Squash: 'sides/roasted_butternut_squash.md'
             - Roasted Maple Squash: 'sides/roasted_maple_squash.md'
-            - Roasted Brussel Sprouts with Bacon and Apples: 'sides/roasted_brussel_sprouts_bacon_apples.md'
             - Roasted Radishes: 'sides/roasted_radishes.md'
+            - Squished Baby Potatoes: 'sides/squished_baby_potatoes.md'
+            - Stir Fry Bean Sprouts with Fried Garlic: 'sides/stir_fry_bean_sprouts.md'
             - Succotash: 'sides/succotash.md'
+            - Zucchini Fritters: 'sides/zucchini_fritters.md '
         - Legumes:
             - Baked Beans: 'sides/baked_beans_instant_pot.md'
         - Rice:
