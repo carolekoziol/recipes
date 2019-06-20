@@ -43,4 +43,4 @@
 
 Serve baingan bharta hot with fresh rotis, pita or naan!
 
-_Tags: vegan, gluten-free, dairy-free, 30 minutes, indian, main_
+_Tags: vegan, gluten-free, dairy-free, 30 minutes, lunch, dinner, indian, main_

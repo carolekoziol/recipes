@@ -2,6 +2,8 @@
 
 [Original Recipe by Del](https://www.allrecipes.com/recipe/211191/the-original-donair-from-the-east-coast-of-canada/)
 [Original Recipe by Heather](http://mmmisformommy.com/2011/12/donairs-halifax-classic.html)
+![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
+![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
 
 ![Picture](../img/donair.jpg)
 
@@ -50,3 +52,5 @@ TO SERVE WITH(Optional)
 - 1/3 cup white vinegar, or to taste (add one tsp at a time)
 
 Mix the three ingredients together.
+
+_Tags: vegan, dairy-free, 1 hour, lunch, dinner, main_

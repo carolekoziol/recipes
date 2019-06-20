@@ -66,4 +66,4 @@ FOR SERVING optional
 
 Serve as is or over quinoa or even add some hemp seeds.
 
-_Tags: vegan, gluten-free, dairy-free, paleo, 1 hour, indian, vegetables, main_
+_Tags: vegan, gluten-free, dairy-free, paleo, 1 hour, indian, vegetables, lunch, dinner, main_

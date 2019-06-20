@@ -46,3 +46,5 @@ Divide the mixture into 6 and use your hands to mold it into patties around 3 ½
 While the bhajis are frying, split the burger buns open and spread the bottom halves with vegan mayonnaise | Thinly slice the cucumber and tomato | Halve and carefully pit the avocado by tapping the pit firmly with the heel of a knife so that it lodges in the pit, then twist and remove the pit | Run a spoon around the inside of the avocado skin to scoop out the flesh, then slice finely
 
 To serve the bhaji burgers, lay a few lettuce leaves on the bottom of the burger buns and place the burgers on top | Spread a little mango chutney on top of each, followed by slices of tomato, avocado, and cucumber | Break up the pappadum and sprinkle it over the top before closing the buns
+
+_Tags: gluten-free, dairy-free, vegan, 30 minutes, lunch, dinner, main_

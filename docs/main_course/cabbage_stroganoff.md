@@ -36,3 +36,5 @@
 6. Add broth, dijon mustard and worchestire. Cook until broth thickened, approximately 2 to 3 minutes.
 7. Reduce heat to low. Mix in sour cream. Cook until heated through.
 8. Remove from heat. Stir in chopped parsley before serving.
+
+_Tags: dairy-free, lunch, dinner, main_

@@ -52,4 +52,4 @@
 #### Using Rice instead of Cauliflower Rice
 1. 
 
-_Tags: gluten-free, dairy-free, paleo, 30 minutes, instant-pot, pressure cooker, casserole, hearty, vegetables, main_
+_Tags: gluten-free, dairy-free, paleo, 30 minutes, instant-pot, pressure cooker, casserole, hearty, vegetables, lunch, dinner, main_

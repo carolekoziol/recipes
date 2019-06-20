@@ -24,11 +24,7 @@ nav:
         - Placeholder:
             - Food: ''
     - Desserts:
-        - Cakes:
-            - Food: ''
-        - Cookies:
-            - Food: ''
-        - Baking:
+        - Placeholder:
             - Food: ''
     - Main Courses:
         - North American: 
@@ -38,19 +34,20 @@ nav:
             - General Tao Noodle Bowl: 'main_course/general_tao_noodle_bowl.md'
         - Casseroles:
             - Jambalaya: 'main_course/jambalaya.md'
-        - Curry: 
+        - Curry & Pad Thai: 
             - Coconut Chickpea Curry: 'main_course/coconut_chickpea_curry.md'
+            - Robyn's Thai Red Curry Chicken: 'main_course/robyn_thai_red_curry_chicken.md'
+            - Noodle-Free Pad Thai: 'main_course/noodle_free_pad_thai.md'
         - Stir-Fry: 
             - Food: ''
         - Indian:
             - Baingan Bharta: 'main_course/baingan_bharta.md'
             - Dairy-Free Butter Chicken: 'main_course/dairy_free_butter_chicken.md'
-            - Noodle-Free Pad Thai: 'main_course/noodle_free_pad_thai.md'
         - Pasta:
             - Cabbage Stroganoff: 'main_course/cabbage_stroganoff.md'
-        - Salads:
-            - Placeholder:
-                - Food: ''
+    - Salads:
+        - Placeholder:
+            - Food: ''
     - Sides:
         - Vegetable:
             - Aloo Palak: 'sides/aloo_palak.md'
