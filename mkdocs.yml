@@ -30,6 +30,7 @@ nav:
         - North American: 
             - Big Bhaji Burger: 'main_course/big_bhaji_burger.md'
             - Donair: 'main_course/donair.md'
+            - Roasted Cauliflower Steaks: 'main_course/roasted_cauliflower_steaks.md'
         - Bowls:
             - General Tao Noodle Bowl: 'main_course/general_tao_noodle_bowl.md'
         - Casseroles:
@@ -41,6 +42,7 @@ nav:
         - Stir-Fry: 
             - Food: ''
         - Indian:
+            - Aloo Mushroom Masala: 'main_course/mushroom_masala.md'
             - Baingan Bharta: 'main_course/baingan_bharta.md'
             - Dairy-Free Butter Chicken: 'main_course/dairy_free_butter_chicken.md'
         - Pasta:
@@ -71,7 +73,7 @@ nav:
         - Hot Soups:
             - Food: ''
         - Stews:
-            - Food: ''           
+            - Curried Bean+Brussels Stew with Roasted Squash: 'soups_stews/curried_bean_brussels_stew_squash'           
     - Sauces/Dips/Condiments:
         - Sauce:
             - Tomato-Based Pasta Sauce: 'sauces/standard_tomato_based_pasta_sauce.md'
