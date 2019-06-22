@@ -29,7 +29,7 @@ nav:
     - Main Courses:
         - North American: 
             - Big Bhaji Burger: 'main_course/big_bhaji_burger.md'
-            - Donair: 'main_course/donair.md'
+            
             - Roasted Cauliflower Steaks: 'main_course/roasted_cauliflower_steaks.md'
         - Bowls:
             - General Tao Noodle Bowl: 'main_course/general_tao_noodle_bowl.md'
@@ -39,6 +39,9 @@ nav:
             - Coconut Chickpea Curry: 'main_course/coconut_chickpea_curry.md'
             - Robyn's Thai Red Curry Chicken: 'main_course/robyn_thai_red_curry_chicken.md'
             - Noodle-Free Pad Thai: 'main_course/noodle_free_pad_thai.md'
+        - Mediterranean: 
+            - Donair: 'main_course/donair.md'
+            - Falafel: 'main_course/falafel.md'
         - Stir-Fry: 
             - Food: ''
         - Indian:
@@ -68,9 +71,7 @@ nav:
         - Rice:
             -  Food: ''
     - Soups & Stews:
-        - Cold Soups:
-            - Food: ''
-        - Hot Soups:
+        - Soups:
             - Food: ''
         - Stews:
             - Curried Bean+Brussels Stew with Roasted Squash: 'soups_stews/curried_bean_brussels_stew_squash'           

@@ -43,7 +43,7 @@
 
 Can be served as it is or over rice/quinoa/barley.
 
-### Recipe Notes
+### Notes
 To add hearty vegetables such as sweet potatoes, squash or cauliflower: 
 
 - Cut the veggies into bite-sized pieces. 

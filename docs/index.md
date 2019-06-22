@@ -2,4 +2,4 @@
 
 ![Catso](img/catso.JPG)
 
-A recipe collection for everyone! Feel free to adjust as you see fit.
+This is our recipe library that we collected and adjusted over the years! Feel free to adjust it as you see fit.
