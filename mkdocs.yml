@@ -29,21 +29,23 @@ nav:
     - Main Courses:
         - North American: 
             - Big Bhaji Burger: 'main_course/big_bhaji_burger.md'
-            
+            - Tofu Quiche: 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks: 'main_course/roasted_cauliflower_steaks.md'
         - Bowls:
             - General Tao Noodle Bowl: 'main_course/general_tao_noodle_bowl.md'
+            - Bibimbap: 'main_course/bibimbap.md'
+            - Loco Moco: 'main_course/loco_moco.md'
         - Casseroles:
             - Jambalaya: 'main_course/jambalaya.md'
         - Curry & Pad Thai: 
             - Coconut Chickpea Curry: 'main_course/coconut_chickpea_curry.md'
-            - Robyn's Thai Red Curry Chicken: 'main_course/robyn_thai_red_curry_chicken.md'
+            - Robyn Thai Red Curry Chicken: 'main_course/robyn_thai_red_curry_chicken.md'
             - Noodle-Free Pad Thai: 'main_course/noodle_free_pad_thai.md'
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
             - Falafel: 'main_course/falafel.md'
         - Stir-Fry: 
-            - Food: ''
+            - General Tao Chicken: 'main_course/general_tao_chicken.md'
         - Indian:
             - Aloo Mushroom Masala: 'main_course/mushroom_masala.md'
             - Baingan Bharta: 'main_course/baingan_bharta.md'
@@ -74,18 +76,22 @@ nav:
         - Soups:
             - Food: ''
         - Stews:
-            - Curried Bean+Brussels Stew with Roasted Squash: 'soups_stews/curried_bean_brussels_stew_squash'           
+            - Curried Bean and Brussels Stew with Roasted Squash: 'soups_stews/curried_bean_brussels_stew_squash.md'           
     - Sauces/Dips/Condiments:
         - Sauce:
             - Tomato-Based Pasta Sauce: 'sauces/standard_tomato_based_pasta_sauce.md'
 - Basics:
-    - Tofu:
-        - Soy tofu: ''
-        - Chickpea tofu: ''
-    - Tempeh: ''
-    - Sausage: ''
     - Broth:
         - Bone Broth: ''
         - Vegetable Broth: ''
+    - Fermentation:
+        - Kimchi: ''
+        - Sourkraut: ''    
+    - Sausage: ''
+    - Sourdough Starter: ''  
+    - Tofu:
+        - Soy tofu: ''
+        - Chickpea tofu: ''
+    - Tempeh: '' 
 - About:
     - 'Placeholder'

@@ -7,7 +7,7 @@
 
 ![Picture](../img/falafel.jpg)
 
-** Prep time: 12 hours? || Cook time: 40 minutes || Serving: 6 || Rating 10/10 **
+** Prep time: 12 hours || Cook time: 40 minutes || Serving: 6 || Rating 10/10 **
 
 ### Ingredients
 
@@ -76,12 +76,9 @@
 	
 Two ways to prepare your pita:
 
-1. Cut the pita bread in half to form two “pockets.” Each pocket is a serving size. Stuff the pocket with ingredients.
-2. Seperate the pita bread so you have two single round layer. Put one pita about half over the other pita.  Add your ingredients and then the falafels. Squished the falafel. Roll your pita. 
+1. Cut the pita pocket bread in half to form two “pockets.” Each pocket is a serving size. Stuff the pocket with ingredients.
+2. Seperate the two layers of the pita into two single round layer. Overlap half of one layer over the second layer. Add your ingredients and then the falafels. Squished the falafel. Roll your pita. 
  
-
-
-
 ### Notes
 - Makes 30-34 falafel balls. Serving size is roughly 5 falafels each. 
 - To make falafel, canned will not work since it need to be uncooked to be able to hold it together. Canned beans are already soaked and cooked so it will become mush.
