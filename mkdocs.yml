@@ -75,7 +75,9 @@ nav:
             -  Food: ''
     - Soups & Stews:
         - Soups:
-            - Food: ''
+            - Avgolemono Chicken Soup: 'soups_stews/avgolemono_chicken_soup.md'            
+            - French Canadian Pea Soup: 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
+            - Lentil Soup: 'soups_stews/lentil_soup.md'
         - Stews:
             - Curried Bean and Brussels Stew with Roasted Squash: 'soups_stews/curried_bean_brussels_stew_squash.md'           
     - Sauces/Dips/Condiments:

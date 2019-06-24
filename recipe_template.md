@@ -6,6 +6,7 @@
 ![V](https://img.shields.io/badge/-Vegetarian-orange.svg)
 ![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
 ![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
+![IP](https://img.shields.io/badge/-Instant%20pot-ff69b4.svg)
 
 ![Picture](../img/Link_to_picture)
 
