@@ -1,8 +1,9 @@
 ## Roasted Brussels Sprouts with Bacon and Apples
 
 [Original Recipe by Michele from Paleo Running Momma](https://www.paleorunningmomma.com/paleo-roasted-brussels-sprouts-whole30/)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 ![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
+![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
+![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
 
 ![Picture](../img/brussel_sprouts_bacon_apples.jpg)
 

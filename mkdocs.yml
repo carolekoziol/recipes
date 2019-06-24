@@ -15,8 +15,9 @@ nav:
         - Placeholder:
             - Food: ''
     - Breakfasts & Brunchs:
-        - Vegetables:
-            - Roasted Brussel Sprouts with Bacon and Apples: 'sides/roasted_brussel_sprouts_bacon_apples.md'
+        - Roasted Brussel Sprouts & Bacon (P, DF, GF) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
+        - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
+        - Oatmeal (DF, GF, Ve, V): 'breakfast/oatmeal.md'
     - Cheeses:
         - Placeholder:
             - Food: ''
@@ -28,15 +29,15 @@ nav:
             - Food: ''
     - Main Courses:
         - North American: 
-            - Big Bhaji Burger: 'main_course/big_bhaji_burger.md'
-            - Tofu Quiche: 'main_course/tofu_quiche.md'
-            - Roasted Cauliflower Steaks: 'main_course/roasted_cauliflower_steaks.md'
+            - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
+            - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
+            - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
         - Bowls:
-            - General Tao Noodle Bowl: 'main_course/general_tao_noodle_bowl.md'
+            - General Tao Noodle Bowl (Ve, GF): 'main_course/general_tao_noodle_bowl.md'
             - Bibimbap: 'main_course/bibimbap.md'
             - Loco Moco: 'main_course/loco_moco.md'
         - Casseroles:
-            - Jambalaya: 'main_course/jambalaya.md'
+            - Jambalaya (P, DF, GF): 'main_course/jambalaya.md'
         - Curry & Pad Thai: 
             - Coconut Chickpea Curry: 'main_course/coconut_chickpea_curry.md'
             - Robyn Thai Red Curry Chicken: 'main_course/robyn_thai_red_curry_chicken.md'

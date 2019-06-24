@@ -34,20 +34,21 @@
 1. Dice all your veggies and cut your choice of proteins. Set aside.  
 2. Trow your cauliflower in the food processor with the shredding attachment to rice the cauliflower.
 3. Cook the Jambalaya: 
+
     - Over the stove: 
-	  1. Heat a large pot over medium-high heat with olive oil.
-	  2. Add garlic until it becomes fragrant 
-	  3. Add onion and bell pepper to begin to cook down.
-	  4. Once the onion is translucent, add your cauliflower, broth, chicken and sausage. Mix together. Cover and let cook for about 5 minutes.
-	  5. Add the tomatoes, tomato paste, and spices. Stir to incorporate.
-	  6. Cover and let cook for another 5-8 minutes or until cauliflower is tender and meats are cooked through.
+		1. Heat a large pot over medium-high heat with olive oil.
+		2. Add garlic until it becomes fragrant 
+		3. Add onion and bell pepper to begin to cook down.
+		4. Once the onion is translucent, add your cauliflower, broth, chicken and sausage. Mix together. Cover and let cook for about 5 minutes.
+		5. Add the tomatoes, tomato paste, and spices. Stir to incorporate.
+		6. Cover and let cook until cauliflower is tender and meats are cooked through (about 5-8 minutes).
 	  
    - Instant pot: 
-      1. Heat the olive oil in the pot.
-	  2. Add garlic until it becomes fragrant 
-	  3. Add onion and bell pepper to begin to cook down.
-	  4. Once the onion is translucent, add your cauliflower, broth, the tomatoes, tomato paste, spices, protein source. Mix together.
-	  5. Close the lid and put the setting to Manual for 5 minutes. 
+		1. Heat the olive oil in the pot.
+		2. Add garlic until it becomes fragrant 
+		3. Add onion and bell pepper to begin to cook down.
+		4. Once the onion is translucent, add your cauliflower, broth, the tomatoes, tomato paste, spices, protein source. Mix together.
+		5. Close the lid and put the setting to Manual for 5 minutes. 
 	  
 #### Using Rice instead of Cauliflower Rice
 1. 

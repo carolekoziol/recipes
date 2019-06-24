@@ -1,7 +1,6 @@
-## Recipe Name
+## Oatmeal
 
 [Original Recipe](https://www.LINK_TO_RECIPE)
-![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
 ![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 ![V](https://img.shields.io/badge/-Vegetarian-orange.svg)
 ![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
@@ -13,8 +12,15 @@
 
 ### Ingredients
 
-- 
-
+- 1 cup rolled oats (steel cut oats will need to be cooked longer)
+- 2 cups milk (nut, soy, oat, etc.) or water
+- dash cinnamon 
+- dash salt
+- additions 
+	- dried fruits (apricots, raisins, cranberries, etc.)
+	- hard fruits (apples, pears, etc.)
+	- XX fruits (pineapples, oranges, bananas, blueberries, etc.)
+	
 ### Instructions
 
 1. 
