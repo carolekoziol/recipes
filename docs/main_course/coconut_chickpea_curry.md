@@ -1,8 +1,8 @@
 ## Coconut Chickpea Curry
 
 [Original Recipe by Shannon from Yup it's Vegan](https://yupitsvegan.com/easy-coconut-chickpea-curry/)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 ![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
+![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 
 ![Picture](../img/coconut_chickpea_curry.jpg)
 

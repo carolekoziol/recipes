@@ -16,7 +16,8 @@
 - 12 Shrimp (optional)
 - 2 garlic cloves, minced
 - 1 yellow onion, diced
-- 2 green bell pepper, diced, 1 inch
+- 2 green bell pepper, chopped, 1 inch
+- 10-12 mushrooms, chopped (optional)
 - 1 head cauliflower, riced (see instructions below if rather use brown rice instead)
 - 1 (6oz) can tomato paste
 - 1 (14oz) can diced tomatoes, undrained
@@ -39,7 +40,8 @@
 		1. Heat a large pot over medium-high heat with olive oil.
 		2. Add garlic until it becomes fragrant 
 		3. Add onion and bell pepper to begin to cook down.
-		4. Once the onion is translucent, add your cauliflower, broth, chicken and sausage. Mix together. Cover and let cook for about 5 minutes.
+		4. Once the onion is translucent add the mushrooms. Cook for 2-3 minutes.
+		5. Add your cauliflower, broth, chicken and sausage. Mix together. Cover and let cook for about 5 minutes.
 		5. Add the tomatoes, tomato paste, and spices. Stir to incorporate.
 		6. Cover and let cook until cauliflower is tender and meats are cooked through (about 5-8 minutes).
 	  

@@ -2,8 +2,8 @@
 
 [Original Recipe from Minimalist Baker](https://minimalistbaker.com/noodle-free-pad-thai-30-minutes/)
 ![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 ![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
+![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 
 ![Picture](../img/noodle_free_pad_thai.jpg)
 
