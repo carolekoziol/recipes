@@ -11,53 +11,31 @@
 
 ### Ingredients
 
-- 2 tablespoons olive oil or avocado oil
+- 2 tablespoons olive oil
 - 1 bay leaf
-3 medium carrots, 200 grams, cut into rounds
-3 stalks celery, chopped
-3 stalks green onion, chopped
-1 medium yellow or white onion, 100 grams, diced
-1 inch ginger, chopped
-3 large garlic cloves, minced
-14.5 oz can fire roasted tomatoes
-1/2 teaspoon cumin powder, or add more to taste
-1 teaspoon salt, or to taste
-1/4 teaspoon cayenne pepper, or to taste
-1/4 teaspoon ground black pepper, or to taste
-1 cup brown lentils, 200 grams
-5 cups vegetable broth or water
-4-5 sprigs thyme
-1.5 cups chopped kale
-1 lemon, juice of 
+- 3 medium carrots, chopped
+- 3 stalks celery, chopped
+- 3 stalks green onion, chopped
+- 1 medium onion, diced
+- 1 inch ginger, chopped
+- 3 large garlic cloves, minced
+- 1 can (14.5 oz) fire roasted tomatoes
+- 1/2 teaspoon cumin powder
+- 1 teaspoon salt
+- 1/4 teaspoon cayenne pepper
+- 1/4 teaspoon ground black pepper
+- 1 cup brown lentils
+- 5 cups broth or water
+- 4-5 sprigs thyme
+- 1.5 cups of greens, chopped (collard greens, spinach, kale)  
+- 1 lemon juice, to taste (optional)
 
 ### Instructions
 
-1. Heat 2 tablespoons of oil in a heavy bottom pan or dutch oven. Once the oil is hot add the bay leaf. Saute for few seconds and then add the carrot, celery, green onion, white onion, ginger and garlic.
-
-
-
-Cook the veggies for 4 to 5 minutes until softened.
-
-
-
-Then add a can of fire roasted tomatoes and mix well. Cook for 2 minutes and then add the cumin, salt, cayenne and black pepper and cook for another minute or so.
-
-
-
-Add the lentils and stir.
-
-Add the broth/water and sprigs of thyme to the pot.
-
-
-
-Mix well and let it all come to a boil. Let lower the heat to medium-low and let the soup simmer uncovered for around 25 to 30 minutes or until lentils are softened but still hold their shape.
-
-
-
-Stir in chopped kale and let it cook for another 2 to 3 minutes.
-
-
-
-Finally add in lemon juice, if using and mix.
-
-Serve this vegan lentil soup with with bread/brown rice.
+1. Heat 2 tablespoons of oil in a pot. Once the oil is hot, add the bay leaf. Saute for few seconds. 
+1. Add the carrot, celery, green onion, white onion, ginger and garlic. Saute until softened (about 4 to 5 minutes).
+1. Add a can of fire roasted tomatoes and stir. Cook for 2 minutes 
+1. Add the cumin, salt, cayenne and black pepper. Cook for about 1 minute.
+1. Add the lentils, broth and sprigs of thyme and stir. Bring it to a boil. then put to medium-low to simmer until lentils are softened but still hold their shape (about 30 minutes).
+1. Add greens and stir. Cook until the leaves are wilted (about 2 to 3 minutes).
+1. Add lemon juice, if using. Ztir.

@@ -6,8 +6,9 @@ theme: mkdocs
 nav:
 - Recipe Index:
     - Appetizers & Snacks:
-        - Placeholder:
-            - Food: ''
+        - Snacks:
+            - Fruity Coconut Popsicles (P, Ve, GF): 'appetizers_snacks/fruity_coconut_popsicles.md'
+            - Chocolate Nut Butter Banana Popsicles(P, Ve, GF): 'appetizers_snacks/chocolate_nut_butter_popsicles.md'
     - Beverages:
         - Placeholder:
             - Food: ''
@@ -58,28 +59,29 @@ nav:
             - Food: ''
     - Sides:
         - Vegetable:
-            - Aloo Palak: 'sides/aloo_palak.md'
-            - Grilled Onions: 'sides/grilled_onions.md'
-            - Mushroom spinach potstickers: 'sides/mushroom_spinach_potstickers.md'
-            - Roasted Brussel Sprouts with Bacon and Apples: 'sides/roasted_brussel_sprouts_bacon_apples.md'
-            - Roasted Butternut Squash: 'sides/roasted_butternut_squash.md'
-            - Roasted Maple Squash: 'sides/roasted_maple_squash.md'
-            - Roasted Radishes: 'sides/roasted_radishes.md'
-            - Squished Baby Potatoes: 'sides/squished_baby_potatoes.md'
-            - Stir Fry Bean Sprouts with Fried Garlic: 'sides/stir_fry_bean_sprouts.md'
-            - Succotash: 'sides/succotash.md'
-            - Zucchini Fritters: 'sides/zucchini_fritters.md'
+            - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
+            - Grilled Onions (Ve, P, GF): 'sides/grilled_onions.md'
+            - Mushroom spinach potstickers (Ve, P, GF): 'sides/mushroom_spinach_potstickers.md'
+            - Roasted Brussel Sprouts with Bacon and Apples (P, DF, GF): 'sides/roasted_brussel_sprouts_bacon_apples.md'
+            - Roasted Butternut Squash (Ve, P, GF): 'sides/roasted_butternut_squash.md'
+            - Roasted Maple Squash (Ve, P, GF): 'sides/roasted_maple_squash.md'
+            - Roasted Radishes (Ve, P, GF): 'sides/roasted_radishes.md'
+            - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
+            - Stir Fry Bean Sprouts with Fried Garlic (Ve, P, GF): 'sides/stir_fry_bean_sprouts.md'
+            - Succotash (Ve, GF): 'sides/succotash.md'
+            - Zucchini Fritters (Ve, P, GF): 'sides/zucchini_fritters.md'
         - Legumes:
-            - Baked Beans: 'sides/baked_beans_instant_pot.md'
+            - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
         - Rice:
             -  Food: ''
     - Soups & Stews:
         - Soups:
             - Avgolemono Chicken Soup: 'soups_stews/avgolemono_chicken_soup.md'            
-            - French Canadian Pea Soup: 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
-            - Lentil Soup: 'soups_stews/lentil_soup.md'
+            - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
+            - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
+            - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
         - Stews:
-            - Curried Bean and Brussels Stew with Roasted Squash: 'soups_stews/curried_bean_brussels_stew_squash.md'           
+            - Curried Bean and Brussels Stew with Roasted Squash (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'           
     - Sauces/Dips/Condiments:
         - Sauce:
             - Tomato-Based Pasta Sauce: 'sauces/standard_tomato_based_pasta_sauce.md'
@@ -89,7 +91,9 @@ nav:
         - Vegetable Broth: ''
     - Fermentation:
         - Kimchi: ''
-        - Sourkraut: ''    
+        - Sourkraut: ''
+        - Jun: ''
+        - Kombucha: ''        
     - Sausage: ''
     - Sourdough Starter: ''  
     - Tofu:
@@ -97,4 +101,4 @@ nav:
         - Chickpea tofu: ''
     - Tempeh: '' 
 - About:
-    - 'Placeholder'
+    - Measurements and conversions: ''
