@@ -36,10 +36,11 @@ nav:
             - Loco Moco: 'main_course/loco_moco.md'
         - Casseroles:
             - Jambalaya (P, DF, GF): 'main_course/jambalaya.md'
+            - Sausage and Slaw Skillet (P, GF): 'main_course/sausage_slaw_skillet.md'
             - Spanish Paella (Ve, GF): 'main_course/paella.md'
         - Curry & Pad Thai: 
             - Coconut Chickpea Curry (Ve, GF): 'main_course/coconut_chickpea_curry.md'
-            - Robyn Red Thai Curry Chicken: 'main_course/robyn_red_thai_curry_chicken.md'
+            - Robyn's Chicken Red Thai Curry (P, DF, GF): 'main_course/robyn_red_thai_curry_chicken.md'
             - Noodle-Free Pad Thai (Ve, P, GF): 'main_course/noodle_free_pad_thai.md'
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
@@ -47,9 +48,9 @@ nav:
         - Stir-Fry: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
         - Indian:
-            - Aloo Mushroom Masala: 'main_course/mushroom_masala.md'
-            - Baingan Bharta: 'main_course/baingan_bharta.md'
-            - Dairy-Free Butter Chicken: 'main_course/dairy_free_butter_chicken.md'
+            - Aloo Mushroom Masala (Ve, GF): 'main_course/mushroom_masala.md'
+            - Baingan Bharta (Ve, GF): 'main_course/baingan_bharta.md'
+            - Dairy-Free Butter Chicken (P, GF, DF): 'main_course/dairy_free_butter_chicken.md'
         - Pasta:
             - Cabbage Stroganoff: 'main_course/cabbage_stroganoff.md'
     - Salads:
