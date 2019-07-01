@@ -46,11 +46,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://carolekoziol.github.io/recipes/main_course/big_bhaji_burger/</loc>
      <lastmod>2019-06-30</lastmod>
      <changefreq>daily</changefreq>
@@ -96,7 +91,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/main_course/robyn_thai_red_curry_chicken/</loc>
+     <loc>https://carolekoziol.github.io/recipes/main_course/robyn_red_thai_curry_chicken/</loc>
      <lastmod>2019-06-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -236,8 +231,28 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://carolekoziol.github.io/recipes/soups_stews/succotash_chowder/</loc>
+     <lastmod>2019-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sauces/cheeze_sauce/</loc>
+     <lastmod>2019-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://carolekoziol.github.io/recipes/sauces/standard_tomato_based_pasta_sauce/</loc>
      <lastmod>2019-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
