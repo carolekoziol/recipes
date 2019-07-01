@@ -18,10 +18,7 @@ nav:
     - Breakfasts & Brunchs:
         - Roasted Brussel Sprouts & Bacon (P, DF, GF) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
-        - Oatmeal (DF, GF, Ve, V): 'breakfast/oatmeal.md'
-    - Cheeses:
-        - Placeholder:
-            - Food: ''
+        - Oatmeal (DF, GF, Ve, V): 'breakfast/oatmeal.md' 
     - Dehydrator:
         - Placeholder:
             - Food: ''
@@ -42,7 +39,7 @@ nav:
             - Spanish Paella (Ve, GF): 'main_course/paella.md'
         - Curry & Pad Thai: 
             - Coconut Chickpea Curry (Ve, GF): 'main_course/coconut_chickpea_curry.md'
-            - Robyn Thai Red Curry Chicken: 'main_course/robyn_thai_red_curry_chicken.md'
+            - Robyn Red Thai Curry Chicken: 'main_course/robyn_red_thai_curry_chicken.md'
             - Noodle-Free Pad Thai (Ve, P, GF): 'main_course/noodle_free_pad_thai.md'
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
@@ -82,9 +79,15 @@ nav:
             - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
             - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
         - Stews:
-            - Curried Bean and Brussels Stew with Roasted Squash (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'           
-    - Sauces/Dips/Condiments:
-        - Sauce:
+            - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
+        - Chowders:
+            - Succotash Chowder (Ve, GF): 'soups_stews/succotash_chowder.md'                   
+    - Sauces/Dips/Cheezes:
+        - Cheezes:
+            - Cheeze Sauce (Ve, GF): 'sauces/cheeze_sauce.md'
+        - Dips: 
+            - Food: ''
+        - Sauces:
             - Tomato-Based Pasta Sauce: 'sauces/standard_tomato_based_pasta_sauce.md'
 - Basics:
     - Broth:
@@ -96,6 +99,7 @@ nav:
         - Jun: ''
         - Kombucha: ''        
     - Sausage: ''
+    - Seitan: ''
     - Sourdough Starter: ''  
     - Tofu:
         - Soy tofu: ''

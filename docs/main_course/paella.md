@@ -8,9 +8,6 @@
 
 ![Picture](../img/vegan_paella.jpg)
 
-
-
-
 ** Total time: 50 minutes || Serving: 4 || Rating 9/10 **
 
 ### Ingredients
