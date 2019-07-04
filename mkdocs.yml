@@ -16,9 +16,10 @@ nav:
         - Placeholder:
             - Food: ''
     - Breakfasts & Brunchs:
+        - French Crepe With filling (V, DF): 'breakfast/french_crepe_filling.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
-        - Oatmeal (DF, GF, Ve, V): 'breakfast/oatmeal.md' 
+        - Oatmeal (Ve, V, DF, GF): 'breakfast/oatmeal.md' 
     - Dehydrator:
         - Placeholder:
             - Food: ''
@@ -52,7 +53,7 @@ nav:
             - Baingan Bharta (Ve, GF): 'main_course/baingan_bharta.md'
             - Dairy-Free Butter Chicken (P, GF, DF): 'main_course/dairy_free_butter_chicken.md'
         - Pasta:
-            - Cabbage Stroganoff: 'main_course/cabbage_stroganoff.md'
+            - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
     - Salads:
         - Placeholder:
             - Food: ''
@@ -71,6 +72,7 @@ nav:
             - Zucchini Fritters (Ve, P, GF): 'sides/zucchini_fritters.md'
         - Legumes:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
+            - BLack eyed peas Curry (Ve, GF): 'sides/black_eyed_peas_curry_instant_pot.md'
         - Rice:
             -  Food: ''
     - Soups & Stews:
