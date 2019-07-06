@@ -46,6 +46,8 @@ nav:
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
             - Falafel (Ve, GF): 'main_course/falafel.md'
+        - Mexican: 
+            - Flautas (VE, DF): 'main_course/flautas.md'            
         - Stir-Fry: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
         - Indian:
@@ -54,6 +56,7 @@ nav:
             - Dairy-Free Butter Chicken (P, GF, DF): 'main_course/dairy_free_butter_chicken.md'
         - Pasta:
             - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
+            - Dan Dan Jap Noodles (Ve): 'main_course/dan_japchae_noodles.md'
     - Salads:
         - Placeholder:
             - Food: ''
