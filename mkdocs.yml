@@ -56,7 +56,7 @@ nav:
             - Dairy-Free Butter Chicken (P, GF, DF): 'main_course/dairy_free_butter_chicken.md'
         - Pasta:
             - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
-            - Dan Dan Jap Noodles (Ve): 'main_course/dan_japchae_noodles.md'
+            - Dan Dan Chae Noodles (Ve): 'main_course/dan_japchae_noodles.md'
     - Salads:
         - Placeholder:
             - Food: ''
@@ -112,4 +112,4 @@ nav:
         - Chickpea tofu: ''
     - Tempeh: '' 
 - About:
-    - Measurements and conversions: ''
+    - Measurements Equivalent: 'measurements/measurements_conversions.md'
