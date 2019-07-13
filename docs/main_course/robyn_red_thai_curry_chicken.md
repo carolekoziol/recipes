@@ -14,7 +14,7 @@
 
 - 4 chicken quarters (~3.5lb), chopped in cubes
 - 1 (200g) eggplant, chopped
-- 70 grams spinach or collard greens, chopped
+- 70 grams spinach, chopped
 - 2 red bell pepper, slices lengthwise.
 - 4 cloves (10g) garlic, crushed
 - 1 (28g) shallot, chopped
@@ -34,7 +34,7 @@
 6. Add the chicken. If you like your eggplants really soft, you can layer the eggplants on top now. Close the lid and cook at High Pressure for 8 minutes + 10 minutes Natural Release. 
 7. Open the lid carefully. Set the chicken pieces aside in a large serving bowl. 
 8. Heat up your pressure cooker over medium heat (Instant Pot: press Cancel and Sauté). Add eggplant and bell peppers. Cook until desired firmness (for a few minutes). 
-9. Then stir in spinach/collard greens and allow to wilt.
+9. Then stir in spinach and allow to wilt.
 10. Taste and adjust the seasoning. Stir in 1-2 fresh basil leaves.
 
 Serve over rice.

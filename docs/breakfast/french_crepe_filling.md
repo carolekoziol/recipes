@@ -74,6 +74,3 @@ To serve, add some filling in a aline across the crepe along with whip creme and
 
 1. In a small pot over medium heat, combine and stir to dissolve: sugar, cornstarch, cinnamon, salt and cold water. 
 3. Stir-in the apples and lemon juice. Cook and stir often until the apples have softened and liquid has thickened (about 5 minutes).
-
-#### Orange suzette filling
-- 
