@@ -43,9 +43,25 @@ TO SERVE WITH(Optional)
 
 ### Donair Sauce 
 
-#### Dairy-free Donair sauce
+### - Dairy-free Donair sauce
 
-#### Classic Donair Sauce
+[Original Recipe by Mrs. Latter](http://atlanticcanadianfoodie.blogspot.com/2016/12/dairy-free-donair-sauce.html)
+
+- 1 cup/1 14 oz. can full-fat coconut milk, 
+	- for best result chilled the can overnight in the refrigerator
+- 1/4 cup sugar (honey, maple, sugar cane etc.)
+- 1/4 cup cooked white navy beans
+- 1 clove garlic
+- 2-3 teaspoon apple cider vinegar
+- 1 teaspoon salt
+
+	1. For best result chilled the coconut milk can overnight in the refrigerator to separate 		the fat from the liquid. By only using the coconut fat, the sauce will be thicker 		otherwise it will still be good but runny. 
+	2. In a small pot over meadium heat, mix in the fat of the coconut milk (which should be 		at the top of the can), sugar, and garlic. 
+	3. Bring to a simmer and add vinegar and beans and cook for about 5 minutes. 
+	4. Puree mixture with a blender or hand blender and if needed return to burner to thicken 		further. 
+	5. Season with salt to taste.
+
+### - Classic Donair Sauce
 
 - 1 (12 ounce) can sweetened condensed milk
 - 1-2 teaspoons garlic powder

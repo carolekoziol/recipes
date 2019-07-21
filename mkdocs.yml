@@ -29,6 +29,7 @@ nav:
     - Main Courses:
         - North American: 
             - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
+            - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
         - Bowls:
@@ -94,7 +95,9 @@ nav:
         - Dips: 
             - Food: ''
         - Sauces:
-            - Tomato-Based Pasta Sauce: 'sauces/standard_tomato_based_pasta_sauce.md'
+            - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'  
+            - Spaghetti Sauce (P, GF): 'sauces/spaghetti_sauce.md'
+            - Pizza Sauce (P, Ve, GF): 'sauces/pizza_sauce.md'
 - Basics:
     - Broth:
         - Bone Broth: ''
