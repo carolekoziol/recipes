@@ -27,19 +27,19 @@ This is a very versatile sauce that can be used in mac and cheese, nachos, pouti
 
 ### Instructions
 
-1. In a pot, combine potato and carrots, cober with water and bring to a boil over high heat. Reduce heat to medium and let it simmer until soft (about 20 minutes). 
+1. In a pot, combine potato and carrots, cover with water and bring to a boil over high heat. Reduce heat to medium and let it simmer until soft (about 20 minutes). 
 2. Reserve the liquid when you drain the carrots and potato when they are done. Set the liquid aside.
 3. In a blender, combine potato, carrots and milk. Blend on high until very smooth. 
 4. Add olice oil, salt, lemon juice, nutritional yeast, tapioca starch, onion powder, garlic powder, mustard powder and paprika; blend until very smooth. 
 5. Add reserved liquid, as necesary, until the consistency resembles cheese sauce. 
-6. Season to taste wuth salt and cayenne pepper, if using. 
+6. Season to taste with salt and cayenne pepper, if using. 
 
 Serve over your choice of meal.
 
 
 ### Turn Cheeze Sauce into Queso Dip
 
-1. Thin the sauce out with an aidditional 1/4 cup (60 mL) reserved liquid or unsweetened milk. 
+1. Thin the sauce out with an additional 1/4 cup (60 mL) reserved liquid or unsweetened milk. 
 2. Mix in with roasted salsa sauce (or diced small tomato, and finely chopped jalapeno or green chilies).
 
 Serve it your choice of meal. For example mix the sauce in mac and cheese or use it as a dip with tortilla chips. 

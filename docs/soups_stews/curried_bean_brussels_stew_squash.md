@@ -18,8 +18,8 @@
 - 1 large sweet onion, diced
 - 2 to 3 garlic cloves, crushed
 - 1 tablespoon finely chopped ginger
-- 2 cups chopped collard greens/kale (or 4 cups baby spinach)
-- 3/4 cup rice
+- 4 cups baby spinach (or 2 cups kale) 
+- 3/4 cup uncooked rice
 - 1 can coconut milk
 - 3 tablespoons melted coconut oil, (divided by 1 tablespoon and 2 tablespoon)
 - 3 to 4 bay leaves

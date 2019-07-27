@@ -1,4 +1,4 @@
-## Crêpe Francçaise avec garnitures (French Crepe with filling)
+## Crêpe Française avec garnitures (French Crepe with filling)
 
 [Original Recipe by Rachael](https://www.eazypeazymealz.com/dairy-free-crepes/) & [Original Recipe by Rowena Dumlao-Giardina](https://skinnyms.com/dairy-free-crepes/) 
 ![V](https://img.shields.io/badge/-Vegetarian-orange.svg)

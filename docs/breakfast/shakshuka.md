@@ -13,7 +13,7 @@
 
 - 1 tablespoon cooking fat (butter, ghee, oil)
 - 1 small onion, diced
-- 1 red bell pepper, diced
+- 1-2 red bell pepper, diced
 - 3-4 cloves garlic, minced
 - 2 chorizo or andouille sausage pre-cooked, chopped or ground (optional)
 - 28 oz can peeled plum tomatoes half drain and tomatoes roughly chopped
@@ -21,7 +21,7 @@
 - 3/4 tsp paprika
 - 1/2 tsp cumin
 - Dash cayenne, (optional for extra heat)
-- handful of fresh collard greens/spinach/kale, roughly chopped
+- handful of baby spinach/kale, roughly chopped
 - 6 eggs
 - Salt and pepper, to taste
 - Fresh parsley, chopped (for garnish)
@@ -34,8 +34,9 @@
 4. Add the bell peppers peppers for a few minutes. 
 5. Add the garlic and sausage. Cook and stir until the sausage begins to brown (about 2-3 min.).
 6. Add the tomatoes and spices and simmer for 5-8 min. until the sauce thickens.
-7. Stir in the chopped collard greens and cook until they wilts.
-8. Create 6 spaces in the mixture (evenly space) and crack each egg right into the skillet, careful not to break the yolks. 
+7. Stir in the chopped spinach and cook until they wilts.
+8. Create 6 divots in the mixture (evenly space) and slide gently each egg right into the skillet, careful not to break the yolks.
+	- To easily slide the egg intact, crack one egg at a time into a small bowl/1 cup and then pour it gently into the divots mixture.
 9. Sprinkle the eggs with salt and bake in the oven for 10-15 min. until eggs are cooked to preference. 
 10. Garnish with chopped parsley before serving hot. 
 

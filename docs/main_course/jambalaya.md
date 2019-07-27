@@ -13,10 +13,10 @@
 
 - 2 sausage, sliced
 - 2 chicken breasts, 1 inch cubed
-- 12 Shrimp (optional)
+- 12 shrimps (optional)
 - 2 garlic cloves, minced
 - 1 yellow onion, diced
-- 2 green bell pepper, chopped, 1 inch
+- 2 green bell peppers, chopped, 1 inch
 - 10-12 mushrooms, chopped (optional)
 - 1 head cauliflower, riced (see instructions below if rather use brown rice instead)
 - 1 (6oz) can tomato paste

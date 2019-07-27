@@ -13,8 +13,7 @@ nav:
         - Placeholder:
             - Food: ''
     - Breads:
-        - Placeholder:
-            - Food: ''
+        - Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
     - Breakfasts & Brunchs:
         - French Crepe With filling (V, DF): 'breakfast/french_crepe_filling.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
@@ -30,6 +29,7 @@ nav:
         - North American: 
             - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
             - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
+            - Pizza (Ve, P, GF, DF): ''
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
         - Bowls:
