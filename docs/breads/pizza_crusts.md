@@ -1,23 +1,25 @@
-## Pizza Crusts
+## Type of Pizza Crusts
 
-[Original Recipe from King Arthur Flour](Link)
-![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
-![V](https://img.shields.io/badge/-Vegetarian-orange.svg)
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
+### 1. All Purpose Wheat Pizza Crust
 
-![Picture](../img/Link_to_picture)
+[Original Recipe from ]()
 
-** Prep time: XX minutes || Cook time: XX minutes || Serving: X **
+![Picture](../img/)
 
-### Sourdough Pizza Crust 
+** Prep time: 15 minutes || Cook time: 10 minutes || Serving: two 12" rounds baking sheets **
+
+#### Ingredients
+
+#### Instructions
+
+
+### 2. Sourdough Pizza Crust 
 
 [Original Recipe from King Arthur Flour](https://www.kingarthurflour.com/recipes/sourdough-pizza-crust-recipe)
 
 ![Picture](../img/sourdough_pizza_crust.jpg)
 
-** Prep time: 2-4 hours || Cook time: 20 minutes || Serving: two 12" rounds baking sheets **
+** Prep time: 2-4 hours || Cook time: 20 minutes || Serving: two 12" rounds baking sheets || Rating: 10/10 **
 
 #### Ingredients
 
@@ -45,13 +47,13 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 
 8. Bake the crust until it become partially cook (about 10 minutes). Then add the sauce and choice of toppings. Return to the oven and bake until the cheese is melt (about 5 to 7 min.).
 
-### Paleo Pizza Crust (Grain-Free & Dairy-Free)
+### 3. Paleo Pizza Crust (Yeast-Free, Grain-Free & Dairy-Free)
 
 [Original Recipe from Paleo Running Momma](https://www.paleorunningmomma.com/paleo-pizza-crust-grain-free-dairy-free/)
 
 ![Picture](../img/paleo_pizza_crust.jpg)
 
-** Prep time: 15 minutes || Cook time: 10 minutes || Serving: two 12" rounds baking sheets **
+** Prep time: 15 minutes || Cook time: 10 minutes || Serving: 1 10" to 12" baking sheets || Rating: X/10 **
 
 #### Ingredients
 
@@ -69,24 +71,49 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 
 #### Instructions
 
-Preheat your oven to 450 degrees and line a baking sheet (round if you prefer) with parchment paper
-In a large mixing bowl, combine the almond flour, tapioca or arrowroot, 3 Tbsp of the coconut flour, onion and garlic powder, Italian seasoning, and salt. Stir well to fully combine.
-In a measuring cup, combine the water, oil, and vinegar , then pour into the dry mixture and stir with a wooden spoon until a dough forms.
-Now stir in the whisked egg to combine well. Once you have a sticky mixture, you will slowly add the remaining coconut flour. I recommend adding a Tbsp at a time and mixing well, allowing the dough to sit a bit after each Tbsp to absorb the liquid, until you have a dough that's still a bit sticky yet able to be spread out. Don't add more than 3 additional Tbsp of coconut flour in this step, even if the dough seems sticky to work with - you can use extra tapioca to help spread it out.
-Sprinkle extra tapioca or arrowroot on your parchment lined baking sheet, transfer the dough to the sheet and sprinkle with more tapioca/arrowroot. Work the dough into a 10 inch circle (12 for a very thin crust), then bake in the preheated oven for 10-15 minutes depending on how crisp you want the crust. I baked mine for about 10 minutes before adding my toppings, and baking again. Bake time will depend on the toppings you plan to add, how crispy you want the crust, and how thin you spread it out.
-Top your crust however you like! Enjoy!
+1. Preheat your oven to 450 degrees. 
 
-### Bell Pepper Pizza Crust
+2. In a large mixing bowl, combine the almond flour, tapioca or arrowroot, 3 Tbsp of the coconut flour, onion and garlic powder, Italian seasoning, and salt. Stir well to fully combine.
+
+3. In a small bowl, combine the water, oil, and vinegar. Then pour into the dry mixture and stir with a wooden spoon until a dough forms.
+
+4. Stir in the whisked egg to combine well. Once you have a sticky mixture, slowly add the remaining coconut flour. Add a tablespoon at a time and mixing well, until the dough is still a bit sticky yet able to be spread out. 
+	- Don't add more than 3 additional tablespoon of coconut flour in this step, even if the dough seems sticky to work with - you can use extra tapioca to help spread it out.
+
+5. Sprinkle extra tapioca or arrowroot on your parchment lined baking sheet, transfer the dough to the sheet and sprinkle with more tapioca/arrowroot. Work the dough into a 10 inch circle (12 for a very thin crust), 
+
+6. Bake in the preheated oven for 10-15 minutes depending on how crisp you want the crust. Then add your toppings and bake again for another 5-10 minutes.  
+
+### 4. Bell Pepper Pizza Crust
 
 [Original Recipe from Paleo Leap](https://paleoleap.com/bell-pepper-pizza-bites/)
 
 ![Picture](../img/)
 
-** Prep time: 15 minutes || Cook time: 10 minutes || Serving: two 12" rounds baking sheets **
+** Prep time: 20 minutes || Cook time: 15 minutes || Serving: 2 || Rating: 10/10**
 
 #### Ingredients
 
+- 2 green bell peppers
+- 1/2 cup homemade pizza sauce
+- Pepperoni, sliced
+- Mushrooms, sliced
+- Tomatoes, diced
+- ¼ cup cheese (almond, sunflowers etc. or go without)
+- Fresh parsley
+- Sea salt and black pepper
+
 #### Instructions
+
+1. Preheat your oven to 400 F.
+
+2. Slice each bell pepper into 4 equal slices, carefully removing the seeds.
+
+3. Top each pepper quarter with pizza sauce and your choice of toppings.
+
+4. Place the pizza on a baking sheet, and place in the oven.
+
+5. Bake for 12 to 15 minutes. Stick them under the broiler and broil on high for 3 to 4 more minutes.
 
 ### Eggplant Pizza Crust
 
