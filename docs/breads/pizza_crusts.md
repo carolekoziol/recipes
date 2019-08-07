@@ -75,14 +75,14 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 - 2 1/4 teaspoons active dry yeast (or 1 3/4 teaspoons instant yeast)
 - 1 egg at room temperature, beaten
 - 1/2 teaspoon kosher salt, plus a pinch for sprinkling
-- 1 1/2 cups (180 g) tapioca flour, divided, plus more for dusting
+- 1 1/2 cups and 1/4 cup tapioca flour, divided, plus more for dusting
 - 1 cup (120 g) almond flour, plus more as needed
 
 #### Instructions
 
 1. In a large bowl: 
 	1. Combine the water, olive oil, and honey and whisk to combine well. Sprinkle the yeast on top and let it sit for about 5 minutes, until foamy. 
-	2. Whisk in the egg. Add the salt and tapioca flour and whisk until a smooth, sticky batter forms. 
+	2. Whisk in the egg. Add the salt and 1 1/2 cups of tapioca flour and whisk until a smooth, sticky batter forms. 
 	3. Stir in the almond flour, and then stir in the remaining tapioca flour. The dough should appear shaggy.
 	4. Dust your hands with a little tapioca flour and put the dough into a ball, kneading it a bit to get any floury bits mixed in. 
 		- If it’s too sticky to come together, add additional almond flour a tablespoons at a time. 
