@@ -1,9 +1,6 @@
 ## Avgolemono Greek Chicken Soup
 
 [Original Recipe by The Mediterranean Dish](https://www.themediterraneandish.com/avgolemono-soup-recipe/)
-![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
 
 ![Picture](../img/avgolemono_soup.jpg)
 

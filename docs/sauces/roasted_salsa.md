@@ -9,10 +9,10 @@
 ### Ingredients
 
 - 2 pounds Roma tomatoes, halves
-- 1 jalapeño pepper, halves
+- 1 jalapeño pepper, halves (spicy; optional)
 - 1 large white onion, cut in quarted or halves (depend on the side of the onion)
 - 3 garlic cloves
-- 1/2 bunch cilantro
+- 1/2 bunch cilantro (optional)
 - 1 tablespoon lime/lemon juice
 - 1/4 teaspoon cumin
 - 1/2 teaspoon oregano
