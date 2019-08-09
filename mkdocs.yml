@@ -29,6 +29,7 @@ nav:
         - North American: 
             - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
             - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
+            - Paleo Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
             - Pizza (Ve, P, GF, DF): ''
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
@@ -96,7 +97,7 @@ nav:
             - Buffalo Chicken Dip (P, DF, GF): 'sauces/buffalo_chicken_dip.md'
             - Cretons (P, DF, GF): 'sauces/cretons.md'
             - Roasted Salsa (P, Ve, GF): 'sauces/roasted_salsa.md'
-            - Vegan Spinach Artichoke Dip (Ve, GF): 'sauces/vegan_spinach_artichoke_dip.md'
+            - Vegan Spinach Dip (Ve, GF): 'sauces/vegan_spinach_dip.md'
         - Sauces:
             - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'  
             - Pizza Sauce (P, Ve, GF): 'sauces/pizza_sauce.md'

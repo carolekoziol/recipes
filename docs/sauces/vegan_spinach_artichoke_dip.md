@@ -1,4 +1,4 @@
-## Vegan Spinach Artichoke Dip
+## Vegan Spinach Dip
 
 [Original Recipe](https://www.LINK_TO_RECIPE)
 
