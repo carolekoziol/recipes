@@ -176,15 +176,40 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 
 ### 7. Cheese Pizza Crust
 
-[Original Recipe from ]()
+[Original Recipe from Ruledme ](https://www.ruled.me/low-carb-pepperoni-pizza/)
 
-![Picture](../img/)
+![Picture](../img/cheese_pizza_crust.jpg)
 
-** Prep time: 15 minutes || Cook time: 10 minutes || Serving: two 12" pizzas **
+** Prep time: 5 minutes || Cook time: 15 minutes || Serving: 9" pizza **
 
 #### Ingredients
 
+- 2 cups (~8 oz.) mozzarella cheese
+- 3/4 cup almond flour
+- 1 tablespoon psyllium husk powder
+- 3 tablespoons (~1.5 oz.) cream cheese
+- 1 large egg
+- 1 tablespoon Italian seasoning
+- 1/2 teaspoon salt
+- 1/2 teaspoon pepper
+- 1 teaspoon olive oil (to work with the dough)
+
 #### Instructions
+
+1. Preheat oven to 400F. 
+2. Add mozzarella cheese in a microwave safe bowl.
+3. Microwave the cheese until fully melted and pliable about 90 seconds.
+	- Try not to have browning (or very lightly) since browned cheese will go hard. This took me
+4. Add in the cream cheese and egg to the cheese mixture. Mix in well. 
+5. Mix in the almond flour, psyllium husk powder, Italian seasoning, salt and pepper to the cheese mixture.
+6. As you mix the dough, it should become cool enough to work with your hands. Knead the dough together until you can form a round ball.
+7. Plop the ball onto a silpat with olive oil to keep it easy to work with. Press the dough out with your hands, forming a circular pattern as you press outward.
+8. Bake the pizza crust for 10 minutes on one side and remove from the oven.
+	- Bake the pizza crust on an upside down cookie sheet – this allows for the pizza to spread out slightly without being constricted by the edges of the cookie sheet.
+9. Flip the pizza crust to the other side and bake for another 2-4 minutes.
+10. Once the crust is bake, remove it from the oven. Add toppings of your choice. 
+11. Place in the oven and cook until done (about 10 minutes). 
+
 
 ### 8. Buffalo Chicken Pizza Crust
 
@@ -213,3 +238,5 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 6. Bake for 25 minutes, or until the crust is cooked through and starting to brown on top.
 7. Once the crust is baked, remove it from the oven. Add the pizza sauce and the choice of toppings.
 8. Cook for another 10 minutes, until the cheese is melted and starts to brown.
+
+
