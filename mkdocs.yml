@@ -6,6 +6,9 @@ theme: mkdocs
 nav:
 - Recipe Index:
     - Appetizers & Snacks:
+        - Appetizers:
+            - Bruschetta (Ve, DF): 'appetizers_snacks/bruschetta.md'
+            - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
         - Snacks:
             - Fruity Coconut Popsicles (P, Ve, GF): 'appetizers_snacks/fruity_coconut_popsicles.md'
             - Chocolate Nut Butter Banana Popsicles(P, Ve, GF): 'appetizers_snacks/chocolate_nut_butter_popsicles.md'
@@ -13,7 +16,8 @@ nav:
         - Placeholder:
             - Food: ''
     - Breads:
-        - Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
+        - Italian Pizza Dough (Ve, P, GF, DF): 'breads/italian_pizza_dough.md'
+        - North American Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
     - Breakfasts & Brunchs:
         - French Crepe With filling (V, DF): 'breakfast/french_crepe_filling.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
@@ -49,7 +53,10 @@ nav:
             - Donair: 'main_course/donair.md'
             - Falafel (Ve, GF): 'main_course/falafel.md'
         - Mexican: 
-            - Flautas (VE, DF): 'main_course/flautas.md'            
+            - Flautas (VE, DF): 'main_course/flautas.md'
+        - Pizza: 
+            - North American Pizzas: 'main_course/pizza.md'
+            - Italian styled Pizzas: 'main_course/italian_pizza.md'            
         - Stir-Fry: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
         - Indian:
@@ -74,6 +81,8 @@ nav:
             - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
             - Stir Fry Bean Sprouts with Fried Garlic (Ve, P, GF): 'sides/stir_fry_bean_sprouts.md'
             - Succotash (Ve, GF): 'sides/succotash.md'
+            - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
+            - Italian Style Zucchini and Mushroom (P, Ve, GF): 'appetizers_snacks/italian_zucchini_mushrooms.md'
             - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'
         - Beans:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
@@ -99,6 +108,7 @@ nav:
             - Roasted Salsa (P, Ve, GF): 'sauces/roasted_salsa.md'
             - Vegan Spinach Dip (Ve, GF): 'sauces/vegan_spinach_dip.md'
         - Sauces:
+            - Authentic Italian Tomato Sauce (P, Ve, GF): 'sauces/italian_tomato_sauce.md'  
             - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'  
             - Pizza Sauce (P, Ve, GF): 'sauces/pizza_sauce.md'
             - Spaghetti Sauce (P, GF): 'sauces/spaghetti_sauce.md'
@@ -110,9 +120,11 @@ nav:
         - Kimchi: ''
         - Sourkraut: ''
         - Jun: ''
-        - Kombucha: ''        
+        - Kombucha: ''      
+    - Pasta:
+        - Authentic Italian Egg Pasta: ''
+        - Authentic Italian Gnocchi: ''  
     - Sausage: ''
-    - Seitan: ''
     - Sourdough Starter: ''  
     - Tofu:
         - Soy tofu: ''

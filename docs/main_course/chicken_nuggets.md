@@ -25,8 +25,10 @@
 #### Instructions
 
 1. Use a meat grinder to process the chicken breasts and livers into ground meat into a "paste".
+	- You have to re-passed the ground meat twice or three time through the meat grinder before it become a paste.
+	- really work the aste to mash it more otherwise it will become a meatball instead of a nugget.
 2. Add seasoning and mix well.
-3. Roll meat paste into nugget size pieces (smaller than a golf ball) and place on a baking sheet.
+3. Roll meat paste into nugget size pieces (half the size of a golf ball) and place on a baking sheet.
 4. In one medium side dish, mix in the arrowroot flour, salt and pepper. 
 5. In the second medium side dish, add beaten eggs.
 6. Dip nuggets in egg mix and then into the arrowroot flour mix. Coat well and place back on cookie sheet. Continue until all the chicken nuggets are breaded.
@@ -67,7 +69,9 @@ Serve and enjoy!
 #### Instructions
 
 1. Use a meat grinder to process the chicken breasts and livers into ground meat into a "paste".
-2. Roll meat paste into nugget size pieces (smaller than a golf ball) and place them aside.
+	- You have to re-passed the ground meat twice or three time through the meat grinder before it become a paste.
+	- Really work the aste to mash it more otherwise it will become a meatball instead of a nugget.
+2. Roll meat paste into nugget size pieces (half the size of a golf ball) and place them aside.
 3. In a small bowl, beat the egg and mix in the water.
 4. In a medium side dish mix in the flour, salt, pepper, onion powder, garlic powder and MSG.
 5. Lightly coat each nugget and place them in the egg mixture and coat well.
