@@ -102,10 +102,15 @@ nav:
     - Sauces/Dips/Cheezes:
         - Cheezes:
             - Cheeze Sauce (Ve, GF): 'sauces/cheeze_sauce.md'
+            - Vegan Mozarella (Ve, GF, P, GF): 'sauces/vegan_mozarella.md'
+            - Vegan Parmesan (Ve, GF, P, GF): 'sauces/vegan_parmesan.md'
+            - Vegan Ricotta (Ve, GF, P, GF): 'sauces/vegan_ricotta.md'
+            - Vegan Sour Cream (Ve, GF, P, GF): 'sauces/vegan_sour_cream.md'
         - Dips:
             - Buffalo Chicken Dip (P, DF, GF): 'sauces/buffalo_chicken_dip.md'
             - Cretons (P, DF, GF): 'sauces/cretons.md'
             - Roasted Salsa (P, Ve, GF): 'sauces/roasted_salsa.md'
+            - Spinach artichoke dip (Ve, GF, P, GF): 'sauces/spinach_artichoke_dip.md'
             - Vegan Spinach Dip (Ve, GF): 'sauces/vegan_spinach_dip.md'
         - Sauces:
             - Authentic Italian Tomato Sauce (P, Ve, GF): 'sauces/italian_tomato_sauce.md'  
