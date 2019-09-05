@@ -8,7 +8,7 @@
 
 ![Picture](../img/)
 
-** Prep time: 5 minutes|| Freeze time: 6-8 hours || Serving: 10-12 popsicles (It the right yield for the silicone mold) **
+** Prep time: 5 minutes || Freeze time: 6-8 hours || Serving: 10-12 popsicles (This is the right yield for the silicone molds) **
 
 ### Ingredients
 
@@ -16,19 +16,19 @@ Option 1
 
 - 2 medium bananas, sliced and frozen
 - 1 can full-fat coconut milk (13.66 oz.)
-- 1 cup frozen fruits (bleuberry, mango, or strawberry etc.)
+- 1 cup frozen fruit (bleuberry, mango, or strawberry, etc.)
 - 2–3 tablespoons pure maple syrup
 
 Option 2
 
 - 1 can full-fat coconut milk (13.66 oz.)
-- 3 cups fresh/frozen fruits
+- 3 cups fresh/frozen fruit
 - 2–3 tablespoons pure maple syrup
 
 ### Instructions
 
-1. Add bananas and coconut milk to a blender. Blend until smooth. 
-2. Add strawberries and maple syrup. Blend until smooth, a.
+1. Add bananas (if using option 1) and coconut milk to a blender. Blend until smooth. 
+2. Add fresh/frozen fruit and maple syrup. Blend until smooth.
 3. Pour this mixture into a popsicle mold. Make sure to leave about ¼” of space at the top of the mold to allow the popsicles to expand in the freezer. 
 4. Freeze for 6-8 hours.
 

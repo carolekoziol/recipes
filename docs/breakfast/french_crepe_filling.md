@@ -18,10 +18,10 @@
 - 1-1/4 tablespoons olive oil, divided
 
 - Filling of your choice (optional)
-- whip creame (optional)
+- whipped cream (optional)
 - Maple Syrup
 
-Note: This batter can be prepare the day before and let it rest in the fridge overnight.
+Note: This batter can be prepared the day before and allowed to rest in the fridge overnight.
 
 ### Crepe Instructions
 
@@ -34,14 +34,14 @@ Note: This batter can be prepare the day before and let it rest in the fridge ov
 5. Cook for approximately 45 seconds, then flip and cook for another 30 seconds.
 6. Transfer the crepe aside and cook the rest of the batter. 
 
-To serve, add some filling in a aline across the crepe along with whip creme and roll up. Drizzle maple syrup on top. 
+To serve, add some filling in a a line across the crepe along with whipped cream and roll up. Drizzle maple syrup on top. 
 
 
 ### Filling Instructions
 
 #### Berry Filling
 
-- 2 cups blueberries (can substitute with: any or all berries: blueberry, strawberry, raspberry, cherry)
+- 2 cups blueberries (can substitute with: any or all berries: strawberry, raspberry, or even cherries, or other fruits)
 - sugar (honey or maples), to taste
 - 2 tablespoons cornstarch
 - lemon juice, to taste
@@ -72,5 +72,5 @@ To serve, add some filling in a aline across the crepe along with whip creme and
 - 2 tablespoons cornstarch
 - 2 tablespoon of cold water
 
-1. In a small pot over medium heat, combine and stir to dissolve: sugar, cornstarch, cinnamon, salt and cold water. 
-3. Stir-in the apples and lemon juice. Cook and stir often until the apples have softened and liquid has thickened (about 5 minutes).
+1. In a small pot over medium heat, combine and stir to dissolve the sugar, cornstarch, cinnamon, salt and cold water. 
+3. Stir in the apples and lemon juice. Cook and stir often until the apples have softened and liquid has thickened (about 5 minutes).

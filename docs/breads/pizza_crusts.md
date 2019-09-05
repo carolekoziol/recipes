@@ -20,10 +20,10 @@
 
 1. In a large bowl, combine the water, yeast and sugar. Let stand until the mixture foams on top, about 5 minutes.
 2. In a food processor work with the plastic blade or the dough hook. Combine the flour and salt. Increase the speed to medium and add the yeast mixture until a soft ball forms.
-	- If you don’t have a food processor, make a well in the flour and salt and pour the liquids to the center. Work with your fingers gradually adding dry ingredients to the liquids.
+	- If you don’t have a food processor, make a well in the flour and salt and pour the liquids in the center. Work with your fingers gradually adding dry ingredients to the liquids.
 3. Remove the dough from the bowl and knead for a few minutes on a floured surface to prevent sticking.
 4. Place in a lightly oiled bowl and cover with a clean cloth. Let the dough rise for about 30 minutes. Cut the dough in half.
-	- Use the pizza dough immediately or refrigerate it (less than 48 hours),or place it in an airtight bag and freeze.
+	- Use the pizza dough immediately or refrigerate it (less than 48 hours), or place it in an airtight bag and freeze.
 5. Preheat your oven to 450°F.
 6. On a lightly floured work surface, roll out one piece of dough into an 8 inch disc. 
 7. Add the pizza sauce and your choice of toppings.
@@ -55,9 +55,9 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 4. Divide the dough in half, and shape each into a flattened disk. Drizzle two 12" round pizza pans with olive oil, and brush to coat the bottom. Place the dough in the pans, cover, and let rest for 15 minutes. After this rest, gently press the dough toward the edges of the pans. If it starts to shrink back, cover and let rest for 15 minutes before continuing.
 6. Cover the pan and let the dough rise until it's as thick as you like.
 7. Towards the end of the rise time, preheat your oven to 450°F.
-8. Bake the crust until it become partially cook (about 10 minutes). 
+8. Bake the crust until it become partially cooked (about 10 minutes). 
 9. Add the pizza sauce and choice of toppings. 
-10. Bake until the cheese is melt (about 5 to 7 min.).
+10. Bake until the cheese has melted (about 5 to 7 min.).
 
 ### 3. Authentic Paleo Pizza Crust
 
@@ -85,11 +85,11 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 	2. Whisk in the egg. Add the salt and 1 1/2 cups of tapioca flour and whisk until a smooth, sticky batter forms. 
 	3. Stir in the almond flour, and then stir in the remaining tapioca flour. The dough should appear shaggy.
 	4. Dust your hands with a little tapioca flour and put the dough into a ball, kneading it a bit to get any floury bits mixed in. 
-		- If it’s too sticky to come together, add additional almond flour a tablespoons at a time. 
+		- If it’s too sticky to come together, add additional almond flour a tablespoon at a time. 
 	5. Return the ball of dough to the bowl, cover it with plastic wrap, and set it in a warm place for 45 minutes.
-2. Preheat the oven to 375°F and get the backing sheet ready.
+2. Preheat the oven to 375°F and get the baking sheet ready.
 3. On a lightly floured work surface, roll out one piece of dough into an 9 inch disc. Brush the top of the dough with a little bit of olive oil and sprinkle with salt.
-	- if you want puffy rim of crust: pushing out the dough toward the edges. 
+	- if you want puffy rim of crust: push out the dough toward the edges. 
 4. Bake for 8 minutes. Remove the dough from the oven, prick the middle of the dough in several places with a fork. 
 5. Add the pizza sauce and your choices of toppings. 
 6. Bakes until ready (about 5 minutes). Set the oven to broil and broil the pizza for up to two minutes until browned to your liking. 
@@ -131,7 +131,7 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 
 #### Ingredients
 
-- 1 eggplants, unpeeled, slice crosswise or lenghtwise into 1/4-inch-thick
+- 1 eggplants, unpeeled, slice crosswise or lengthwise into 1/4-inch-thick
 - 1/2 cup homemade pizza sauce
 - toppings, uncooked (meat toppings have to be already cook) 
 
@@ -151,7 +151,7 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 		6. Add the pizza sauce and your choice of toppings.
 		7. Return the pan to the oven. Broil until ready (about 2-3 minutes, until cheese is melted). 
 	- Baked: 
-		1. Brine the eggplant slices(it to draw out the bitterness and keep the shape of the eggplant) 
+		1. Brine the eggplant slices(to draw out the bitterness and keep the shape of the eggplant) 
 			- Fill a large bowl with 1 tablespoon salt and about 1/2 cup hot water. Stir until salt dissolves completely.
 			- Fill the bowl with about 2 quarts cold water. The water should taste salty.
 			- Completly submerge the eggplants in the salted water for at least 30 minutes up to 1 hour.
@@ -199,16 +199,15 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 1. Preheat oven to 400F. 
 2. Add mozzarella cheese in a microwave safe bowl.
 3. Microwave the cheese until fully melted and pliable about 90 seconds.
-	- Try not to have browning (or very lightly) since browned cheese will go hard. This took me
+	- Try not to have browning (or very lightly) since browned cheese will go hard.
 4. Add in the cream cheese and egg to the cheese mixture. Mix in well. 
 5. Mix in the almond flour, psyllium husk powder, Italian seasoning, salt and pepper to the cheese mixture.
 6. As you mix the dough, it should become cool enough to work with your hands. Knead the dough together until you can form a round ball.
 7. Plop the ball onto a silpat with olive oil to keep it easy to work with. Press the dough out with your hands, forming a circular pattern as you press outward.
-8. Bake the pizza crust for 10 minutes on one side and remove from the oven.
-	- Bake the pizza crust on an upside down cookie sheet – this allows for the pizza to spread out slightly without being constricted by the edges of the cookie sheet.
+8. Bake the pizza crust on an upside down cookie sheet for 10 minutes – this allows for the pizza to spread out slightly without being constricted by the edges of the cookie sheet.
 9. Flip the pizza crust to the other side and bake for another 2-4 minutes.
-10. Once the crust is bake, remove it from the oven. Add toppings of your choice. 
-11. Place in the oven and cook until done (about 10 minutes). 
+10. Once the crust is baked, remove it from the oven. Add toppings of your choice. 
+11. Return to the oven and cook until done (about 10 minutes). 
 
 
 ### 8. Buffalo Chicken Pizza Crust
@@ -221,7 +220,7 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 
 #### Ingredients
 
-- 1 pound boneless and skinless chicken thighs
+- 1 pound boneless and skinless chicken thighs (or ground meat of choice)
 - 1 cup shredded whole milk mozzarella
 - 1 large egg
 - 1 teaspoon dried oregano

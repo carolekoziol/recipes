@@ -18,11 +18,13 @@
 
 ### Instructions
 
-1. Roasted red peppers at 400F for about 20 minutes. After roasting for 10 minutes, turned side. 
-2. Tear the peppers into strips, and place in a bowl.
+1. Roast the red peppers at 400F for about 20 minutes, flipping after roasting 10 minutes.
+2. Place the peppers into a bowl, and cover tightly with plastic wrap. Allow the peppers to steam for 10 minutes.
+3. Remove the skins from the peppers. 
+2. Slice the peppers into strips, and place in a bowl.
 3. Add the garlic, extra virgin olive oil, salt and oregano, and mix well.
 
 Note: 
 
-- Make this a few hours before you'd like to serve it so the flavors have time to develop. Use on an antipasto plate, as a side dish, on crostini or a baquette, or in a sandwich.
+- Make this a few hours before you'd like to serve it so the flavors have time to develop. Use on an antipasto plate, as a side dish, on crostini or a baguette, or in a sandwich.
 - Keep refrigerated, but bring to room temperature before serving.
