@@ -17,7 +17,7 @@
 - 1/4 yellow onion
 - 2 cloves garlic, minced
 - 4 cups fresh baby spinach, or one package frozen, chopped spinach thawed and drained
-- 1 1/2 - 2 cups shredded [mozzarella](vegan_mozarella.md)
+- 1 1/2 - 2 cups shredded [mozzarella](vegan_mozzarella.md)
 - 1 jar (6 oz) marinated artichoke hearts, drained and roughly chopped
 - 1/2 cup non-dairy milk, plus up to an additional 1/2 cup as required
 - 1/2 tsp salt
