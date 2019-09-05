@@ -16,7 +16,7 @@
 - 3 cloves garlic, minced
 - 1 can (14 oz) pumpkin puree
 - 1 1/2 cups broth
-- 1/2 [heavy cream](../sauces/vegan_heavy_cream.md)
+- 1/2 cup [heavy cream](../sauces/vegan_heavy_cream.md)
 - 1 tsp salt
 - 1 tsp pepper
 - 1/2 tsp ground nutmeg

@@ -68,6 +68,7 @@ nav:
         - Pasta:
             - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
             - Dan Dan Chae Noodles (Ve): 'main_course/dan_japchae_noodles.md'
+            - Fettuccini Alfredo (Ve, DF, GF): 'main_course/vegan_alfredo.md'
             - Lasagna (Ve, DF): 'main_course/lasagna.md'
             - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
     - Salads:
