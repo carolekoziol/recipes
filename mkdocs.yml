@@ -27,8 +27,18 @@ nav:
         - Placeholder:
             - Food: ''
     - Desserts:
-        - Placeholder:
-            - Food: ''
+        - Cake:
+            - Cheese cake: 'desserts/vegan_cheese_cake.md'
+        - Frosting:
+            - Cake: 'desserts/vegan_frosting.md'
+        - Fudge:
+            - Vegan Chocolate: 'desserts/vegan_fudge.md'
+        - Crust:
+            - Pie: ''
+        - Pie:
+            - Pumpkin: 'desserts/vegan_pumpkin_pie.md'
+        - Toppings:
+            - Whipped Cream: 'desserts/coconut_whipped_cream.md'
     - Main Courses:
         - North American: 
             - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
