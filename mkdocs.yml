@@ -18,6 +18,8 @@ nav:
     - Breads:
         - Italian Pizza Dough (Ve, P, GF, DF): 'breads/italian_pizza_dough.md'
         - North American Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
+        - Pretzel Sourdough Discard: ''
+        - Sourdough Bread: 'breads/sourdough_bread.md'
     - Breakfasts & Brunchs:
         - French Crepe With filling (V, DF): 'breakfast/french_crepe_filling.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
@@ -81,12 +83,15 @@ nav:
             - Fettuccini Alfredo (Ve, DF, GF): 'main_course/vegan_alfredo.md'
             - Lasagna (Ve, DF): 'main_course/lasagna.md'
             - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
+            - Tofu Mushroom Stroganoff (Ve, GF): 'tofu_mushroom_stroganoff.md'
     - Salads:
         - Placeholder:
             - Food: ''
     - Sides:
         - Vegetable:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
+            - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
+            - Carrot Glaze (V, P, DF, GF): 'sides/carrot_glaze.md'
             - Grilled Onions (Ve, P, GF): 'sides/grilled_onions.md'
             - Mushroom spinach potstickers (Ve, P, GF): 'sides/mushroom_spinach_potstickers.md'
             - Roasted Brussel Sprouts with Bacon and Apples (P, DF, GF): 'sides/roasted_brussel_sprouts_bacon_apples.md'
@@ -112,6 +117,7 @@ nav:
             - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
         - Stews:
             - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
+            - Hungarian Goulash (V, DF, GF): 'soups_stews/hungarian_goulash.md'
         - Chowders:
             - Succotash Chowder (Ve, GF): 'soups_stews/succotash_chowder.md'                   
     - Sauces/Dips/Cheezes:
@@ -145,11 +151,13 @@ nav:
     - Pasta:
         - Authentic Italian Egg Pasta: ''
         - Authentic Italian Gnocchi: ''  
-    - Sausage: ''
-    - Sourdough Starter: ''  
+    - Sausage Making: 'basics/sausage'
+    - Sourdough Starter:  'basics/sourdough_starter.md'   
     - Tofu:
-        - Soy tofu: ''
-        - Chickpea tofu: ''
+        - Tofu Marinades: 'basics/marinating_tofu.md'
+        - How to Make Tofu:
+            - Soy Tofu: ''
+            - Chickpea Tofu: ''
     - Tempeh: '' 
 - About:
     - Measurements Equivalent: 'measurements/measurements_conversions.md'

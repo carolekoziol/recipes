@@ -2,12 +2,11 @@
 
 [Original Recipe by Del](https://www.allrecipes.com/recipe/211191/the-original-donair-from-the-east-coast-of-canada/)
 [Original Recipe by Heather](http://mmmisformommy.com/2011/12/donairs-halifax-classic.html)
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
 
 ![Picture](../img/donair.jpg)
 
 ** Prep time: 10 minutes || Cook time: 1 hour || Total time: 1h10 minutes || Serving: 6 || Rating 10/10 **
+
 ### Ingredients
 
 - 1 pound ground chicken/beef (Tofu and tempeh are great alternatives. Recipe below.)
@@ -19,9 +18,9 @@
 - 2 teaspoons cayenne pepper
 - 1 teaspoon dried oregano
 
-TO SERVE WITH(Optional)
+TO SERVE WITH (Optional)
 
-- 6 large pita bread rounds (see recipe for home-made pita bread)
+- 6 large pita bread rounds
 - donair sauce
 - Tomato
 - Lettuce
@@ -34,12 +33,6 @@ TO SERVE WITH(Optional)
 3. 
 4. 
 5. 
-
-#### Using Tofu
-1. 
-
-#### Using Tempeh
-1. 
 
 ### Donair Sauce 
 
