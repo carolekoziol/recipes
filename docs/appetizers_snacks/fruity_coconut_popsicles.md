@@ -1,4 +1,4 @@
-## Fruity Coconut popsicles
+## Fruity Coconut Popsicles
 
 [Original Recipe from Demeter of Beaming Baker](https://beamingbaker.com/vegan-strawberry-coconut-popsicles-dairy-free-paleo-gluten-free/)
 ![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
@@ -16,7 +16,7 @@ Option 1
 
 - 2 medium bananas, sliced and frozen
 - 1 can full-fat coconut milk (13.66 oz.)
-- 1 cup frozen fruit (bleuberry, mango, or strawberry, etc.)
+- 1 cup frozen fruit (blueberry, mango, or strawberry, etc.)
 - 2–3 tablespoons pure maple syrup
 
 Option 2

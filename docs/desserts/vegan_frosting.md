@@ -1,4 +1,4 @@
-## Vanilla Frosting
+## Frosting Type for Cake and Cupcake
 
 [From the Fuss-Free Vegan Cookbook](https://www.amazon.ca/s?k=fuss+free+vegan&crid=2QXY700P3THUW&sprefix=fuss+fr%2Caps%2C-1&ref=nb_sb_ss_i_1_6)
 ![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
@@ -6,12 +6,13 @@
 ![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
 ![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 
+### 1. Vanilla Frosting
 
 ![Picture](../img/vanilla_frosting.jpg)
 
 ** Prep time: 5 minutes || Serving: 3 cups || Rating X/10 **
 
-### Ingredients
+** Ingredients **
 
 - 1/2 vegetable shortening
 - 1/2 cup vegan butter
@@ -19,25 +20,18 @@
 - 1 tsp vanilla
 - 1-4 Tbsp non-dairy milk (as required to achieve desired consistency)
 
-### Instructions
+** Instructions **
 
 1. Cream together shortening and butter in a stand mixer.
 1. Mix in icing sugar and vanilla until whipped and creamy.
 1. Add as much milk is required to get the desired consistency.
 1. Store in an air-tight container in the fridge for up to one week, or freeze.
 
-## Chocolate Frosting
-
-[From the Fuss-Free Vegan Cookbook](https://www.amazon.ca/s?k=fuss+free+vegan&crid=2QXY700P3THUW&sprefix=fuss+fr%2Caps%2C-1&ref=nb_sb_ss_i_1_6)
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
-![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
-
+### 2. Chocolate Frosting
 
 ** Prep time: 5 minutes || Serving: 3 cups || Rating X/10 **
 
-### Ingredients
+** Ingredients **
 
 - 1/2 vegetable shortening
 - 1/2 cup vegan butter
@@ -46,24 +40,18 @@
 - 1 tsp vanilla
 - 1-2 Tbsp non-dairy milk (as required to achieve desired consistency)
 
-### Instructions
+** Instructions **
 
 1. Cream together shortening and butter in a stand mixer.
 1. Mix in icing sugar, cocoa powder, and vanilla until whipped and creamy.
 1. Add as much milk is required to get the desired consistency.
 1. Store in an air-tight container in the fridge for up to one week, or freeze.
 
-## Cream Cheese Frosting
-
-[From the Fuss-Free Vegan Cookbook](https://www.amazon.ca/s?k=fuss+free+vegan&crid=2QXY700P3THUW&sprefix=fuss+fr%2Caps%2C-1&ref=nb_sb_ss_i_1_6)
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
-![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
+### 3. Cream Cheese Frosting
 
 ** Prep time: 5 minutes || Serving: 3 cups || Rating X/10 **
 
-### Ingredients
+** Ingredients **
 
 - 1/2 vegetable shortening
 - 1/2 cup vegan butter
@@ -73,7 +61,7 @@
 - 1 tsp lemon juice
 - 1-4 Tbsp non-dairy milk (as required to achieve desired consistency)
 
-### Instructions
+** Instructions **
 
 1. Cream together shortening and butter in a stand mixer.
 1. Mix in icing sugar, apple cider vinegar, lemon juice, and vanilla until whipped and creamy.

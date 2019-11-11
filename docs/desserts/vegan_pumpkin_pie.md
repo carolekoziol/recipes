@@ -25,7 +25,7 @@
 
 ### Instructions
 
-1. Preheat oven to 350. Place pie crust in 9-in pie plate
+1. Preheat oven to 350. Place pie crust in 9 inch pie plate
 1. Add all other ingredients to blender, and mix well.
 1. Pour mixture in pie crust, and bake for 60 minutes.
 1. Remove from oven, and cool at room temperature. 

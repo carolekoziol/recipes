@@ -1,6 +1,6 @@
 ## Shakshuka
 
-[Original Recipe by Michele frpm Paleo Running Momma](https://www.paleorunningmomma.com/shakshuka-kale-sausage-paleo-whole30/)
+[Original Recipe by Michele from Paleo Running Momma](https://www.paleorunningmomma.com/shakshuka-kale-sausage-paleo-whole30/)
 ![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
 ![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 ![V](https://img.shields.io/badge/-Vegetarian-orange.svg)
@@ -43,4 +43,4 @@
 Serve alone or with potatoes for a filling meal.
 
 ### Notes
-- If you are ommiting the sausages from the recipe; adjust the amount of garlic to your liking (reduce if you dont like too much garlic).
+- If you are omitting the sausages from the recipe; adjust the amount of garlic to your liking (reduce if you don't like too much garlic).

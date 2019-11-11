@@ -2,7 +2,7 @@
 
 [Original Recipe by Michaela from ElaVegan](https://elavegan.com/vegan-mushroom-stroganoff-gluten-free-recipe/)
 
-![Picture](../img/mushroom_stoganoff.jpg)
+![Picture](../img/mushroom_stroganoff.jpg)
 
 ** Prep time: XX minutes || Cook time: XX minutes || Serving: X || Rating X/10 **
 

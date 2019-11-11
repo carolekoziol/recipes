@@ -20,7 +20,7 @@
 
 1. In a large bowl, combine the water, yeast and sugar. Let stand until the mixture foams on top, about 5 minutes.
 2. In a food processor work with the plastic blade or the dough hook. Combine the flour and salt. Increase the speed to medium and add the yeast mixture until a soft ball forms.
-	- If you don’t have a food processor, make a well in the flour and salt and pour the liquids in the center. Work with your fingers gradually adding dry ingredients to the liquids.
+	- If you don’t have a food processor, make a well in the flour and salt and pour the liquids in the centre. Work with your fingers gradually adding dry ingredients to the liquids.
 3. Remove the dough from the bowl and knead for a few minutes on a floured surface to prevent sticking.
 4. Place in a lightly oiled bowl and cover with a clean cloth. Let the dough rise for about 30 minutes. Cut the dough in half.
 	- Use the pizza dough immediately or refrigerate it (less than 48 hours), or place it in an airtight bag and freeze.
@@ -203,7 +203,7 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 4. Add in the cream cheese and egg to the cheese mixture. Mix in well. 
 5. Mix in the almond flour, psyllium husk powder, Italian seasoning, salt and pepper to the cheese mixture.
 6. As you mix the dough, it should become cool enough to work with your hands. Knead the dough together until you can form a round ball.
-7. Plop the ball onto a silpat with olive oil to keep it easy to work with. Press the dough out with your hands, forming a circular pattern as you press outward.
+7. Plop the ball onto a silicon baking sheet with olive oil to keep it easy to work with. Press the dough out with your hands, forming a circular pattern as you press outward.
 8. Bake the pizza crust on an upside down cookie sheet for 10 minutes – this allows for the pizza to spread out slightly without being constricted by the edges of the cookie sheet.
 9. Flip the pizza crust to the other side and bake for another 2-4 minutes.
 10. Once the crust is baked, remove it from the oven. Add toppings of your choice. 

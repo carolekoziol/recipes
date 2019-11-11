@@ -30,9 +30,10 @@ nav:
             - Food: ''
     - Desserts:
         - Cake:
+            - Mug Brownies: 'desserts/mug_brownie.md'
             - Cheese cake: 'desserts/vegan_cheese_cake.md'
         - Frosting:
-            - Cake: 'desserts/vegan_frosting.md'
+            - For Cake and Cupcake: 'desserts/vegan_frosting.md'
         - Fudge:
             - Vegan Chocolate: 'desserts/vegan_fudge.md'
         - Crust:
@@ -47,6 +48,7 @@ nav:
             - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
             - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
             - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
+            - Meat pie (Tourtière): 'main_course/meat_pie.md'
             - Pizza (Ve, P, GF, DF): ''
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
@@ -57,6 +59,7 @@ nav:
         - Casseroles:
             - Jambalaya (P, DF, GF): 'main_course/jambalaya.md'
             - Sausage and Slaw Skillet (P, GF): 'main_course/sausage_slaw_skillet.md'
+            - Sausage Casserole (P, DF, GF): 'main_course/sausage_casserole.md'
             - Spanish Paella (Ve, GF): 'main_course/paella.md'
         - Curry & Pad Thai: 
             - Coconut Chickpea Curry (Ve, GF): 'main_course/coconut_chickpea_curry.md'
@@ -83,7 +86,7 @@ nav:
             - Fettuccini Alfredo (Ve, DF, GF): 'main_course/vegan_alfredo.md'
             - Lasagna (Ve, DF): 'main_course/lasagna.md'
             - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
-            - Tofu Mushroom Stroganoff (Ve, GF): 'tofu_mushroom_stroganoff.md'
+            - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
     - Salads:
         - Placeholder:
             - Food: ''
@@ -132,8 +135,7 @@ nav:
             - Buffalo Chicken Dip (P, DF, GF): 'sauces/buffalo_chicken_dip.md'
             - Cretons (P, DF, GF): 'sauces/cretons.md'
             - Roasted Salsa (P, Ve, GF): 'sauces/roasted_salsa.md'
-            - Spinach artichoke dip (Ve, GF, P, GF): 'sauces/spinach_artichoke_dip.md'
-            - Vegan Spinach Dip (Ve, GF): 'sauces/vegan_spinach_dip.md'
+            - Baked Spinach Dip (Ve, GF): 'sauces/vegan_baked_spinach_dip.md'
         - Sauces:
             - Authentic Italian Tomato Sauce (P, Ve, GF): 'sauces/italian_tomato_sauce.md'  
             - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'  
@@ -151,7 +153,7 @@ nav:
     - Pasta:
         - Authentic Italian Egg Pasta: ''
         - Authentic Italian Gnocchi: ''  
-    - Sausage Making: 'basics/sausage'
+    - Homemade Sausages: 'basics/sausage'
     - Sourdough Starter:  'basics/sourdough_starter.md'   
     - Tofu:
         - Tofu Marinades: 'basics/marinating_tofu.md'

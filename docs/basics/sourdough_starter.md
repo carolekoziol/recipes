@@ -8,7 +8,7 @@
 - Flavour and texture are affected by ingredients, fermentation time, and temperature. 
 - Food ferments faster in warm weather, slower in cool weather. For faster fermentation times pit it in a warmer area. Better flavour often results from longer fermentation time at a cooler temperature. 
 - Make sure your jar, utensils, etc. are clean but you do not have to sterilize like canning. 
-- Avoid metal and plastic. ONLY USE TALL GLASS or CERAMIC CONTAINERS like a mason wide-mouth jar for actual fermentation period. 
+- Avoid metal and plastic. ONLY USE TALL GLASS or CERAMIC CONTAINERS like a mason wide mouth jar for actual fermentation period. 
 - Put the starter where you are able to monitor them and wont forget about them. 
 
 ### Feeding

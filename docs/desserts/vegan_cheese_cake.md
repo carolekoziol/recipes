@@ -7,7 +7,7 @@
 ![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 
 
-![Picture](../img/vanilla_frosting.jpg)
+![Picture](../img/)
 
 ** Prep time: 15 minutes + 4 hours to cool || Cook time: 48-58 minutes || Serving: 6-8 || Rating X/10 **
 
