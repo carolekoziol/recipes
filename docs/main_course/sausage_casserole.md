@@ -19,7 +19,7 @@
 - 2 large sweet or white potatoes, peeled and diced
 - 2 apples, peeled and diced
 - 500 ml bone broth
-- Spices mixtures (oregano, basil, parsley, salt, pepper), to taste
+- Spices mixture (oregano, basil, parsley, salt, pepper), to taste
 
 ### Instructions
 
@@ -30,7 +30,7 @@
 5. Add the butternut squash, potato and apples and cook for 10 minutes, stirring regularly.
 6. Return the sausages to the pan and add the stock and spice mixture.
 7. Bring to the boil, reduce the heat and simmer for around 30 minutes or until the vegetables are cooked.
-8. Adjust the spice to taste.
+8. Adjust the spices mixture to taste.
 
 Serve warm!
 

@@ -37,7 +37,7 @@
 4. In a small bowl, add cornstarch to the milk/cream and stir to dissolve.
 5. Add the milk/cream mixture into the pan and cook on low-medium heat for about 10 minutes until the sauce thickens. 
 6. Taste and adjust seasonings to your taste.
-7. Add the marinate tofu cubes. Mix well.
+7. Add the [marinate tofu](../basics/marinating_tofu.md) cubes.  Mix well.
 8. Add fresh thyme leaves and/or parsley to taste. 
 
 Serve with your choice of pasta or rice! 
