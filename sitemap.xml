@@ -71,6 +71,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://carolekoziol.github.io/recipes/desserts/mug_brownie/</loc>
+     <lastmod>2019-11-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://carolekoziol.github.io/recipes/desserts/vegan_cheese_cake/</loc>
      <lastmod>2019-11-10</lastmod>
      <changefreq>daily</changefreq>
@@ -121,6 +126,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://carolekoziol.github.io/recipes/main_course/meat_pie/</loc>
+     <lastmod>2019-11-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc></loc>
      
      <changefreq>daily</changefreq>
@@ -157,6 +167,11 @@
     </url>
     <url>
      <loc>https://carolekoziol.github.io/recipes/main_course/sausage_slaw_skillet/</loc>
+     <lastmod>2019-11-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/main_course/sausage_casserole/</loc>
      <lastmod>2019-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -256,8 +271,8 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
+     <loc>https://carolekoziol.github.io/recipes/main_course/tofu_mushroom_stroganoff/</loc>
+     <lastmod>2019-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
@@ -436,12 +451,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/sauces/spinach_artichoke_dip/</loc>
-     <lastmod>2019-11-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sauces/vegan_spinach_dip/</loc>
+     <loc>https://carolekoziol.github.io/recipes/sauces/vegan_baked_spinach_dip/</loc>
      <lastmod>2019-11-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
