@@ -1,4 +1,4 @@
-## Aloo Mushroom Masala
+## Aloo Mushroom Masala (Yellow Potatoes with Mushroom)
 
 [Original Recipe from Cook with Manali](https://www.cookwithmanali.com/instant-pot-aloo-mushroom-masala/#wprm-recipe-container-42139)
 ![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
@@ -36,7 +36,7 @@
 
 1. Soak 1/3 cup of cashews in hot water for 10 to 15 minutes. Then puree in a blender to a paste along with 1/4 cup water. Set it aside.
 
-2. Press the saute button on the Instant Pot. Once it displays hot, add the oil and then add the chopped onion, ginger and garlic. Cook for around 3 minutes or until the onions are soft and light golden in color.
+2. Press the saute button on the Instant Pot. Once it displays hot, add the oil and then add the chopped onion, ginger and garlic. Cook for around 3 minutes or until the onions are soft and light golden in colour.
 
 3. Add the pureed tomatoes. Stir to incorporate.
 
@@ -59,4 +59,3 @@ Notes:
 - Curry will thicken as it cools down as there are cashews in there. So do add 1 cup water, it might seem like a lot but its not.
 - I cooked on high pressure for 2 minutes because I wanted a bite to my mushrooms. If you want them soft, do 4 to 5 minutes on high pressure.
 
-_Tags: vegan, gluten-free, dairy-free, 30 minutes, instant pot, pressure cooker, lunch, dinner, indian, main_

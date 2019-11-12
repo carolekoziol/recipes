@@ -8,6 +8,7 @@ nav:
     - Appetizers & Snacks:
         - Appetizers:
             - Bruschetta (Ve, DF): 'appetizers_snacks/bruschetta.md'
+            - Eggplant Caponata (Ve, P, DF, GF): 'appetizers_snacks/eggplant_caponata.md'
             - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
         - Snacks:
             - Fruity Coconut Popsicles (P, Ve, GF): 'appetizers_snacks/fruity_coconut_popsicles.md'

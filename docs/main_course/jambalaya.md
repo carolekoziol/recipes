@@ -32,27 +32,38 @@
 
 ### Instructions
 
-1. Dice all your veggies and cut your choice of proteins. Set aside.  
-2. Trow your cauliflower in the food processor with the shredding attachment to rice the cauliflower.
+1. Dice all the vegetables and cut the meat in 1 inch cubes. Set aside.
+2. For rice: 
+
+	** If using cauliflower: ** Add the cauliflower in the food processor with the shredding attachment to rice the cauliflower.
+
+	** If using brown/white rice: ** Cook the rice as the rice's instruction in broth until ready.
+
 3. Cook the Jambalaya: 
 
-    - Over the stove: 
-		1. Heat a large pot over medium-high heat with olive oil.
-		2. Add garlic until it becomes fragrant 
-		3. Add onion and bell pepper to begin to cook down.
-		4. Once the onion is translucent add the mushrooms. Cook for 2-3 minutes.
-		5. Add your cauliflower, broth, chicken and sausage. Mix together. Cover and let cook for about 5 minutes.
-		5. Add the tomatoes, tomato paste, and spices. Stir to incorporate.
-		6. Cover and let cook until cauliflower is tender and meats are cooked through (about 5-8 minutes).
-	  
-   - Instant pot: 
-		1. Heat the olive oil in the pot.
-		2. Add garlic until it becomes fragrant 
-		3. Add onion and bell pepper to begin to cook down.
-		4. Once the onion is translucent, add your cauliflower, broth, the tomatoes, tomato paste, spices, protein source. Mix together.
-		5. Close the lid and put the setting to Manual for 5 minutes. 
-	  
-#### Using Rice instead of Cauliflower Rice
-1. 
+#### 
 
-_Tags: gluten-free, dairy-free, paleo, 30 minutes, instant-pot, pressure cooker, casserole, hearty, vegetables, lunch, dinner, main_
+- Over the stove:
+
+	1. Heat a large pot over medium-high heat with olive oil.
+	2. Cook the onions until translucent.
+	3. Add mushrooms and cook for 2-3 minutes. 
+	4. Add bell peppers and cook until it become softer, about 3-5 minutes.
+	5. Add garlic and cook for 30 second.
+	6. Add rice, broth, and meat. Mix together. Cover and let cook for about 5 minutes.
+	7. Add tomatoes, tomato paste, and spices. Stir to incorporate.
+	8. Cover and let cook until cauliflower is tender and meats are cooked through (about 5-8 minutes).
+
+####
+
+- Instant pot: 
+
+	1. Heat the olive oil in the pot.
+	2. Cook the onions until translucent.
+	3. Add mushrooms and cook for 2-3 minutes. 
+	4. Add bell peppers and cook until it become softer, about 3-5 minutes.
+	5. Add garlic and cook for 30 second.
+	6. Add rice, broth, meat, tomatoes, tomato paste, and spices. Mix Together.
+	5. Close the lid and put the setting to Manual for 5 minutes. 
+
+Enjoy!

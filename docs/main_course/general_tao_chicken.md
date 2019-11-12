@@ -10,17 +10,17 @@
 
 ### Ingredients
 
-- 1 pound boneless chicken thighs, chopped into 1 inch chunk (breast chicken is fine as well. You can keep the skin on.)
+- 1 pound boneless chicken thighs, chopped into 1 inch pieces (breast chicken is fine as well. You can keep the skin on.)
 - 1 egg
 - 2 tablespoons soy sauce, divided (1 tbp for the marinade & 1 tbp for the sauce)
 - 1 tablespoon tomato paste
 - 1 tablespoon rice vinegar
 - 1 teaspoon sesame oil
 - 1 teaspoon of honey (Not traditional, optional)
-- 1 teaspoon of corn starch (for the chiken chunks)
+- 1 teaspoon of corn starch (for the chicken pieces)
 - 1 1/4 cups corn starch (for the sauce mixture)
 - 1/4 cup Chicken Stock
-- Dozen dried whole red chilies, halves (remove seeds if dont want too spicy)
+- Dozen dried whole red chilies, halves (remove seeds if don't want too spicy)
 - Dash of chili paste or hot sauce (to taste)
 - 1 tablespoon peanut oil
 - 2 cloves of garlic, minced
@@ -51,4 +51,3 @@
 
 Serve it over rice
 
-_Tags: dairy-free, dinner, chinese, asian, tso, tao, main_

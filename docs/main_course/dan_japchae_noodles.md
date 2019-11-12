@@ -17,20 +17,20 @@ Base & Protein:
 
 Vegetables: 
 
-- 4 heads baby bok choy, cut lenghtwise into thin strips
-- 1 red bell pepper, cut thinly lenghtwise slices
+- 4 heads baby bok choy, cut lengthwise into thin strips
+- 1 red bell pepper, cut thinly lengthwise slices
 - 2 carrots, cut in matchsticks
 - 2 cups of sliced shiitake or mushrooms
 - 4 cups greens, chopped (spinach, kale, green collards)
-- Toasted seasame seeds (garnish)
+- Toasted sesame seeds (garnish)
 
-Seasame sauce:
+Sesame sauce:
 
 - 1/2 cup of tahini
 - 1 cup broth (or water), warmed
 - 1/4 cup rice vinegar
-- 2 tablespoons tamari (or soy sauce)
-- 2 tablespoons hot chili oil (chili paste or seasame oil and sriracha)
+- 2 tablespoons Tamari (or soy sauce)
+- 2 tablespoons hot chili oil (chili paste or sesame oil and sriracha)
 - 2 teaspoons agave (or liquid sweetener)
 - 2 cloves garlic, minced
 - 1/2 teaspoon Chinese 5-spice powder
@@ -45,14 +45,14 @@ Toppings (optional)
 	- Blanche the bok choy (boil it for a minute). Drain and run it under cool water so its stay bright green. Set aside.
 
 2. Sesame sauce: 
-	- In a bowl, mix together: tahini, broth, vinegar, tamari, chili oil, 5 spice-powder, and agave until smooth. Stir in the garlic. Set aside. 
+	- In a bowl, mix together: tahini, broth, vinegar, Tamari, chili oil, 5 spice-powder, and agave until smooth. Stir in the garlic. Set aside. 
 
 3. In a wok: 
 	1. Warm up the oil over medium heat. 
 	1. 
-	1. Crumble in the tempeh in bite-size pieces and sauté it auround until it starts to brown (about 4 minutes). 
+	1. Crumble in the tempeh in bite-size pieces and sauté it around until it starts to brown (about 4 minutes). 
 	2. Add the shallot and ginger and cook for a minute. 
-	3. Add the 5-spice powder, vinegar and tamari and cook for a minute (to let everything absorb). Remove from heat. 
+	3. Add the 5-spice powder, vinegar and Tamari and cook for a minute (to let everything absorb). Remove from heat. 
 
-Serve warm or chilled by mix in the noddles, vegetables, tempeh and drizzle the seasame sauce and toppings. 
+Serve warm or chilled by mix in the noddles, vegetables, tempeh and drizzle the sesame sauce and toppings. 
 	

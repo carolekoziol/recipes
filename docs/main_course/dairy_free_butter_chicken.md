@@ -37,5 +37,3 @@
 4. Cover and cook on high for 3 hours or low for 6 hours. 
 
 Serve over cauliflower rice, regular rice, quinoa or barley with fresh cilantro and a wedge of lemon for squeezing.
-
-_Tags: vegan, gluten-free, dairy-free, 1 hour, instant pot, pressure cooker, lunch, dinner, indian, main_

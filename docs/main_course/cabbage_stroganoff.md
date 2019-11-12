@@ -39,8 +39,7 @@
 4. Mix in the protein, and fry for 1 to minutes to heat through.
 5. Add white wine and allow alcohol to cook off, approximately 1 to 2 minutes.
 6. Sprinkle flour over vegetables, mix in and continue to cook for 2 minutes.
-7. Add broth, dijon mustard and worchestire. Cook until broth thickened, approximately 2 to 3 minutes.
+7. Add broth, dijon mustard and worcestershire. Cook until broth thickened, approximately 2 to 3 minutes.
 8. Reduce heat to low. Mix in the cream. Cook until heated through.
 9. Remove from heat. Stir in chopped parsley before serving.
 
-_Tags: dairy-free, lunch, dinner, main_

@@ -50,4 +50,3 @@ To add hearty vegetables such as sweet potatoes, squash or cauliflower:
 - Add them after step 2 but before step 3 (before adding the garlic and ginger)
 - Stir-fry for a couple of minutes until the vegetable is softened a little bit. 
 
-_Tags: gluten-free, dairy-free, paleo, vegan, 30 minutes, casserole, hearty, vegetables, lunch, dinner, main_

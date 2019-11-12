@@ -2,7 +2,7 @@
 
 ![Picture](../img/paleo_chicken_nuggets.jpg)
 
-### Paleo Chicken Nuggets
+### 1. Paleo Chicken Nuggets
 
 [Original Recipe from The Coconut Mama](https://thecoconutmama.com/grain-free-nourishing-chicken-nuggets/)
 
@@ -25,8 +25,8 @@
 #### Instructions
 
 1. Use a meat grinder to process the chicken breasts and livers into ground meat into a "paste".
-	- You have to re-passed the ground meat twice or three time through the meat grinder before it become a paste.
-	- really work the aste to mash it more otherwise it will become a meatball instead of a nugget.
+	- You have to passed the ground meat twice or three time through the meat grinder before it become a paste.
+	- Really work the meat and mash it otherwise it will become a meatball instead of a nugget.
 2. Add seasoning and mix well.
 3. Roll meat paste into nugget size pieces (half the size of a golf ball) and place on a baking sheet.
 4. In one medium side dish, mix in the arrowroot flour, salt and pepper. 
@@ -46,7 +46,7 @@
 
 Serve and enjoy!
 
-### Chicken Nuggets
+### 2. Chicken Nuggets
 
 [Original Recipe by FastFood Recipes](https://fastfood-recipes.com/recipes/mcdonalds/mcdonalds-chicken-nuggets-copycat-recipes/)
 
@@ -69,8 +69,8 @@ Serve and enjoy!
 #### Instructions
 
 1. Use a meat grinder to process the chicken breasts and livers into ground meat into a "paste".
-	- You have to re-passed the ground meat twice or three time through the meat grinder before it become a paste.
-	- Really work the aste to mash it more otherwise it will become a meatball instead of a nugget.
+	- You have to passed the ground meat twice or three time through the meat grinder before it become a paste.
+	- Really work the meat and mash it otherwise it will become a meatball instead of a nugget.
 2. Roll meat paste into nugget size pieces (half the size of a golf ball) and place them aside.
 3. In a small bowl, beat the egg and mix in the water.
 4. In a medium side dish mix in the flour, salt, pepper, onion powder, garlic powder and MSG.

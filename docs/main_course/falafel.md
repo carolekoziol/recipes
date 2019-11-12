@@ -62,25 +62,25 @@
 - Onions
 - Dill pickles
 - Hummus
-- Tabouli
-####
-- Less Traditional add ons:
-	- Sprouts
-	- Cucumber slices
-	- Roasted peppers
-	- Roasted eggplant slices
-	- Sunflower seeds
-	- Feta cheese
-	- Yogurt
-	- Tzatziki
+- Tabbouleh
+
+** Less traditional additions:**
+
+- Sprouts
+- Cucumber slices
+- Roasted peppers
+- Roasted eggplant slices
+- Sunflower seeds
+- Feta cheese
+- Yogourt
+- Tzatziki
 	
-Two ways to prepare your pita:
+** Two ways to prepare your pita: **
 
 1. Cut the pita pocket bread in half to form two “pockets.” Each pocket is a serving size. Stuff the pocket with ingredients.
-2. Seperate the two layers of the pita into two single round layer. Overlap half of one layer over the second layer. Add your ingredients and then the falafels. Squished the falafel. Roll your pita. 
+2. Separate the two layers of the pita into two single round layer. Overlap half of one layer over the second layer. Add your ingredients and then the falafels. Squished the falafel. Roll your pita. 
  
 ### Notes
 - Makes 30-34 falafel balls. Serving size is roughly 5 falafels each. 
 - To make falafel, canned will not work since it need to be uncooked to be able to hold it together. Canned beans are already soaked and cooked so it will become mush.
 
-_Tags: vegan, gluten-free, dairy-free, lunch, dinner, sandwich, mediterranean, main_

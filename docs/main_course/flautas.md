@@ -30,7 +30,7 @@ Original Recipe from Thugs Kitchen 101 cookbook
 	3. Add the chili powder, cumin, slat, and garlic and cook for 30 seconds then turn off the heat. 
 3. In a large bowl:
 	1. Mix in the beans, chiles/sauce, lemon juice. Mash them up with a potato masher until a paste forms (it fine if there are some whole beans left). 
-	2. Add the sautéed onion and cooked veggies and stir to combine. 
+	2. Add the sauteed onion and cooked veggies and stir to combine. 
 4. Flautas:
 	1. Take about 4 heaping tablespoons of filling and spread into a line toward the edge of the left side of a tortilla from top to bottom. 
 	2. Roll up the tortilla nice and tight, from left to right. 
