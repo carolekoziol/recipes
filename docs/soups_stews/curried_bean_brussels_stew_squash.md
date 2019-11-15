@@ -42,7 +42,7 @@
 	6. Discard the bay leaves and the stems.  Set the beans aside, and do not wash the pot.
 2. Bake the Squash:
 	1. Preheat the oven to 425 F.
-	2. In a big bowl, mix in the thyme leave, salt, and pepperte, and 1 tablespoon of the coconut oil.  
+	2. In a big bowl, mix in the thyme leave, salt, and pepper, and 1 tablespoon of the coconut oil.  
 	3. Coat the squash in the spice mixture. 
 	4. Place the squash on a baking sheet and roast for 20-30 minutes, stirring at halftime, until the squash is tender.
 3. Cook the Stew: 
@@ -54,4 +54,4 @@
 	6. Add the coconut milk, roasted squash, lemon juice, and more salt to taste.  Bring the broth back to a gentle boil, lower the heat to a simmer, and cook for 2 minutes.
 	7.  Remove the pot from the heat, Stir in the spinach, if using.  
 
-_Tags: vegan, gluten-free, paleo, dairy-free, lunch, dinner, north american, main_
+

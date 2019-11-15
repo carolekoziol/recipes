@@ -24,7 +24,7 @@
 - 3 cloves garlic, minced
 - 1 1/2 teaspoons smoked paprika
 - 1 cup short-grain rice
-- 1 1/2 cups aparagus (or green beans), cut in 2 inch strips
+- 1 1/2 cups asparagus (or green beans), cut in 2 inch strips
 - 1-2 red/orange/yellow bell pepper, roasted, cut in strips
 - 1 can (14 oz) water-packed artichoke hearts, drained, rinsed, and chopped
 - 2 tablespoons lemon juice
@@ -41,9 +41,9 @@
 	2. Add the onions and sauté until they become translucent (about 3 minutes). 
 	3. Add the mushrooms, tomatoes and salt. Sauté until most of the liquid has evaporated from the pan (about 4-5 minutes).
 	4. Add the lima beans, asparagus, artichoke hearts, garlic and smoked paprika. Mix and sauté for 30 seconds.
-	5. Add the rice (cook it long enought to make sure it gets mixed with all the veggies) mix well quickly. 
-	6. Fish out the saffrin threads fromt he broth and toss them. 
-	7. Pour the warm broth over the rice misture, stir in and scrape down the sides. 
+	5. Add the rice (cook it long enough to make sure it gets mixed with all the veggies). Mix well quickly. 
+	6. Fish out the saffron threads from the broth and toss them. 
+	7. Pour the warm broth over the rice mixture, stir in and scrape down the sides. 
 	8. Bring the pan to a strong simmer, cover and reduce the heat to medium-low. Let it simmer until all the water is absorbed in the pan (about 30-40 minutes). 
 	9. Drizzle with lemon juice and add paprika over the top. 
 

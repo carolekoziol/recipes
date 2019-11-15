@@ -1,5 +1,7 @@
 ## Flautas
-Original Recipe from Thugs Kitchen 101 cookbook
+
+[Original Recipe from Thugs Kitchen 101 cookbook]
+
 [Original picture from Anjali](https://pickyeaterblog.com/healthy-version-of-mexican-flautas/)
 ![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
 

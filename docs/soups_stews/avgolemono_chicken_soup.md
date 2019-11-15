@@ -24,7 +24,7 @@
 ### Instructions
 
 1. In a large pot, heat 1 tbsp olive oil on medium-high. Add the carrots, celery and green onions, toss together to saute briefly then stir in the garlic.
-2. Add the chicken broth and bay leaves on high heat. Once it boilling, add the rice, salt and pepper. 
+2. Add the chicken broth and bay leaves on high heat. Once it boiling, add the rice, salt and pepper. 
 3. Turn the heat to medium-low and simmer until the rice is tender (about 20 minutes). 
 4. Add the cooked chicken and lemon juice (optional).
 

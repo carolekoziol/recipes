@@ -70,11 +70,12 @@ nav:
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
             - Falafel (Ve, GF): 'main_course/falafel.md'
+            - Mujaddara (Ve, DF, GF): 'main_course/mujaddara.md'
         - Mexican: 
             - Flautas (VE, DF): 'main_course/flautas.md'
         - Pizza: 
             - North American Pizzas: 'main_course/pizza.md'
-            - Italian styled Pizzas: 'main_course/italian_pizza.md'            
+            - Rustic Italian Pizza: 'main_course/rustic_italian _pizza.md'   
         - Stir-Fry: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
             - Peanut Noodles (Ve, DF): 'main_course/peanut_noodles.md'

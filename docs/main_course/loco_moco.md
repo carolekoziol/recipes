@@ -9,7 +9,7 @@
 
 - 4 eggs
 - 4 cups cooked rice (1 cup of dried rice)
-- Gravy (if home-made see below)
+- Gravy (if homemade see below)
 - 1 lbs of ground meat (crumbled tempeh or tofu would work)
 - chives, diced, for garnish (optional)
 - Onions, slices (optional)
@@ -33,4 +33,4 @@
 3. Slowly add broth while whisking to avoid lumps.
 4. Bring to a boil, stirring frequently.
 
-Note: if you dont have any mushrooms just omit them. 
+Note: if you don't have any mushrooms just omit them. 

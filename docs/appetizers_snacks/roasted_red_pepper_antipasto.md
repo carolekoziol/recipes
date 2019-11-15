@@ -3,8 +3,8 @@
 [Original Recipe by Christinna Conte](https://www.christinascucina.com/italian-style-roasted-red-pepper-antipasto-salad-and-crostini/)
 
 ![Picture](../img/italian_antipasto_3.jpg)
+
 ![Picture](../img/italian_antipasto.jpg)
-![Picture](../img/italian_antipasto_2.jpg)
 
 ** Prep time: 25 minutes || Cook time: 20 minutes || Serving: 4 || Rating X/10 **
 

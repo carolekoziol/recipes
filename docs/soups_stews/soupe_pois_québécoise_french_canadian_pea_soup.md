@@ -30,7 +30,7 @@
 1. Soak the peas in water to cover generously  for about 8 hours, then drain.
 2. Mix the soaked peas in a large heavy pot with the broth, vegetables, herbs and spices, liquid smoke, optional smoked tofu, and sesame oil.  Simmer for 2 hours.  
 3. With a immersion blender, blend just enough to puree some of the peas, about half.  Just pulse briefly around the pot (or take out half of the peas and pulse it in a different pot).
-4. Taste to adjust seasonning of necessary. 
+4. Taste to adjust seasoning of necessary. 
 
 Serve hot with crusty bread.
 

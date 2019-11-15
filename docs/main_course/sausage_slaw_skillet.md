@@ -29,7 +29,7 @@
  - thinly sliced cabbage (nappa, red cabbage etc.)
  - end removed and thinly sliced brussel sprouts
  - sliced/into small floret brocoli
- - sliced/into small floretCauliflower (optional)
+ - sliced/into small floret Cauliflower (optional)
  
 #### Sausage
 1. Prepare the sausage: 

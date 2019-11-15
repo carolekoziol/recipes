@@ -36,6 +36,6 @@
 4. Add and stir in the cooked beans. 
 5. Optional: Puré some of the sauté with a immersion blender (this will make a thicker soup). 
 6. Add potatoes and milk. Season with ground black pepper. Stir.
-7. Adjust seasonning to taste. 
+7. Adjust seasoning to taste. 
 
 Serve.
