@@ -1,12 +1,8 @@
 ## Spicy Sausage White Bean Soup
 
-[Original Recipe](https://www.bonappetit.com/recipe/spicy-sausage-and-white-bean-soup)
-![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
+[Original Recipe by Holly Sander, Photos by Shay Harrington](https://www.bonappetit.com/recipe/spicy-sausage-and-white-bean-soup)
 
-
-![Picture](../img/Link_to_picture)
+![Picture](../img/sausage_beans_soup.jpg)
 
 ** Prep time: 10 minutes || Cook time: 50 minutes || Serving: 2 || Rating 10/10 **
 
