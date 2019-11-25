@@ -11,15 +11,15 @@
 ### Ingredients
 
 - 450 grams penne, or other short pasta (gluten-free if desired)
-- 1 Tbsp vegan butter, or olive oil
+- 1 tablespoon butter or olive oil
 - 1/2 yellow onion, chopped
 - 3 cloves garlic, minced
 - 1 can (14 oz) pumpkin puree
 - 1 1/2 cups broth
 - 1/2 cup [heavy cream](../sauces/vegan_heavy_cream.md)
-- 1 tsp salt
-- 1 tsp pepper
-- 1/2 tsp ground nutmeg
+- 1 teaspoon salt
+- 1 teaspoon pepper
+- 1/2 teaspoon ground nutmeg
 - small handful fresh sage, chopped
 
 ### Instructions

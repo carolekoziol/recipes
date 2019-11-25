@@ -13,7 +13,7 @@
 - Onions, cubes
 - Spices mixtures: 
 	- all spices
-	- nutmegé
+	- nutmeg
 	- cloves
 	- thymes
 	- salt
@@ -28,15 +28,15 @@
 2. skin the potatoes and cut into cubes.
 2. Cut the onions, and celery in cubes. 
 3. Boil the potatoes, drain the water and mashed it. 
-4. In the food processor, add the onions, celery and ground chiken. The meat should be a paté.
+4. In the food processor, add the onions, celery and ground chicken. The meat should be a paté.
 5. Put the paté chicken in the frying pan. Add 1 to 2 cups of broth. Enough to cover the frying pan (about half inch deep). 
 6. When the meat is no longer pink, add mashed potatoes till the paté become creamy. 
 7. Add the spice mixtures. 
 8. Add more broth. Enough to cover the meat and mix well. 
 9. While cooking, bring it to a boil at medium heat. Then bring the temperature down at low heat. Cover the frying pan. Cook at low for about 45 minutes. 
-10. Adjust the spices to taste. Then boil the liquid off until desire consisty (need to have a paté fit for a pie, so not runny). 
+10. Adjust the spices to taste. Then boil the liquid off until desire consistency (need to have a paté fit for a pie, so not runny). 
 11. Put the meat into a pie crust. 
-12. Pre-heated the oven at 400F.
+12. Preheated the oven at 400F.
 12. Either score some design into your top of your pie or with your fork make some holes in order to let the steam escape. 
 13. Brushed the beaten egg on the top of the pie to give a shine. 
 14. Cook the pie at 400F for about 15 minutes. 

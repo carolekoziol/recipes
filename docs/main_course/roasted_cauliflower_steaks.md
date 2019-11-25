@@ -40,4 +40,3 @@ Serve the cauliflower steaks with gravy.
 3. Slowly add broth while whisking to avoid lumps.
 4. Bring to a boil, stirring frequently.
 
-_Tags: vegan, gluten-free, paleo, dairy-free, less than 1 hour, lunch, dinner, north american, main_

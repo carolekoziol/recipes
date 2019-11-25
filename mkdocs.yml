@@ -77,7 +77,7 @@ nav:
         - Pizza: 
             - North American Pizzas: 'main_course/pizza.md'
             - Rustic Italian Pizza: 'main_course/rustic_italian _pizza.md'   
-        - Stir-Fry: 
+        - Asian: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
             - Peanut Noodles (Ve, DF): 'main_course/peanut_noodles.md'
         - Indian:
@@ -90,6 +90,8 @@ nav:
             - Fettuccini Alfredo (Ve, DF, GF): 'main_course/vegan_alfredo.md'
             - Lasagna (Ve, DF): 'main_course/lasagna.md'
             - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
+            - Noodles with Corn and Rosemary Sauce (Ve, DF, GF): 'main_course/noodles_corn_rosemary_sauce.md'
+            - Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
             - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
     - Salads:
         - Placeholder:

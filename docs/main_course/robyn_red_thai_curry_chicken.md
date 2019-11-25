@@ -39,4 +39,3 @@
 
 Serve over rice.
 
-_Tags: gluten-free, dairy-free, 1 hour, instant pot, pressure cooker, lunch, dinner, main_

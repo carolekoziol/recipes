@@ -12,7 +12,7 @@
 
 **Sauce**
 
-- 1/2 cup peanut (almond, hazelenut, or sunflower are good, too!) butter (smooth or crunchy)
+- 1/2 cup smooth or crunchy nut butter (peanut, almond, hazelnut, or sunflower)
 - 1/2 cup water
 - 3 Tbsp soy sauce
 - 2 cloves garlic, minced

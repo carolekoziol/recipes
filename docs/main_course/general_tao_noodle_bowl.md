@@ -36,7 +36,7 @@
 ** Cook time: 10 minutes || Yield: 4 cups (This seems to be the right amount of sauce for this recipe)**
 
 - 1 cup ketchup
-- 1/2 cup tamari (substitute soy sauce, or coconut aminos)
+- 1/2 cup Tamari (substitute soy sauce, or coconut aminos)
 - 1/2 cups water
 - 1/2 cup maple syrup
 - 3 1/2 Tablespoon mirin
@@ -60,10 +60,10 @@
 
 ** Prep time: 30 minutes **
 
-- 1 block firm tofu, water drained from package (we use locally made and GMO free La Soyarie tofu!)
+- 1 block firm tofu, water drained (350g)
 - ¾ cup + 2 tbsp lime juice
 - 6 tablespoons Sriracha
-- ½ cup + 2 tablespoon tamari
+- ½ cup + 2 tablespoon Tamari
 - 6 ½ tablespoons agave
 - 1 tablespoon garlic, minced
 - 1 tablespoon ginger, minced
@@ -80,4 +80,3 @@
 4. Lay tofu slices out onto a parchment lined baking sheet and pour a small amount of the marinade over the tofu.
 5. Bake at 350 for 20-30 minutes, until most of the marinade has been baked into the tofu and it has darkened slightly.
 
-_Tags: Vegan, lunch, dinner, main_

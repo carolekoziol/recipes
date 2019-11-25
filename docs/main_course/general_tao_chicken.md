@@ -12,7 +12,7 @@
 
 - 1 pound boneless chicken thighs, chopped into 1 inch pieces (breast chicken is fine as well. You can keep the skin on.)
 - 1 egg
-- 2 tablespoons soy sauce, divided (1 tbp for the marinade & 1 tbp for the sauce)
+- 2 tablespoons soy sauce, divided (1 tbsp for the marinade & 1 tbsp for the sauce)
 - 1 tablespoon tomato paste
 - 1 tablespoon rice vinegar
 - 1 teaspoon sesame oil
@@ -32,7 +32,7 @@
 ### Instructions
 
 1. Prepare the chicken pieces: 
-	1. Into a big bowl make the marinade: stir in the egg and 1 tablespoon soy sauce.  
+	1. Into a big bowl make the marinade: stir in the egg and 1 tablespoon soy sauce.
 	2. Add the chicken pieces into the marinade bowl and coat them.
 	3. Remove the chicken from its marinade and toss it in a bowl with 1 teaspoon of corn starch for coating.
 	4. Heat up the cooking oil in the wok in medium high-heat. 
@@ -41,7 +41,7 @@
 
 2. Prepare the sauce: 
 	1. In a small bowl, mix up the sauce: 1 tablespoon soy sauce, tomato paste, rice vinegar, Chicken Stock, sesame oil, honey (optional), 1 1/4 cups corn starch.
-	2. In the wok, add peanut oil, chilis and stir fry for 10 seconds on medium-heat. 
+	2. In the wok, add peanut oil, red chili and stir fry for 10 seconds on medium-heat. 
 	3. Add garlic and ginger. Stir fry for 15-20 seconds. 
 	4. add the sauce mixture and stir it up for a minute or so.
 

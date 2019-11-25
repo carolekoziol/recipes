@@ -28,7 +28,7 @@
  - large stems removed, stacked, thinly sliced Green collard/Kale/Spinach
  - thinly sliced cabbage (nappa, red cabbage etc.)
  - end removed and thinly sliced brussel sprouts
- - sliced/into small floret brocoli
+ - sliced/into small floret broccoli
  - sliced/into small floret Cauliflower (optional)
  
 #### Sausage

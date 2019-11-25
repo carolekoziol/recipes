@@ -6,7 +6,7 @@
 
 ![Picture](../img/carrot_dogs.jpg)
 
-** Prep time: 5 minutes + up to 2 days extra marinating, if desired || Cook time: 20 minutes || Serving: 4-6 || Rating X/10 **
+** Prep time: 5 minutes + up to 2 days extra marinating, if desired || Cook time: 20 minutes || Serving: 4-6
 
 ### Ingredients
 

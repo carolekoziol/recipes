@@ -43,10 +43,10 @@ Version #1
 
 Version #2
 
-Substitute: sundried tomatoes and mushrooms for: 
+Substitute: sun-dried tomatoes and mushrooms for: 
 
 - 1 cup asparagus, diced
-- 1.5 cups brocoli, diced 
+- 1.5 cups broccoli, diced 
 
 ### Instructions
 
@@ -73,7 +73,6 @@ Substitute: sundried tomatoes and mushrooms for:
 Serve it hot or cold. 
 
 ### Notes
-- You can make it with different vegetables. However dont use a high-water vegetable (e.g. tomatoes) as it might result in a water-logged quiche. 
+- You can make it with different vegetables. However don't use a high-water vegetable (e.g. tomatoes) as it might result in a water-logged quiche. 
 - You can reheat in the oven for 15-20 minutes at 350F.
 
-_Tags: vegan, gluten-free, dairy-free, egg-free, breakfast, lunch, dinner, North american, main_

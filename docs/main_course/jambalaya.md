@@ -43,27 +43,27 @@
 
 #### 
 
-- Over the stove:
+** Over the stove: **
 
-	1. Heat a large pot over medium-high heat with olive oil.
-	2. Cook the onions until translucent.
-	3. Add mushrooms and cook for 2-3 minutes. 
-	4. Add bell peppers and cook until it become softer, about 3-5 minutes.
-	5. Add garlic and cook for 30 second.
-	6. Add rice, broth, and meat. Mix together. Cover and let cook for about 5 minutes.
-	7. Add tomatoes, tomato paste, and spices. Stir to incorporate.
-	8. Cover and let cook until cauliflower is tender and meats are cooked through (about 5-8 minutes).
+1. Heat a large pot over medium-high heat with olive oil.
+2. Cook the onions until translucent.
+3. Add mushrooms and cook for 2-3 minutes. 
+4. Add bell peppers and cook until it become softer, about 3-5 minutes.
+5. Add garlic and cook for 30 second.
+6. Add rice, broth, and meat. Mix together. Cover and let cook for about 5 minutes.
+7. Add tomatoes, tomato paste, and spices. Stir to incorporate.
+8. Cover and let cook until cauliflower is tender and meats are cooked through (about 5-8 minutes).
 
-####
+#### 
 
-- Instant pot: 
+** Instant pot: **
 
-	1. Heat the olive oil in the pot.
-	2. Cook the onions until translucent.
-	3. Add mushrooms and cook for 2-3 minutes. 
-	4. Add bell peppers and cook until it become softer, about 3-5 minutes.
-	5. Add garlic and cook for 30 second.
-	6. Add rice, broth, meat, tomatoes, tomato paste, and spices. Mix Together.
-	5. Close the lid and put the setting to Manual for 5 minutes. 
+1. Heat the olive oil in the pot.
+2. Cook the onions until translucent.
+3. Add mushrooms and cook for 2-3 minutes. 
+4. Add bell peppers and cook until it become softer, about 3-5 minutes.
+5. Add garlic and cook for 30 second.
+6. Add rice, broth, meat, tomatoes, tomato paste, and spices. Mix Together.
+5. Close the lid and put the setting to Manual for 5 minutes. 
 
 Enjoy!

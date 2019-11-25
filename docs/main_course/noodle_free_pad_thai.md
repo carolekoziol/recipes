@@ -18,7 +18,7 @@ VEGGIES
 - 1 small bundle green onions (ends removed + thinly sliced)
 - 2 cups thinly sliced red cabbage
 - 2 medium red bell pepper (cored and thinly sliced lengthwise)
-- 2 Tbsp coconut aminos (or tamari or soy sauce if not gluten free)
+- 2 Tbsp coconut aminos (or Tamari or soy sauce if not gluten free)
 - 2 cups carrots (peeled and ribboned with a vegetable peeler)
 - 1 head of collard greens leaves (large stems removed, stacked + thinly sliced)
 - 1/2 tsp freshly grated ginger (optional)
@@ -28,7 +28,7 @@ SAUCE
 
 - 2 1/2 Tbsp nut butter (almond butter, peanut butter, sunflower seed butter, etc.)
 - 3 Tbsp lemon juice
-- 3 1/2 Tbsp coconut aminos (or tamari if not GF)
+- 3 1/2 Tbsp coconut aminos (or Tamari if not GF)
 - 1/2 tsp red pepper flake
 - 1 1/2 Tbsp maple syrup
 
@@ -40,7 +40,7 @@ PROTEIN
 If you add Tofu: 
 
 - 1/2 cup extra-firm tofu (excess liquid pressed out, crumbled with a fork)
-- 1 Tbsp coconut aminos (or tamari if not GF)
+- 1 Tbsp coconut aminos (or Tamari if not GF)
 - 1 tsp chili garlic sauce (or 1/8 tsp red pepper flake)
 - 1/4 tsp ground turmeric (optional)
 
@@ -66,4 +66,3 @@ FOR SERVING optional
 
 Serve as is or over quinoa or even add some hemp seeds.
 
-_Tags: vegan, gluten-free, dairy-free, paleo, 1 hour, indian, vegetables, lunch, dinner, main_
