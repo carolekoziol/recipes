@@ -94,8 +94,7 @@ nav:
             - Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
             - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
     - Salads:
-        - Placeholder:
-            - Food: ''
+        - Broccoli Salad (Ve, P, GF, DF): 'salad/broccoli_salad.md'
     - Sides:
         - Vegetable:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
