@@ -14,8 +14,7 @@ nav:
             - Fruity Coconut Popsicles (P, Ve, GF): 'appetizers_snacks/fruity_coconut_popsicles.md'
             - Chocolate Nut Butter Banana Popsicles(P, Ve, GF): 'appetizers_snacks/chocolate_nut_butter_popsicles.md'
     - Beverages:
-        - Placeholder:
-            - Food: ''
+        - Dairy-Free Eggnog: 'beverages/dairy_free_eggnog.md'
     - Breads:
         - Italian Pizza Dough (Ve, P, GF, DF): 'breads/italian_pizza_dough.md'
         - North American Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
@@ -30,17 +29,19 @@ nav:
         - Placeholder:
             - Food: ''
     - Desserts:
-        - Cake:
+        - Cake/Cookies:
             - Mug Brownies: 'desserts/mug_brownie.md'
-            - Cheese cake: 'desserts/vegan_cheese_cake.md'
+            - Cheese cake (Ve, DF): 'desserts/vegan_cheese_cake.md'
+            - Gingersnap cookies (GF, DF): 'desserts/gf_gingersnap_cookies.md'
         - Frosting:
             - For Cake and Cupcake: 'desserts/vegan_frosting.md'
         - Fudge:
-            - Vegan Chocolate: 'desserts/vegan_fudge.md'
+            - Vegan Chocolate (Ve, DF): 'desserts/vegan_fudge.md'
         - Crust:
-            - Pie: ''
+            - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
         - Pie:
-            - Pumpkin: 'desserts/vegan_pumpkin_pie.md'
+            - Pumpkin Pie (Ve, DF): 'desserts/vegan_pumpkin_pie.md'
+            - Lemon Meringue Pie (DF): 'desserts/lemon_meringue_pie.md'
         - Toppings:
             - Whipped Cream: 'desserts/coconut_whipped_cream.md'
     - Main Courses:
@@ -53,6 +54,7 @@ nav:
             - Pizza (Ve, P, GF, DF): ''
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
+            - Roasted Leg of Lamb (P, GF): 'main_course/roasted_leg_lamb.md'
         - Bowls:
             - General Tao Noodle Bowl (Ve, GF): 'main_course/general_tao_noodle_bowl.md'
             - Bibimbap: 'main_course/bibimbap.md'
@@ -62,12 +64,14 @@ nav:
             - Loaded Cauliflower Bake Casserole (P, DF, GF): 'main_course/loaded_cauliflower_bake_casserole.md'
             - Sausage and Slaw Skillet (P, GF): 'main_course/sausage_slaw_skillet.md'
             - Sausage Casserole (P, DF, GF): 'main_course/sausage_casserole.md'
+            - Shepherd Pie: 'main_course/shepherd_pie.md'
             - Spanish Paella (Ve, GF): 'main_course/paella.md'
             - Taco Casserole (P, DF): 'main_course/taco_casserole.md'
         - Curry & Pad Thai: 
             - Coconut Chickpea Curry (Ve, GF): 'main_course/coconut_chickpea_curry.md'
             - Robyn's Chicken Red Thai Curry (P, DF, GF): 'main_course/robyn_red_thai_curry_chicken.md'
             - Noodle-Free Pad Thai (Ve, P, GF): 'main_course/noodle_free_pad_thai.md'
+            - Vegan Pad Thai (Ve, DF): 'main_course/vegan_pad_thai.md'
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
             - Falafel (Ve, GF): 'main_course/falafel.md'
