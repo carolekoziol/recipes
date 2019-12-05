@@ -9,7 +9,7 @@
 ### Ingredients
 
 - 2 lb boneless, skinless chicken breasts, chopped into 1 inch cubes
-- 2 x 15 oz can full fat coconut milk
+- 2 x 15 oz cans full fat coconut milk
 - 15 oz can tomato sauce
 - 2 Tablespoons lemon juice
 - 2 Tablespoons Coconut Oil

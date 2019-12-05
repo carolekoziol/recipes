@@ -41,7 +41,7 @@ nav:
             - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
         - Pie:
             - Pumpkin Pie (Ve, DF): 'desserts/vegan_pumpkin_pie.md'
-            - Lemon Meringue Pie (DF): 'desserts/lemon_meringue_pie.md'
+            - Lemon Meringue Pie (DF): ''
         - Toppings:
             - Whipped Cream: 'desserts/coconut_whipped_cream.md'
     - Main Courses:
@@ -113,6 +113,7 @@ nav:
             - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
             - Stir Fry Bean Sprouts with Fried Garlic (Ve, P, GF): 'sides/stir_fry_bean_sprouts.md'
             - Succotash (Ve, GF): 'sides/succotash.md'
+            - Pan-fried Asparagus (Ve, P, GF): ''
             - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
             - Italian Style Zucchini and Mushroom (P, Ve, GF): 'appetizers_snacks/italian_zucchini_mushrooms.md'
             - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'
@@ -120,10 +121,11 @@ nav:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
             - Black eyed peas Curry (Ve, GF): 'sides/black_eyed_peas_curry_instant_pot.md'
         - Rice:
-            -  Food: ''
+            -  Coconut Rice (Ve, GF): ''
     - Soups & Stews:
         - Soups:
-            - Avgolemono Chicken Soup: 'soups_stews/avgolemono_chicken_soup.md'            
+            - Avgolemono Chicken Soup: 'soups_stews/avgolemono_chicken_soup.md'
+            - Chickpea Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
             - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
             - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
             - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
