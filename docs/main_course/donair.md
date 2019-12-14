@@ -9,14 +9,15 @@
 
 ### Ingredients
 
-- 1 pound ground chicken/beef (Tofu and tempeh are great alternatives. Recipe below.)
-- 1 teaspoon ground black pepper
-- 1 teaspoon onion powder
-- 1 teaspoon garlic powder
-- 1 teaspoon salt
-- 1 teaspoon paprika
-- 2 teaspoons cayenne pepper
-- 1 teaspoon dried oregano
+- 1 pound ground chicken/beef
+- Spice mixture: 
+	- 1 teaspoon paprika
+	- 2 teaspoons cayenne pepper
+	- 1 teaspoon dried oregano
+	- 1 teaspoon onion powder
+	- 1 teaspoon garlic powder
+	- 1 teaspoon salt	
+	- 1 teaspoon ground black pepper
 
 TO SERVE WITH (Optional)
 
@@ -27,12 +28,13 @@ TO SERVE WITH (Optional)
 
 ### Instructions
 
-#### Using Ground Meat
-1. 
-2. 
-3. 
-4. 
-5. 
+#### Donair
+
+1. Take 2 legs and 2 thighs with the skin of the whole chicken, 
+2. Grind it once with the meat grinder plate with the smallest screen.
+3. Put the meat in the food processor and process it a bit and add the spices mixture, then process it until it become a paste.
+4. Put the paste meat into a loaf pan. Press the meat down.
+5. Refrigerate overnight or at least 4 hours (best overnight).
 
 ### Donair Sauce 
 

@@ -60,11 +60,13 @@ nav:
             - Bibimbap: 'main_course/bibimbap.md'
             - Loco Moco: 'main_course/loco_moco.md'
         - Casseroles:
+            - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
             - Jambalaya (P, DF, GF): 'main_course/jambalaya.md'
             - Loaded Cauliflower Bake Casserole (P, DF, GF): 'main_course/loaded_cauliflower_bake_casserole.md'
             - Sausage and Slaw Skillet (P, GF): 'main_course/sausage_slaw_skillet.md'
             - Sausage Casserole (P, DF, GF): 'main_course/sausage_casserole.md'
             - Shepherd Pie: 'main_course/shepherd_pie.md'
+            - Turkey Quinoa Chili (P, DF, GF): 'main_course/turkey_quinoa_chili.md'
             - Spanish Paella (Ve, GF): 'main_course/paella.md'
             - Taco Casserole (P, DF): 'main_course/taco_casserole.md'
         - Curry & Pad Thai: 
@@ -99,6 +101,7 @@ nav:
             - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
     - Salads:
         - Broccoli Salad (Ve, P, GF, DF): 'salad/broccoli_salad.md'
+        - Chicken and Rice Salad (GF, DF): 'salad/rice_chicken_salad.md'
     - Sides:
         - Vegetable:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
@@ -115,7 +118,7 @@ nav:
             - Succotash (Ve, GF): 'sides/succotash.md'
             - Pan-fried Asparagus (Ve, P, GF): ''
             - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
-            - Italian Style Zucchini and Mushroom (P, Ve, GF): 'appetizers_snacks/italian_zucchini_mushrooms.md'
+            - Italian Style Zucchini and Mushroom (P, Ve, GF): 'sides/italian_zucchini_mushrooms.md'
             - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'
         - Beans:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
@@ -124,7 +127,6 @@ nav:
             -  Coconut Rice (Ve, GF): ''
     - Soups & Stews:
         - Soups:
-            - Avgolemono Chicken Soup: 'soups_stews/avgolemono_chicken_soup.md'
             - Chickpea Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
             - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
             - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
@@ -164,7 +166,8 @@ nav:
     - Pasta:
         - Authentic Italian Egg Pasta: ''
         - Authentic Italian Gnocchi: ''  
-    - Homemade Sausages: 'basics/sausage'
+    - Homemade Sausages: 'basics/sausage.md'
+    - Homemade Mayonnaise: 'basics/homemade_mayo.md'
     - Sourdough Starter:  'basics/sourdough_starter.md'   
     - Tofu:
         - Tofu Marinades: 'basics/marinating_tofu.md'
@@ -172,5 +175,4 @@ nav:
             - Soy Tofu: ''
             - Chickpea Tofu: ''
     - Tempeh: '' 
-- About:
-    - Measurements Equivalent: 'measurements/measurements_conversions.md'
+- About: ''
