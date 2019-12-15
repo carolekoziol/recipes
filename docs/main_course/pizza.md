@@ -7,11 +7,11 @@ There can be different types of pizzas. Just put anything that you have in your 
 
 ### Topping Ingredients (they are all optional)
 
-- Cooked proteins: chicken, sausage, ham, crumbled tempeh
+- Cooked proteins: chicken, sausage, ham, crumbled tempeh, vegan pizzaroni (e.g. Gusta artisonal vegan pizzaroni - vegan seitan stick)
 - Fried vegetables: bell peppers, onions, mushrooms, eggplant, broccoli, cooked and drained spinach, 
 - herbs: fresh basil
 - Tomato pizza sauce
-- cheese/cheeze: goat cheese, mozzarella, or vegan melt cheeze.
+- cheese/cheeze: goat cheese, mozzarella, or vegan melt cheeze (e.g. Gusta artisanal vegan Italiano - vegan grating block cheeze)
 
 ### Instructions
 

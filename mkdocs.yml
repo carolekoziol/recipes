@@ -50,6 +50,7 @@ nav:
             - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
             - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
             - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
+            - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
             - Meat pie (Tourtière): 'main_course/meat_pie.md'
             - Pizza (Ve, P, GF, DF): ''
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
@@ -60,7 +61,7 @@ nav:
             - Bibimbap: 'main_course/bibimbap.md'
             - Loco Moco: 'main_course/loco_moco.md'
         - Casseroles:
-            - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
+            - Chicken a la King Casserole (DF, GF): 'main_course/chicken_a_la_king_casserole.md'
             - Jambalaya (P, DF, GF): 'main_course/jambalaya.md'
             - Loaded Cauliflower Bake Casserole (P, DF, GF): 'main_course/loaded_cauliflower_bake_casserole.md'
             - Sausage and Slaw Skillet (P, GF): 'main_course/sausage_slaw_skillet.md'
@@ -127,6 +128,7 @@ nav:
             -  Coconut Rice (Ve, GF): ''
     - Soups & Stews:
         - Soups:
+            - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
             - Chickpea Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
             - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
             - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'

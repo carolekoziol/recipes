@@ -1,9 +1,10 @@
 ## Donair
 
 [Original Recipe by Del](https://www.allrecipes.com/recipe/211191/the-original-donair-from-the-east-coast-of-canada/)
+
 [Original Recipe by Heather](http://mmmisformommy.com/2011/12/donairs-halifax-classic.html)
 
-![Picture](../img/donair.jpg)
+![Picture](../img/donair.JPG)
 
 ** Prep time: 10 minutes || Cook time: 1 hour || Total time: 1h10 minutes || Serving: 6 || Rating 10/10 **
 
@@ -32,9 +33,12 @@ TO SERVE WITH (Optional)
 
 1. Take 2 legs and 2 thighs with the skin of the whole chicken, 
 2. Grind it once with the meat grinder plate with the smallest screen.
-3. Put the meat in the food processor and process it a bit and add the spices mixture, then process it until it become a paste.
+3. Put the ground meat in the food processor and process it for about 30 seconds and add the spices mixture. Process it until it become a paste.
 4. Put the paste meat into a loaf pan. Press the meat down.
 5. Refrigerate overnight or at least 4 hours (best overnight).
+6. Preheat the oven at 375F.
+7. Bake until ready in about 20-25 minutes (Thermometer should be around 170F).
+8. Take it out and let it rest for 10 minutes.
 
 ### Donair Sauce 
 
@@ -51,7 +55,7 @@ TO SERVE WITH (Optional)
 - 1 teaspoon salt
 
 	1. For best result chilled the coconut milk can overnight in the refrigerator to separate 		the fat from the liquid. By only using the coconut fat, the sauce will be thicker 		otherwise it will still be good but runny. 
-	2. In a small pot over meadium heat, mix in the fat of the coconut milk (which should be 		at the top of the can), sugar, and garlic. 
+	2. In a small pot over medium heat, mix in the fat of the coconut milk (which should be 		at the top of the can), sugar, and garlic. 
 	3. Bring to a simmer and add vinegar and beans and cook for about 5 minutes. 
 	4. Puree mixture with a blender or hand blender and if needed return to burner to thicken 		further. 
 	5. Season with salt to taste.

@@ -1,4 +1,4 @@
-## Chicken a la King
+## Chicken a la King Pasta Casserole
 
 [Original Recipe by Ashley Wagner](https://www.centercutcook.com/slow-cooker-healthy-chicken-pot-pie-stew/)
 
@@ -22,12 +22,11 @@
 - 1/3 cup frozen corn kernels
 - 1/3 cup peas
 - 1/2 cup yogourt, plain (e.g coconut, almond, greek)
-
-** Notes **
-
-Use egg noodle pasta, rice or a puff pastry as a based to pour the chicken a la king sauce over it
+- Noodle pasta
 
 ### Instructions
+
+#### Sauce 
 
 ** Stove-Top: **
 
@@ -53,7 +52,12 @@ Use egg noodle pasta, rice or a puff pastry as a based to pour the chicken a la 
 7. Re-cover and cook an additional 30 minutes, until the frozen vegetables have heated through. 
 8. Season to taste before serving.
 
-Serve the chicken a la king over a based such egg noodle pasta, rice or a puff pastry dish.
+#### Casserole
+
+1. After making the chicken a la king sauce, boil 1 lbs of pasta noodles according to package directions.
+1. In a casserole dish, add the noodles and an appropriate amount of Chicken a la king sauce. Mix well.
+1. In a preheated oven at 375F, bake the casserole until ready bubbling and starting to brown (about 30 minutes).
+
 
 
 
