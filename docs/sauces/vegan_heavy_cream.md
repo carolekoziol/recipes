@@ -7,7 +7,7 @@
 ![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 
 
-** Prep time: 5 minutes || Serving: 2 cups || Rating X/10 **
+** Prep time: 5 minutes || Serving: 2 cups || Rating 9.5/10 **
 
 ### Ingredients
 

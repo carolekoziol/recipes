@@ -42,7 +42,15 @@ TO SERVE WITH (Optional)
 
 ### Donair Sauce 
 
-### - Dairy-free Donair sauce
+### 1. Classic Donair Sauce (Dairy or Dairy-Free)
+
+- 1 (12 ounce) can sweetened condensed milk or Non-Dairy Sweetened Condensed Coconut Milk
+- 1-2 teaspoons garlic powder
+- 1/3 cup white vinegar, or to taste (add one tsp at a time)
+
+Mix the three ingredients together.
+
+### 2. Dairy-free Navy Bean Donair sauce
 
 [Original Recipe by Mrs. Latter](http://atlanticcanadianfoodie.blogspot.com/2016/12/dairy-free-donair-sauce.html)
 
@@ -60,12 +68,6 @@ TO SERVE WITH (Optional)
 	4. Puree mixture with a blender or hand blender and if needed return to burner to thicken 		further. 
 	5. Season with salt to taste.
 
-### - Classic Donair Sauce
 
-- 1 (12 ounce) can sweetened condensed milk
-- 1-2 teaspoons garlic powder
-- 1/3 cup white vinegar, or to taste (add one tsp at a time)
 
-Mix the three ingredients together.
 
-_Tags: vegan, dairy-free, 1 hour, lunch, dinner, main_
