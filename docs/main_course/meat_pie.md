@@ -19,7 +19,7 @@
 	- salt
 	- pepper
 	- bay leaves
-- Pie crust
+- Pie crusts
 - 1 beaten egg in a separate bowl (optional)
 
 ### Instructions
@@ -35,12 +35,12 @@
 8. Add more broth. Enough to cover the meat and mix well. 
 9. While cooking, bring it to a boil at medium heat. Then bring the temperature down at low heat. Cover the frying pan. Cook at low for about 45 minutes. 
 10. Adjust the spices to taste. Then boil the liquid off until desire consistency (need to have a paté fit for a pie, so not runny). 
-11. Put the meat into a pie crust. 
-12. Preheated the oven at 400F.
-12. Either score some design into your top of your pie or with your fork make some holes in order to let the steam escape. 
-13. Brushed the beaten egg on the top of the pie to give a shine. 
-14. Cook the pie at 400F for about 15 minutes. 
-15. Change the oven temperature at 350F and let it cook for 50 minutes. 
-16. Take the pie out and let it cool (about 20 minutes). 
+11. Preheated the oven at 400F.
+12. Put the meat into a pie crust. 
+13. Either score some design into your top of your pie to make some holes in order to let the steam escape. 
+14. Brushed the beaten egg on the top of the pie to give a shine. 
+15. Cook the pie at 400F for about 15 minutes. 
+16. Change the oven temperature at 350F and let it cook for 50 minutes. 
+17. Take the pie out and let it cool (about 20 minutes). 
 
 Serve and enjoy

@@ -17,6 +17,7 @@ nav:
         - Dairy-Free Eggnog: 'beverages/dairy_free_eggnog.md'
     - Breads:
         - Italian Pizza Dough (Ve, P, GF, DF): 'breads/italian_pizza_dough.md'
+        - Lard Pie Crust (DF): 'breads/lard_pie_crust.md'
         - North American Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
         - Pretzel Sourdough Discard: ''
         - Sourdough Bread: 'breads/sourdough_bread.md'
@@ -67,7 +68,6 @@ nav:
             - Sausage and Slaw Skillet (P, GF): 'main_course/sausage_slaw_skillet.md'
             - Sausage Casserole (P, DF, GF): 'main_course/sausage_casserole.md'
             - Shepherd Pie: 'main_course/shepherd_pie.md'
-            - Turkey Quinoa Chili (P, DF, GF): 'main_course/turkey_quinoa_chili.md'
             - Spanish Paella (Ve, GF): 'main_course/paella.md'
             - Taco Casserole (P, DF): 'main_course/taco_casserole.md'
         - Curry & Pad Thai: 
@@ -136,6 +136,7 @@ nav:
         - Stews:
             - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
             - Hungarian Goulash (V, DF, GF): 'soups_stews/hungarian_goulash.md'
+            - Turkey Quinoa Chili (P, DF, GF): 'main_course/turkey_quinoa_chili.md'
         - Chowders:
             - Succotash Chowder (Ve, GF): 'soups_stews/succotash_chowder.md'                   
     - Sauces/Dips/Cheezes:
