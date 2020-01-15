@@ -103,9 +103,9 @@ nav:
     - Salads:
         - Broccoli Salad (Ve, P, GF, DF): 'salad/broccoli_salad.md'
         - Chicken and Rice Salad (GF, DF): 'salad/rice_chicken_salad.md'
+        - Potato Salad (GF, DF): 'salad/potato_salad.md'
     - Sides:
         - Vegetable:
-            - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
             - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
             - Carrot Glaze (V, P, DF, GF): 'sides/carrot_glaze.md'
             - Grilled Onions (Ve, P, GF): 'sides/grilled_onions.md'
@@ -114,16 +114,18 @@ nav:
             - Roasted Butternut Squash (Ve, P, GF): 'sides/roasted_butternut_squash.md'
             - Roasted Maple Squash (Ve, P, GF): 'sides/roasted_maple_squash.md'
             - Roasted Radishes (Ve, P, GF): 'sides/roasted_radishes.md'
-            - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
             - Stir Fry Bean Sprouts with Fried Garlic (Ve, P, GF): 'sides/stir_fry_bean_sprouts.md'
             - Succotash (Ve, GF): 'sides/succotash.md'
             - Pan-fried Asparagus (Ve, P, GF): ''
             - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
             - Italian Style Zucchini and Mushroom (P, Ve, GF): 'sides/italian_zucchini_mushrooms.md'
             - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'
-        - Beans:
+        - Grains:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
             - Black eyed peas Curry (Ve, GF): 'sides/black_eyed_peas_curry_instant_pot.md'
+        - Potatoes:
+            - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
+            - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'            - 
         - Rice:
             -  Coconut Rice (Ve, GF): ''
     - Soups & Stews:
