@@ -1,9 +1,6 @@
-## Crushed Baked Potatoes
+## Crispy Squished Baby Potatoes
 
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
-
-![Picture](../img/.jpg)
+![Picture](../img/squished_potatoes.jpg)
 
 ** Total time: 40 minutes || Serving: 4 **
 

@@ -52,6 +52,7 @@ nav:
             - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
             - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
             - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
+            - Chipotle Chicken Club Wrap : 'main_course/chipotle_chicken_wrap.md'
             - Meat pie (Tourtière): 'main_course/meat_pie.md'
             - Pizza (Ve, P, GF, DF): ''
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
@@ -123,6 +124,8 @@ nav:
         - Grains:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
             - Black eyed peas Curry (Ve, GF): 'sides/black_eyed_peas_curry_instant_pot.md'
+        - Pasta/Dumpling: 
+            - spaetzle (Ve, DF): 'sides/spaetzle.md'
         - Potatoes:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
             - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
