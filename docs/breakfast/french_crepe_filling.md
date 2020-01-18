@@ -8,9 +8,9 @@
 
 - Crepes
 - Fresh fruits: 
-	- berries (strawberry, raspberry, blueberry, blackberries) 
-	- cherry, banana, kiwi, thin slices of peaches and pineapple 
-	- stew thin slices of apples and pears
+	- berries (strawberry, raspberry, blueberry, blackberry) 
+	- cherry, banana, kiwi, thin slices of peaches, pineapple 
+	- stewed thin slices of apples and pears
 - Fruit Fillings:
 	- e.g. berry filling, apple cinnamon cream filling
 - Cream Fillings:
@@ -30,7 +30,7 @@
 
 ** Prep time: 15 minutes || Cook time: 2 minutes || Serving: 4 || Rating 10/10 **
 
-- 1 cup flour (if gluten-free, add Bob's mill gluten free pancake mix)
+- 1 cup flour (if gluten-free, use Bob's mill gluten-free pancake mix)
 - 1-1/4 cup water
 - 2 eggs
 - 1 teaspoon honey
@@ -47,7 +47,7 @@ Note: This batter can be prepared the day before and allowed to rest in the frid
 
 1. In a blender combine all ingredients.
 2. Mix well, then let whip for an extra 30-45 seconds.
-3. Add some butter/oil in a pan heated over medium heat.
+3. Add some butter/oil in a pan, heated over medium heat.
 4. Pour about 1/4 cup of batter, and quickly tilt pan from side to side in all directions to spread and cover the pan bottom with the batter.
 5. Cook for approximately 45 seconds, then flip and cook for another 30 seconds.
 6. Transfer the crepe aside and cook the rest of the batter. 
@@ -75,7 +75,8 @@ To serve, add some filling in a a line across the crepe along with whipped cream
 2. Cook and stir until mixture comes to a boil. Simmer 1 minute. 
 3. Stir in the lemon juice.
 	
-### 2. Apple and Cinnamon Pie Filling
+
+### 2. Apple Cinnamon Filling
 
 ![Picture](../img/apple_cinnamon_pie_crepe_filling.jpg)
 
@@ -85,28 +86,16 @@ To serve, add some filling in a a line across the crepe along with whipped cream
 - sugar (honey/maple), to taste
 - cinnamon, to taste
 - lemon juice, to taste
-
-** Instructions **
-
-1. In a small bowl, combine sugar and cinnamon. 
-2. Add in the apples to coat them. Let it rest while cooking crepe (about 10-20 minutes).
-3. Heat apples on medium heat in a skillet. 
-
-### 3. Apple Cinnamon Cream Filling
-
-** Ingredients **
-
-- 3 apples, cored and peeled, chopped
-- sugar (honey/maple), to taste
-- cinnamon, to taste
-- lemon juice, to taste
 - Dash salt 
-- 2 tablespoons cornstarch
+
+** Optional, for a thicker sauce **
+
+- 2 tablespoons cornstarch 
 - 2 tablespoon of cold water
 
 ** Instructions **
 
-1. In a small pot over medium heat, combine and stir to dissolve the sugar, cornstarch, cinnamon, salt and cold water. 
+1. In a small pot over medium heat, combine and stir to dissolve the sugar, cinnamon, salt and, optionally, cornstarch, and cold water. 
 3. Stir in the apples and lemon juice. Cook and stir often until the apples have softened and liquid has thickened (about 5 minutes).
 
 ## Cream Filling Recipes
@@ -121,10 +110,10 @@ To serve, add some filling in a a line across the crepe along with whipped cream
 
 ** Ingredients **
 
-- 8 ounces, weight Cream Cheese, Softened
-- 2 Tablespoons Maple Syrup, icing or cane sugar, adjust to taste
-- 2 cups Whipping Cream
-- 1/4 teaspoon Vanilla Extract
+- 8 ounces cream cheese, softened
+- 2 tablespoons maple syrup, icing or cane sugar, adjust to taste
+- 2 cups whipping cream
+- 1/4 teaspoon vanilla extract
 
 ** Instructions **
 
@@ -182,7 +171,7 @@ Notes:
 
 ** Ingredients **
 
-- Chocolate Hazelnut spread (e.g. Nutella)
+- chocolate hazelnut spread (e.g. Nutella)
 - milk (e.g. almond milk)
 
 ** Instructions **

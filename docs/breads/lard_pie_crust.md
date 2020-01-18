@@ -3,18 +3,16 @@
 [Original Recipe from Allrecipe](https://www.allrecipes.com/recipe/234976/classic-lard-two-crust-pie-pastry/) and
 [Original Recipe from Taste Of Home](https://www.tasteofhome.com/recipes/mom-s-lard-pie-crust/)
 
-
-
 ![Picture](../img/lard_pie_crust.jpg)
 
-** Prep time: 15 minutes + chilling || Makes: two-10inch crust pie pastry
+** Prep time: 15 minutes + chilling || Makes: two 10-inch crust pie pastry
 
 ### Ingredients
 
-- 3.5 cups all-purpose flour
-- 1 cup lard (keep the lard in the fridge for coldness)
+- 3-1/2 cups all-purpose flour
+- 1-1/3 cup lard (keep the lard in the fridge for coldness)
 - 1/4 teaspoon salt
-- 3 to 4 tablespoons ice water (place a glass of cold water in the freezer)
+- 6 to 8 tablespoons ice water (place a glass of cold water in the freezer)
 
 ### Instructions
 

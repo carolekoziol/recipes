@@ -125,7 +125,7 @@ nav:
             - Black eyed peas Curry (Ve, GF): 'sides/black_eyed_peas_curry_instant_pot.md'
         - Potatoes:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
-            - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'            - 
+            - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
         - Rice:
             -  Coconut Rice (Ve, GF): ''
     - Soups & Stews:
@@ -138,7 +138,7 @@ nav:
         - Stews:
             - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
             - Hungarian Goulash (V, DF, GF): 'soups_stews/hungarian_goulash.md'
-            - Turkey Quinoa Chili (P, DF, GF): 'main_course/turkey_quinoa_chili.md'
+            - Turkey Quinoa Chili (P, DF, GF): 'soups_stews/turkey_quinoa_chili.md'
         - Chowders:
             - Succotash Chowder (Ve, GF): 'soups_stews/succotash_chowder.md'                   
     - Sauces/Dips/Cheezes:
