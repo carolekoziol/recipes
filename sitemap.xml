@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+     <loc>https://carolekoziol.github.io/recipes/appetizers_snacks/balsamic_tomato_slices/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://carolekoziol.github.io/recipes/appetizers_snacks/bruschetta/</loc>
      <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
@@ -181,17 +186,32 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/main_course/general_tao_noodle_bowl/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://carolekoziol.github.io/recipes/main_course/bibimbap/</loc>
      <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://carolekoziol.github.io/recipes/main_course/buddha_bowl/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/main_course/burrito_bowl/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/main_course/general_tao_noodle_bowl/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://carolekoziol.github.io/recipes/main_course/loco_moco/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/main_course/sushi_bowl/</loc>
      <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -351,6 +371,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://carolekoziol.github.io/recipes/salad/apple_green_salad/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://carolekoziol.github.io/recipes/salad/broccoli_salad/</loc>
      <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
@@ -361,57 +386,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/salad/potato_salad/</loc>
+     <loc>https://carolekoziol.github.io/recipes/salad/classic_coleslaw/</loc>
      <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/beet_glaze/</loc>
+     <loc>https://carolekoziol.github.io/recipes/salad/apple_cucumber_salad/</loc>
      <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/carrot_glaze/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/grilled_onions/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/mushroom_spinach_potstickers/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/roasted_brussel_sprouts_bacon_apples/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/roasted_butternut_squash/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/roasted_maple_squash/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/roasted_radishes/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/stir_fry_bean_sprouts/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/succotash/</loc>
+     <loc>https://carolekoziol.github.io/recipes/salad/macaroni_salad/</loc>
      <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -421,17 +406,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://carolekoziol.github.io/recipes/appetizers_snacks/roasted_red_pepper_antipasto/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/italian_zucchini_mushrooms/</loc>
-     <lastmod>2020-01-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://carolekoziol.github.io/recipes/sides/vegetables_fritters/</loc>
+     <loc>https://carolekoziol.github.io/recipes/salad/potato_salad/</loc>
      <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -461,8 +436,73 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/coconut_rice/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/beet_glaze/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/carrot_glaze/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/roasted_brussel_sprouts_bacon_apples/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/roasted_butternut_squash/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/roasted_maple_squash/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/roasted_radishes/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/grilled_onions/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/mushroom_spinach_potstickers/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/stir_fry_bean_sprouts/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/succotash/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc></loc>
      
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/italian_zucchini_mushrooms/</loc>
+     <lastmod>2020-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/sides/vegetables_fritters/</loc>
+     <lastmod>2020-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
