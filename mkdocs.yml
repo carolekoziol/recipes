@@ -7,6 +7,7 @@ nav:
 - Recipe Index:
     - Appetizers & Snacks:
         - Appetizers:
+            - Balsamic Tomato Slices (Ve, P, DF, GF): 'appetizers_snacks/balsamic_tomato_slices.md' 
             - Bruschetta (Ve, DF): 'appetizers_snacks/bruschetta.md'
             - Eggplant Caponata (Ve, P, DF, GF): 'appetizers_snacks/eggplant_caponata.md'
             - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
@@ -23,7 +24,7 @@ nav:
         - Sourdough Bread: 'breads/sourdough_bread.md'
     - Breakfasts & Brunchs:
         - French Crepe Buffet (V, DF): 'breakfast/french_crepe_filling.md'
-        - Roasted Brussel Sprouts & Bacon (P, DF, GF) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
+        - Roasted Brussel Sprouts & Bacon (P, DF, GF, M) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
         - Oatmeal (Ve, V, DF, GF): 'breakfast/oatmeal.md' 
     - Dehydrator:
@@ -59,9 +60,12 @@ nav:
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
             - Roasted Leg of Lamb (P, GF): 'main_course/roasted_leg_lamb.md'
         - Bowls:
-            - General Tao Noodle Bowl (Ve, GF): 'main_course/general_tao_noodle_bowl.md'
             - Bibimbap: 'main_course/bibimbap.md'
+            - Buddha Bowl: 'main_course/buddha_bowl.md'
+            - Burrito Bowl: 'main_course/burrito_bowl.md'
+            - General Tao Noodle Bowl (Ve, GF): 'main_course/general_tao_noodle_bowl.md'
             - Loco Moco: 'main_course/loco_moco.md'
+            - Sushi Bowl: 'main_course/sushi_bowl.md'
         - Casseroles:
             - Chicken a la King Casserole (DF, GF): 'main_course/chicken_a_la_king_casserole.md'
             - Jambalaya (P, DF, GF): 'main_course/jambalaya.md'
@@ -102,25 +106,15 @@ nav:
             - Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
             - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
     - Salads:
-        - Broccoli Salad (Ve, P, GF, DF): 'salad/broccoli_salad.md'
+        - Apple Green Salad (Ve, P, GF, DF): 'salad/apple_green_salad.md'
+        - Broccoli Salad (P, GF, DF): 'salad/broccoli_salad.md'
         - Chicken and Rice Salad (GF, DF): 'salad/rice_chicken_salad.md'
+        - Classic Coleslaw (DF, GF): 'salad/classic_coleslaw.md'
+        - Cucumber, Apple, and Tomato Salad (Ve, P, GF, DF): 'salad/apple_cucumber_salad.md'
+        - Macaroni Salad (DF): 'salad/macaroni_salad.md'
+        - Moroccan Carrot Slaw (Ve, DF, GF): 'salad/moroccan_carrot_salad'
         - Potato Salad (GF, DF): 'salad/potato_salad.md'
     - Sides:
-        - Vegetable:
-            - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
-            - Carrot Glaze (V, P, DF, GF): 'sides/carrot_glaze.md'
-            - Grilled Onions (Ve, P, GF): 'sides/grilled_onions.md'
-            - Mushroom spinach potstickers (Ve, P, GF): 'sides/mushroom_spinach_potstickers.md'
-            - Roasted Brussel Sprouts with Bacon and Apples (P, DF, GF): 'sides/roasted_brussel_sprouts_bacon_apples.md'
-            - Roasted Butternut Squash (Ve, P, GF): 'sides/roasted_butternut_squash.md'
-            - Roasted Maple Squash (Ve, P, GF): 'sides/roasted_maple_squash.md'
-            - Roasted Radishes (Ve, P, GF): 'sides/roasted_radishes.md'
-            - Stir Fry Bean Sprouts with Fried Garlic (Ve, P, GF): 'sides/stir_fry_bean_sprouts.md'
-            - Succotash (Ve, GF): 'sides/succotash.md'
-            - Pan-fried Asparagus (Ve, P, GF): ''
-            - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
-            - Italian Style Zucchini and Mushroom (P, Ve, GF): 'sides/italian_zucchini_mushrooms.md'
-            - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'
         - Grains:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
             - Black eyed peas Curry (Ve, GF): 'sides/black_eyed_peas_curry_instant_pot.md'
@@ -130,15 +124,30 @@ nav:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
             - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
         - Rice:
-            -  Coconut Rice (Ve, GF): ''
+            -  Coconut Rice (Ve, GF): 'sides/coconut_rice.md'
+        - Roasted Vegetables:
+            - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
+            - Carrot Glaze (V, P, DF, GF): 'sides/carrot_glaze.md'
+            - Roasted Brussel Sprouts with Bacon and Apples (P, DF, GF, M): 'sides/roasted_brussel_sprouts_bacon_apples.md'
+            - Roasted Butternut Squash (Ve, P, GF): 'sides/roasted_butternut_squash.md'
+            - Roasted Maple Squash (Ve, P, GF): 'sides/roasted_maple_squash.md'
+            - Roasted Radishes (Ve, P, GF): 'sides/roasted_radishes.md'
+        - Vegetable:
+            - Grilled Onions (Ve, P, GF): 'sides/grilled_onions.md'
+            - Mushroom spinach potstickers (Ve, P, GF): 'sides/mushroom_spinach_potstickers.md'
+            - Stir Fry Bean Sprouts with Fried Garlic (Ve, P, GF): 'sides/stir_fry_bean_sprouts.md'
+            - Succotash (Ve, GF): 'sides/succotash.md'
+            - Pan-fried Asparagus (Ve, P, GF): ''
+            - Italian Style Zucchini and Mushroom (P, Ve, GF): 'sides/italian_zucchini_mushrooms.md'
+            - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'
     - Soups & Stews:
         - Soups:
             - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
-            - Chickpea Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
+            - Chickpea/Chicken Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
             - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
             - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
             - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
-        - Stews:
+        - Stews/Chilis:
             - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
             - Hungarian Goulash (V, DF, GF): 'soups_stews/hungarian_goulash.md'
             - Turkey Quinoa Chili (P, DF, GF): 'soups_stews/turkey_quinoa_chili.md'

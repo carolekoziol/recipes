@@ -5,7 +5,7 @@
 ![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 ![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
 
-![Picture](../img/)
+![Picture](../img/jambalaya.jpg)
 
 ** Prep time: 10 minutes || Cook time: 15 minutes || Total time: 25 minutes || Serving: 4 || Rating 10/10 **
 
