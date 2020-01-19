@@ -24,41 +24,31 @@ nav:
         - Sourdough Bread: 'breads/sourdough_bread.md'
     - Breakfasts & Brunchs:
         - French Crepe Buffet (V, DF): 'breakfast/french_crepe_filling.md'
+        - French Toast (V, DF): 'breakfast/french_toast.md'
+        - Oatmeal (Ve, V, DF, GF): 'breakfast/oatmeal.md' 
+        - Pancake (V, DF, GF): 'breakfast/pancakes.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF, M) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
-        - Oatmeal (Ve, V, DF, GF): 'breakfast/oatmeal.md' 
-    - Dehydrator:
-        - Placeholder:
-            - Food: ''
     - Desserts:
         - Cake/Cookies:
             - Mug Brownies: 'desserts/mug_brownie.md'
             - Cheese cake (Ve, DF): 'desserts/vegan_cheese_cake.md'
             - Gingersnap cookies (GF, DF): 'desserts/gf_gingersnap_cookies.md'
+        - Crust:
+            - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
         - Frosting:
             - For Cake and Cupcake: 'desserts/vegan_frosting.md'
         - Fudge:
             - Vegan Chocolate (Ve, DF): 'desserts/vegan_fudge.md'
-        - Crust:
-            - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
         - Pie:
             - Pumpkin Pie (Ve, DF): 'desserts/vegan_pumpkin_pie.md'
             - Lemon Meringue Pie (DF): ''
         - Toppings:
             - Whipped Cream: 'desserts/coconut_whipped_cream.md'
     - Main Courses:
-        - North American: 
-            - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
-            - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
-            - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
-            - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
-            - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
-            - Chipotle Chicken Club Wrap : 'main_course/chipotle_chicken_wrap.md'
-            - Meat pie (Tourtière): 'main_course/meat_pie.md'
-            - Pizza (Ve, P, GF, DF): ''
-            - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
-            - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
-            - Roasted Leg of Lamb (P, GF): 'main_course/roasted_leg_lamb.md'
+        - Asian: 
+            - General Tao Chicken: 'main_course/general_tao_chicken.md'
+            - Peanut Noodles (Ve, DF): 'main_course/peanut_noodles.md'
         - Bowls:
             - Bibimbap: 'main_course/bibimbap.md'
             - Buddha Bowl: 'main_course/buddha_bowl.md'
@@ -80,22 +70,31 @@ nav:
             - Robyn's Chicken Red Thai Curry (P, DF, GF): 'main_course/robyn_red_thai_curry_chicken.md'
             - Noodle-Free Pad Thai (Ve, P, GF): 'main_course/noodle_free_pad_thai.md'
             - Vegan Pad Thai (Ve, DF): 'main_course/vegan_pad_thai.md'
+        - Indian:
+            - Aloo Mushroom Masala (Ve, GF): 'main_course/mushroom_masala.md'
+            - Baingan Bharta (Ve, GF): 'main_course/baingan_bharta.md'
+            - Dairy-Free Butter Chicken (P, GF, DF): 'main_course/dairy_free_butter_chicken.md'
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
             - Falafel (Ve, GF): 'main_course/falafel.md'
             - Mujaddara (Ve, DF, GF): 'main_course/mujaddara.md'
         - Mexican: 
             - Flautas (VE, DF): 'main_course/flautas.md'
+        - North American: 
+            - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
+            - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
+            - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
+            - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
+            - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
+            - Chipotle Chicken Club Wrap : 'main_course/chipotle_chicken_wrap.md'
+            - Meat pie (Tourtière): 'main_course/meat_pie.md'
+            - Pizza (Ve, P, GF, DF): ''
+            - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
+            - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
+            - Roasted Leg of Lamb (P, GF): 'main_course/roasted_leg_lamb.md'
         - Pizza: 
             - North American Pizzas: 'main_course/pizza.md'
             - Rustic Italian Pizza: 'main_course/rustic_italian _pizza.md'   
-        - Asian: 
-            - General Tao Chicken: 'main_course/general_tao_chicken.md'
-            - Peanut Noodles (Ve, DF): 'main_course/peanut_noodles.md'
-        - Indian:
-            - Aloo Mushroom Masala (Ve, GF): 'main_course/mushroom_masala.md'
-            - Baingan Bharta (Ve, GF): 'main_course/baingan_bharta.md'
-            - Dairy-Free Butter Chicken (P, GF, DF): 'main_course/dairy_free_butter_chicken.md'
         - Pasta:
             - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
             - Dan Dan Chae Noodles (Ve): 'main_course/dan_japchae_noodles.md'
