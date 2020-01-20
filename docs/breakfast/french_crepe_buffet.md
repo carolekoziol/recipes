@@ -1,4 +1,4 @@
-## Crêpes Françaises avec Garnitures (Sweet Crepe Buffet)
+## Crêpes Françaises avec Garnitures (French Crepe Buffet)
 
 [Original Recipe by Rachael](https://www.eazypeazymealz.com/dairy-free-crepes/) & [Original Recipe by Rowena Dumlao-Giardina](https://skinnyms.com/dairy-free-crepes/) 
 
