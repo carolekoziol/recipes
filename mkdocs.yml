@@ -5,15 +5,11 @@ theme: mkdocs
 
 nav:
 - Recipe Index:
-    - Appetizers & Snacks:
-        - Appetizers:
-            - Balsamic Tomato Slices (Ve, P, DF, GF): 'appetizers_snacks/balsamic_tomato_slices.md' 
-            - Bruschetta (Ve, DF): 'appetizers_snacks/bruschetta.md'
-            - Eggplant Caponata (Ve, P, DF, GF): 'appetizers_snacks/eggplant_caponata.md'
-            - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers_snacks/roasted_red_pepper_antipasto.md'
-        - Snacks:
-            - Fruity Coconut Popsicles (P, Ve, GF): 'appetizers_snacks/fruity_coconut_popsicles.md'
-            - Chocolate Nut Butter Banana Popsicles(P, Ve, GF): 'appetizers_snacks/chocolate_nut_butter_popsicles.md'
+    - Appetizers:
+        - Balsamic Tomato Slices (Ve, P, DF, GF): 'appetizers/balsamic_tomato_slices.md' 
+        - Bruschetta (Ve, DF): 'appetizers/bruschetta.md'
+        - Eggplant Caponata (Ve, P, DF, GF): 'appetizers/eggplant_caponata.md'
+        - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers/roasted_red_pepper_antipasto.md'
     - Beverages:
         - Dairy-Free Eggnog: 'beverages/dairy_free_eggnog.md'
     - Breads:
@@ -29,22 +25,29 @@ nav:
         - Pancake (V, DF, GF): 'breakfast/pancakes.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF, M) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
-    - Desserts:
-        - Cake/Cookies:
-            - Mug Brownies: 'desserts/mug_brownie.md'
-            - Cheese cake (Ve, DF): 'desserts/vegan_cheese_cake.md'
-            - Gingersnap cookies (GF, DF): 'desserts/gf_gingersnap_cookies.md'
-        - Crust:
-            - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
-        - Frosting:
-            - For Cake and Cupcake: 'desserts/vegan_frosting.md'
-        - Fudge:
-            - Vegan Chocolate (Ve, DF): 'desserts/vegan_fudge.md'
-        - Pie:
-            - Pumpkin Pie (Ve, DF): 'desserts/vegan_pumpkin_pie.md'
-            - Lemon Meringue Pie (DF): ''
-        - Toppings:
-            - Whipped Cream: 'desserts/coconut_whipped_cream.md'
+    - Salads:
+        - Apple Green Salad (Ve, P, GF, DF): 'salad/apple_green_salad.md'
+        - Broccoli Salad (P, GF, DF): 'salad/broccoli_salad.md'
+        - Chicken and Rice Salad (GF, DF): 'salad/rice_chicken_salad.md'
+        - Classic Coleslaw (DF, GF): 'salad/classic_coleslaw.md'
+        - Cucumber, Apple, and Tomato Salad (Ve, P, GF, DF): 'salad/apple_cucumber_salad.md'
+        - Macaroni Salad (DF): 'salad/macaroni_salad.md'
+        - Moroccan Carrot Slaw (Ve, DF, GF): 'salad/moroccan_carrot_salad.md'
+        - Potato Salad (GF, DF): 'salad/potato_salad.md'
+    - Soups & Stews:
+        - Soups:
+            - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
+            - Chickpea/Chicken Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
+            - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
+            - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
+            - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
+        - Stews/Chilis:
+            - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
+            - Hungarian Goulash (V, DF, GF): 'soups_stews/hungarian_goulash.md'
+            - Turkey Quinoa Chili (P, DF, GF): 'soups_stews/turkey_quinoa_chili.md'
+            - Winter Lentil Stew (Ve, DF, GF): 'soups_stews/winter_lentil_stew.md'
+        - Chowders:
+            - Succotash Chowder (Ve, GF): 'soups_stews/succotash_chowder.md'  
     - Main Courses:
         - Asian: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
@@ -70,6 +73,8 @@ nav:
             - Robyn's Chicken Red Thai Curry (P, DF, GF): 'main_course/robyn_red_thai_curry_chicken.md'
             - Noodle-Free Pad Thai (Ve, P, GF): 'main_course/noodle_free_pad_thai.md'
             - Vegan Pad Thai (Ve, DF): 'main_course/vegan_pad_thai.md'
+        - European:
+            - Schnitzel: 'main_course/schnitzel.md'
         - Indian:
             - Aloo Mushroom Masala (Ve, GF): 'main_course/mushroom_masala.md'
             - Baingan Bharta (Ve, GF): 'main_course/baingan_bharta.md'
@@ -104,15 +109,6 @@ nav:
             - Noodles with Corn and Rosemary Sauce (Ve, DF, GF): 'main_course/noodles_corn_rosemary_sauce.md'
             - Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
             - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
-    - Salads:
-        - Apple Green Salad (Ve, P, GF, DF): 'salad/apple_green_salad.md'
-        - Broccoli Salad (P, GF, DF): 'salad/broccoli_salad.md'
-        - Chicken and Rice Salad (GF, DF): 'salad/rice_chicken_salad.md'
-        - Classic Coleslaw (DF, GF): 'salad/classic_coleslaw.md'
-        - Cucumber, Apple, and Tomato Salad (Ve, P, GF, DF): 'salad/apple_cucumber_salad.md'
-        - Macaroni Salad (DF): 'salad/macaroni_salad.md'
-        - Moroccan Carrot Slaw (Ve, DF, GF): 'salad/moroccan_carrot_salad.md'
-        - Potato Salad (GF, DF): 'salad/potato_salad.md'
     - Sides:
         - Grains:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
@@ -138,20 +134,7 @@ nav:
             - Succotash (Ve, GF): 'sides/succotash.md'
             - Pan-fried Asparagus (Ve, P, GF): ''
             - Italian Style Zucchini and Mushroom (P, Ve, GF): 'sides/italian_zucchini_mushrooms.md'
-            - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'
-    - Soups & Stews:
-        - Soups:
-            - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
-            - Chickpea/Chicken Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
-            - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
-            - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
-            - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
-        - Stews/Chilis:
-            - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
-            - Hungarian Goulash (V, DF, GF): 'soups_stews/hungarian_goulash.md'
-            - Turkey Quinoa Chili (P, DF, GF): 'soups_stews/turkey_quinoa_chili.md'
-        - Chowders:
-            - Succotash Chowder (Ve, GF): 'soups_stews/succotash_chowder.md'                   
+            - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'                 
     - Sauces/Dips/Cheezes:
         - Cheezes:
             - Cheeze Sauce (Ve, GF): 'sauces/cheeze_sauce.md'
@@ -170,6 +153,26 @@ nav:
             - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'  
             - Pizza Sauce (P, Ve, GF): 'sauces/pizza_sauce.md'
             - Spaghetti Sauce (P, GF): 'sauces/spaghetti_sauce.md'
+    - Snacks:
+        - Popsicles: 
+            - Fruity Coconut Popsicles (P, Ve, GF): 'snacks/fruity_coconut_popsicles.md'
+            - Chocolate Nut Butter Banana Popsicles(P, Ve, GF): 'snacks/chocolate_nut_butter_popsicles.md'
+    - Desserts:
+        - Cake/Cookies:
+            - Mug Brownies: 'desserts/mug_brownie.md'
+            - Cheese cake (Ve, DF): 'desserts/vegan_cheese_cake.md'
+            - Gingersnap cookies (GF, DF): 'desserts/gf_gingersnap_cookies.md'
+        - Crust:
+            - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
+        - Frosting:
+            - For Cake and Cupcake: 'desserts/vegan_frosting.md'
+        - Fudge:
+            - Vegan Chocolate (Ve, DF): 'desserts/vegan_fudge.md'
+        - Pie:
+            - Pumpkin Pie (Ve, DF): 'desserts/vegan_pumpkin_pie.md'
+            - Lemon Meringue Pie (DF): ''
+        - Toppings:
+            - Whipped Cream: 'desserts/coconut_whipped_cream.md' 
 - Basics:
     - Broth:
         - Bone Broth: ''
