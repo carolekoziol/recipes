@@ -60,25 +60,26 @@ nav:
             - Loco Moco: 'main_course/loco_moco.md'
             - Sushi Bowl: 'main_course/sushi_bowl.md'
         - Casseroles:
-            - Chicken a la King Casserole (DF, GF): 'main_course/chicken_a_la_king_casserole.md'
+            - Chicken a la King Casserole (DF, GF, M): 'main_course/chicken_a_la_king_casserole.md'
+            - Gumbo (M, DF): 'main_course/gumbo.md'
             - Jambalaya (P, DF, GF): 'main_course/jambalaya.md'
             - Loaded Cauliflower Bake Casserole (P, DF, GF): 'main_course/loaded_cauliflower_bake_casserole.md'
-            - Sausage and Slaw Skillet (P, GF): 'main_course/sausage_slaw_skillet.md'
-            - Sausage Casserole (P, DF, GF): 'main_course/sausage_casserole.md'
-            - Shepherd Pie: 'main_course/shepherd_pie.md'
+            - Sausage and Slaw Skillet (P, GF, M): 'main_course/sausage_slaw_skillet.md'
+            - Sausage Casserole (P, DF, GF, M): 'main_course/sausage_casserole.md'
+            - Shepherd Pie (DF, M): 'main_course/shepherd_pie.md'
             - Spanish Paella (Ve, GF): 'main_course/paella.md'
-            - Taco Casserole (P, DF): 'main_course/taco_casserole.md'
+            - Taco Casserole (P, DF, M): 'main_course/taco_casserole.md'
         - Curry & Pad Thai: 
             - Coconut Chickpea Curry (Ve, GF): 'main_course/coconut_chickpea_curry.md'
-            - Robyn's Chicken Red Thai Curry (P, DF, GF): 'main_course/robyn_red_thai_curry_chicken.md'
+            - Robyn's Chicken Red Thai Curry (P, DF, GF, M): 'main_course/robyn_red_thai_curry_chicken.md'
             - Noodle-Free Pad Thai (Ve, P, GF): 'main_course/noodle_free_pad_thai.md'
             - Vegan Pad Thai (Ve, DF): 'main_course/vegan_pad_thai.md'
         - European:
-            - Schnitzel: 'main_course/schnitzel.md'
+            - Schnitzel (DF, M): 'main_course/schnitzel.md'
         - Indian:
             - Aloo Mushroom Masala (Ve, GF): 'main_course/mushroom_masala.md'
             - Baingan Bharta (Ve, GF): 'main_course/baingan_bharta.md'
-            - Dairy-Free Butter Chicken (P, GF, DF): 'main_course/dairy_free_butter_chicken.md'
+            - Dairy-Free Butter Chicken (P, GF, DF, M): 'main_course/dairy_free_butter_chicken.md'
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
             - Falafel (Ve, GF): 'main_course/falafel.md'
@@ -93,7 +94,6 @@ nav:
             - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
             - Chipotle Chicken Club Wrap : 'main_course/chipotle_chicken_wrap.md'
             - Meat pie (Tourtière): 'main_course/meat_pie.md'
-            - Pizza (Ve, P, GF, DF): ''
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
             - Roasted Leg of Lamb (P, GF): 'main_course/roasted_leg_lamb.md'
@@ -120,6 +120,7 @@ nav:
             - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
         - Rice:
             -  Coconut Rice (Ve, GF): 'sides/coconut_rice.md'
+            -  Dirty Rice (DF, GF, M): 'sides/dirty_rice.md'
         - Roasted Vegetables:
             - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
             - Carrot Glaze (V, P, DF, GF): 'sides/carrot_glaze.md'
