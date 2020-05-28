@@ -13,19 +13,19 @@ Combined from these original recipes:
 
 #### Sponge
 
-- 500g bread or all-purpose flour
+- 500g bread flour, or all-purpose flour
 - 500g warm water
 - 2 Tablespoons active sourdough starter
 
 #### Dough
 
-- sourdough sponge prepared above
+- sourdough sponge, prepared above
 - 2 large eggs, beaten
 - 1/4 cup neutral oil (light olive oil, avocado oil, etc.)
 - 1/2 cup honey
 - 1 teaspoon yeast
 - 1 Tablespoon salt
-- 500g bread or all-purpose flour
+- 500g bread flour, or all-purpose flour
 
 - 2 Tablespoons baking soda
 
