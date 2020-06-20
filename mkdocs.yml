@@ -53,13 +53,11 @@ nav:
         - Asian: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
             - Peanut Noodles (Ve, DF): 'main_course/peanut_noodles.md'
+            - Sushi Rolls (Ve, DF, GF, M): 'main_course/sushi_rolls.md'
         - Bowls:
             - Bibimbap: 'main_course/bibimbap.md'
-            - Buddha Bowl: 'main_course/buddha_bowl.md'
-            - Burrito Bowl: 'main_course/burrito_bowl.md'
             - General Tao Noodle Bowl (Ve, GF): 'main_course/general_tao_noodle_bowl.md'
             - Loco Moco: 'main_course/loco_moco.md'
-            - Sushi Bowl: 'main_course/sushi_bowl.md'
         - Casseroles:
             - Chicken a la King Casserole (DF, GF, M): 'main_course/chicken_a_la_king_casserole.md'
             - Gumbo (M, DF): 'main_course/gumbo.md'
