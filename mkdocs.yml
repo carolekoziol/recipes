@@ -22,7 +22,8 @@ nav:
     - Breakfasts & Brunchs:
         - French Crepe Buffet (V, DF): 'breakfast/french_crepe_buffet.md'
         - French Toast (V, DF): 'breakfast/french_toast.md'
-        - Oatmeal (Ve, V, DF, GF): 'breakfast/oatmeal.md' 
+        - Grain-Free Fruit Cereal (P, V, DF): 'breakfast/no_grain_cereal.md'
+        - Oatmeal (Ve, V, DF, GF): 'breakfast/oatmeal.md'
         - Pancake (V, DF, GF): 'breakfast/pancakes.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF, M) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'

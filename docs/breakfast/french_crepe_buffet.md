@@ -9,10 +9,15 @@
 - Crepes
 - Fresh fruits: 
 	- berries (strawberry, raspberry, blueberry, blackberry) 
-	- cherry, banana, kiwi, thin slices of peaches, pineapple 
+	- cherry, banana, thin slices of peaches, etc.
 	- stewed thin slices of apples and pears
 - Fruit Fillings:
 	- e.g. berry filling, apple cinnamon cream filling
+- Berry Coulis
+	- Raspberries and/or Strawberries Coulis
+- Syrups:
+	- Chocolate Syrup
+	- Caramel Syrup
 - Cream Fillings:
 	- Whipped cream cheese or Coconut Whipped Cream (dairy-free)
 	- Chocolate hazelnut spread
@@ -97,6 +102,16 @@ To serve, add some filling in a a line across the crepe along with whipped cream
 
 1. In a small pot over medium heat, combine and stir to dissolve the sugar, cinnamon, salt and, optionally, cornstarch, and cold water. 
 3. Stir in the apples and lemon juice. Cook and stir often until the apples have softened and liquid has thickened (about 5 minutes).
+
+## Berry Coulis 
+
+### 1. Raspberries and/or Strawberries Coulis
+
+** Ingredients **
+
+
+** Instructions **
+
 
 ## Cream Filling Recipes
 
@@ -183,9 +198,27 @@ Notes:
 
 ### 4. Lemon Curd 
 
+Make: 1 cup of lemon curd
+
 ** Ingredients **
 
+- 3/4 cup fresh lemon juice
+- 1 tablespoon grated lemon zest
+- 3/4 cup sugar
+- 3 eggs
+- 1/2 cup unsalted butter, cubed
+
 ** Instructions **
+
+1. Place strained lemon juice and sugar in a small saucepan. Heat on low and stir until sugar has dissolved.
+2. Lightly beat egg in a medium bowl.
+3. Remove lemon syrup from heat and pour SLOWLY into beaten egg while whisking the mixture with a whisk. Continue to whisk by hand for one minute.
+	- If you pour too fast, the eggs will be scrambled.
+4. Pour the egg mixture back into the saucepan OVER a strainer. This will get rib of any eggs that may have curdled. 
+5. Add lemon zest, and heat on medium-low until it thickens (about two minutes).
+	- Thick enough to hold the marks from the whisk.
+6. Remove the curd from the heat. and add the butter a little at a time, stirring to help it melt. 
+7. Transfer to a container and cover (to prevent a skin from forming), then refrigerate.
 
 ### 5. Nut Butter Cream
 

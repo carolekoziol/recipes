@@ -56,7 +56,7 @@ The finished sushi rice should have a similar texture to the rice below in the p
 
 ### 1. Uramaki (Inside-Out Sushi or California Rolls)
 
-1. Place the nori on the rolling mat, but always keep a sheet of wrapping wrap on the mat (as the inside-out maki sushi is quite messy).
+1. Place the nori on the rolling mat, but always keep a sheet of cling wrap on the mat (as the inside-out maki sushi is quite messy).
 
 ![Picture](../img/Link_to_picture)
 
@@ -65,17 +65,17 @@ The finished sushi rice should have a similar texture to the rice below in the p
 ![Picture](../img/Link_to_picture)
 
 
-3. Make sure the rice is firmly pressed down onto the seaweed, and then, with your hand on top of the rice, turn the sheet around so that the rice is now placed on top of the wrapping wrap.
+3. Make sure the rice is firmly pressed down onto the seaweed, and then, with your hand on top of the rice, turn the sheet around so that the rice is now placed on top of the cling wrap.
 
 ![Picture](../img/Link_to_picture)
 
 
-4. Place your choice of filling (1 to 3 filling choices) about ¼ of the way up from the bottom of the nori.
+4. Place your choice of filling (1 to 3 filling choices) about 1/4 of the way up from the bottom of the nori.
 
 ![Picture](../img/Link_to_picture)
 
 
-5. To roll, lift up the bottom part of the bamboo sushi mat and roll the rice covered nori over the fillings you’ve just placed on the rice. While doing this, make sure to keep just enough pressure on the bamboo mat with one hand (to make sure sushi is firm), and pull the bamboo mat with the other hand. Make sure the wrapping wrap doesn’t get incorporated into the sushi.
+5. To roll, lift up the bottom part of the bamboo sushi mat and roll the rice covered nori over the fillings you’ve just placed on the rice. While doing this, make sure to keep just enough pressure on the bamboo mat with one hand (to make sure sushi is firm), and pull the bamboo mat with the other hand. Make sure the cling wrap doesn’t get incorporated into the sushi.
 This maki sushi roll should look like the sushi log.
 
 ![Picture](../img/Link_to_picture)
@@ -89,4 +89,14 @@ This maki sushi roll should look like the sushi log.
 
 ### 2. Hosomaki
 
+1. Place one sheet of nori (seaweed) onto the bamboo rolling mat.
+2. Cover the nori about 5/6 of the way up with a thin layer of the sushi rice, just enough to cover the nori.
+3. Place a row of your desired fillings along the sushi rice, about ¼ of the way up from the bottom. 
+	- Optional: sprinkle some sesame seeds over the fillings.
+4. To roll, lift up the bottom part of the bamboo sushi mat and roll the rice covered nori over the fillings you’ve just placed on the rice. While doing this, make sure to keep just enough pressure on the bamboo mat with one hand (to make sure sushi is firm), and pull the bamboo mat with the other hand.
+5. Continue rolling the sushi and make sure to roll over the end of the nori that was left without rice. This was left without rice to join the nori together seamlessly and to keep the sushi intact.
+
+![Picture](../img/Link_to_picture)
+
+### 3. Hand Rolls
 
