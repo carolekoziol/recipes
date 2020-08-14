@@ -6,7 +6,7 @@
 
 ![Picture](../img/classic_pizza_crust.jpg)
 
-** Prep time: 10 minutes || waiting time: 35 minutes || Serving: two 8" thick-crusts or 9" thin-crusts. **
+** Prep time: 1 hour || Cook time: 20 minutes || Serving: two 8" thick-crusts or 9" thin-crusts. **
 
 #### Ingredients
 
@@ -26,8 +26,39 @@
 	- Use the pizza dough immediately or refrigerate it (less than 48 hours), or place it in an airtight bag and freeze.
 5. Preheat your oven to 450°F.
 6. On a lightly floured work surface, roll out one piece of dough into an 8 inch disc. 
-7. Add the pizza sauce and your choice of toppings.
-8. Bake for 10 minutes or until the dough is cooked through and nicely golden.
+7. Bake at 450°F for 10 minutes until it partially cooked.
+8. Add the pizza sauce and your choice of toppings.
+9. Bake for 10 minutes or until the dough is cooked through and nicely golden.
+
+### 2. Easy Basic Bread Machine Pizza Crust
+
+[Original Recipe by Karin... ](https://www.food.com/recipe/easy-peezy-pizza-dough-bread-machine-pizza-dough-35805)
+
+![Picture](../img/bread_machine_pizza_dough.jpg)
+
+** Prep time: 2h15 minutes || cook time: 20 minutes || Serving: two 12" pizzas **
+
+#### Ingredients
+- 4 teaspoons dried granulated yeast
+- 6 cups all purpose flour
+- 2 teaspoons salt
+- 4 tablespoons sugars (e.g. cane sugar)
+- 4 tablespoons olive oil
+- 2 cups water, plus
+- 4 tablespoons water
+
+#### Instructions
+
+1. Place all the above ingredients in the order I have listed into the bread machine.
+2. Select the dough cycle and press start.
+3. When the dough cycle is complete, take the dough out of the machine and place in well greased bowl, and roll the dough around (in the bowl) thus 'coating' it in oil.
+4. Cover and leave to rise in a warm place for about 1/2 an hour.
+5. Knead the risen dough lightly.
+6. Separate the dough in half (to make two pizzas) and roll the dough into a circle.
+7. Place on well greased baking tray or pizza pan.
+8. Bake at 450°F for 10 minutes until it partially cooked.
+9. Add your pizza sauce and choices of toppings.
+10. Bake at 450°F for 10 minutes or until the dough is cooked through and nicely golden.
 
 ### 2. Sourdough Pizza Crust 
 
@@ -44,7 +75,7 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 - 2 cup sourdough discard 
 - 1 cup warm water
 - 5 cups All-Purpose Flour
-- 2 teaspoon salt
+- 2 teaspoons salt
 - 1 teaspoon instant or active dry yeast
 
 #### Instructions
@@ -162,19 +193,7 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 		5. Remove the eggplant slices from the oven, add pizza sauce and choice of toppings. 
 		6. Place in the oven until the cheese has melted (for about 5 minutes). 
 
-### 6. Cauliflower Pizza Crust
-
-[Original Recipe from ]()
-
-![Picture](../img/)
-
-** Prep time: 15 minutes || Cook time: 10 minutes || Serving: two 12" pizzas **
-
-#### Ingredients
-
-#### Instructions
-
-### 7. Cheese Pizza Crust
+### 6. Cheese Pizza Crust
 
 [Original Recipe from Ruledme ](https://www.ruled.me/low-carb-pepperoni-pizza/)
 
@@ -210,7 +229,7 @@ Note: This list is for regular-crust thickness. For thin-crusts divide the recip
 11. Return to the oven and cook until done (about 10 minutes). 
 
 
-### 8. Buffalo Chicken Pizza Crust
+### 7. Buffalo Chicken Pizza Crust
 
 [Original Recipe from Ruled me](https://www.ruled.me/buffalo-chicken-crust-pizza/)
 

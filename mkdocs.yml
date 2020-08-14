@@ -102,13 +102,15 @@ nav:
             - Rustic Italian Pizza: 'main_course/rustic_italian _pizza.md'   
         - Pasta:
             - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
+            - Carbonara (M): 'main_course/creamy_carbonara.md'
             - Dan Dan Chae Noodles (Ve): 'main_course/dan_japchae_noodles.md'
             - Fettuccini Alfredo (Ve, DF, GF): 'main_course/vegan_alfredo.md'
             - Lasagna (Ve, DF): 'main_course/lasagna.md'
-            - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
             - Noodles with Corn and Rosemary Sauce (Ve, DF, GF): 'main_course/noodles_corn_rosemary_sauce.md'
             - Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
+            - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
             - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
+            - Tomato Cream Pasta:  'main_course/tomato_cream_pasta.md' 
     - Sides:
         - Grains:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
