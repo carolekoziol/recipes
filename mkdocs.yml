@@ -57,6 +57,7 @@ nav:
             - Peanut Noodles (Ve, DF): 'main_course/peanut_noodles.md'
             - Sushi Rolls (Ve, DF, GF, M): 'main_course/sushi_rolls.md'
         - Bowls:
+            - Arroz Tapado (M, DF, GF): 'main_course/arroz_tapado.md'
             - Bibimbap: 'main_course/bibimbap.md'
             - General Tao Noodle Bowl (Ve, GF): 'main_course/general_tao_noodle_bowl.md'
             - Loco Moco: 'main_course/loco_moco.md'
@@ -89,6 +90,7 @@ nav:
             - Flautas (VE, DF): 'main_course/flautas.md'
         - North American: 
             - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
+            - Brisket Burnt Ends (M, GF, DF): 'main_course/brisket_burnt_ends.md'
             - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
             - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
             - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
@@ -132,6 +134,7 @@ nav:
             - Roasted Radishes (Ve, P, GF): 'sides/roasted_radishes.md'
         - Vegetable:
             - Grilled Onions (Ve, P, GF): 'sides/grilled_onions.md'
+            - Fried Green Tomatoes (Ve): 'sides/fried_green_tomatoes.md'
             - Mushroom spinach potstickers (Ve, P, GF): 'sides/mushroom_spinach_potstickers.md'
             - Stir Fry Bean Sprouts with Fried Garlic (Ve, P, GF): 'sides/stir_fry_bean_sprouts.md'
             - Succotash (Ve, GF): 'sides/succotash.md'
@@ -164,15 +167,20 @@ nav:
     - Desserts:
         - Cake/Cookies:
             - Banana Bread: 'desserts/banana_bread.md'
+            - Indoors Campfire Treats: 'desserts/campfire_treats.md'
             - Mug Brownies: 'desserts/mug_brownie.md'
             - Cheese cake (Ve, DF): 'desserts/vegan_cheese_cake.md'
             - Gingersnap cookies (GF, DF): 'desserts/gf_gingersnap_cookies.md'
+            - Zucchini Bread: 'desserts/zucchini_bread.md'
         - Crust:
             - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
         - Frosting:
             - For Cake and Cupcake: 'desserts/vegan_frosting.md'
         - Fudge:
             - Vegan Chocolate (Ve, DF): 'desserts/vegan_fudge.md'
+        - Pastries:
+            - Indoors Campfire treats: 'desserts/campfire_treats.md'
+            - Pets de soeur: 'desserts/pets_de_soeur.md'
         - Pie:
             - Pumpkin Pie (Ve, DF): 'desserts/vegan_pumpkin_pie.md'
             - Lemon Meringue Pie (DF): ''

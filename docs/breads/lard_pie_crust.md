@@ -23,7 +23,15 @@
 	- A slightly sticky dough is easier to work with than one that's too dry.
 	- Do not overwork the dough or allow the ingredients to warm to room temp! 
 4. Divide the dough in half and shape flattened rounds. Wrap in plastic and refrigerate for at least 1 hour.
-5. On a lightly floured surface, roll the dough to 1/8-inch. thickness. Transfer to a 10-inch pie plate. Fill the pie and bake as pie recipe directs. 
+5. On a lightly floured surface, roll the dough to 1/8-inch thickness. 
+6. Transfer one rolled dough to a 10-inch pie plate.
+	- Do not yet cut the excess dough overhang that pass the pie plate.
+7. Fill the pie. 
+8. Transfer the second rolled dough over the filling. 
+9. Press the overhang with a fork to mend the two layers together. 
+10. With a knife, cut the excess overhangs. Cut four or five 2-inch slits, arranged circularly, from the centre toward the edges, should be plenty. 
+11. Optional: For a glossy golden appearance, slightly brush with an egg yolk that was beaten with 1 teaspoon of water. 
+11. Bake as pie recipe directs. 
 
 Note: 
 
