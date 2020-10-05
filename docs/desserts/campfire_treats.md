@@ -32,21 +32,5 @@
 4. Put the banana on a baking sheet and bake for about 10 minutes or until fillings are warm and marshmallow are golden. 
 	
 Note: If cooking over a campfire or a grill, wrap the banana in foil and cook until fillings have melted and banana has warmed through, about 10 minutes.
-
-
-### 2. S'mores
-
-![Picture](../img/Link_to_picture)
-
-** Prep time: XX minutes || Cook time: XX minutes || Serving: X || Rating X/10 **
-
-#### Ingredients
-
-- 2 Graham crackers
-- 1 big marshmallow (cut in half)
-- chocolate square 
-
-#### Instructions
-
-1. 
+ 
 
