@@ -20,7 +20,6 @@ nav:
         - Sourdough Bagels: 'breads/sourdough_bagels.md'
         - Sourdough Bread: 'breads/sourdough_bread.md'
         - Sourdough Buns: 'breads/sourdough_buns.md'
-
     - Breakfasts & Brunchs:
         - Baked French Toast Casserole: 'breakfast/baked_french_toast_casserole.md'
         - French Crepe Buffet (V, DF): 'breakfast/french_crepe_buffet.md'
@@ -40,6 +39,13 @@ nav:
         - Macaroni Salad (DF): 'salad/macaroni_salad.md'
         - Moroccan Carrot Slaw (Ve, DF, GF): 'salad/moroccan_carrot_salad.md'
         - Potato Salad (GF, DF): 'salad/potato_salad.md'
+    - Sandwiches & Burgers: 
+        - Big Bhaji Burger (Ve, GF): 'sand/big_bhaji_burger.md'
+        - Buffalo Cauliflower Burger (Ve, GF): 'sand/buffalo_cauliflower_burger.md'
+        - Chicken Burger (M, DF): 'sand/chicken_burger.md'
+        - Chipotle Chicken Club Wrap: 'sand/chipotle_chicken_wrap.md'   
+        - Fijiji Steak Sandwich: 'sand/fijiji_steak_sandwich.md'
+        - Meatball Sandwich: 'sand/meatball_sandwich.md'
     - Soups & Stews:
         - Soups:
             - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
@@ -58,6 +64,7 @@ nav:
         - Asian: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
             - Peanut Noodles (Ve, DF): 'main_course/peanut_noodles.md'
+            - Spring Rolls (Ve, DF): 'main_course/spring_rolls.md'
             - Sushi Rolls (Ve, DF, GF, M): 'main_course/sushi_rolls.md'
         - Bowls:
             - Arroz Tapado (M, DF, GF): 'main_course/arroz_tapado.md'
@@ -88,17 +95,16 @@ nav:
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
             - Falafel (Ve, GF): 'main_course/falafel.md'
+            - Foul Mudammas (Ve, DF): 'main_course/foul_mudammas.md'
             - Mujaddara (Ve, DF, GF): 'main_course/mujaddara.md'
+            - Samosa (M, DF): 'main_course/samosa.md'
         - Mexican: 
             - Flautas (VE, DF): 'main_course/flautas.md'
         - North American: 
-            - Big Bhaji Burger (Ve, GF): 'main_course/big_bhaji_burger.md'
             - Brisket Burnt Ends (M, GF, DF): 'main_course/brisket_burnt_ends.md'
-            - Buffalo Cauliflower Burger (Ve, GF): 'main_course/buffalo_cauliflower_burger.md'
             - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
             - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
             - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
-            - Chipotle Chicken Club Wrap : 'main_course/chipotle_chicken_wrap.md'
             - Meat pie (Tourtière): 'main_course/meat_pie.md'
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'

@@ -19,7 +19,7 @@
 
 ### Instructions
 
-1. Preheat the oven to 350°F. Pour oil into a small bowl and lightly brush two shallow au gratin dishes with about 1 teaspoon of the olive oil each.
+1. Preheat the oven to 350°F.
 2. Lightly coat the shallow cooking dish with olive oil and mix in the carrots and onions. 
 3. Add the orange juice to the dish, brush with the oil, sprinkle with dill, and season with salt and pepper. 
 4. Place, uncovered, and bake for 20 to 30 minutes.
