@@ -27,6 +27,7 @@ nav:
         - Grain-Free Fruit Cereal (P, V, DF): 'breakfast/no_grain_cereal.md'
         - Oatmeal (Ve, V, DF, GF): 'breakfast/oatmeal.md'
         - Pancake (V, DF, GF): 'breakfast/pancakes.md'
+        - Potatoes with eggs bowl (M, GF, DF): 'breakfast/potatoes_eggs_bowl.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF, M) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
     - Salads:
@@ -42,10 +43,10 @@ nav:
     - Sandwiches & Burgers: 
         - Big Bhaji Burger (Ve, GF): 'sand/big_bhaji_burger.md'
         - Buffalo Cauliflower Burger (Ve, GF): 'sand/buffalo_cauliflower_burger.md'
-        - Chicken Burger (M, DF): 'sand/chicken_burger.md'
+        - Crispy Chicken Burger (M, DF): 'sand/crispy_chicken_burger.md'
         - Chipotle Chicken Club Wrap: 'sand/chipotle_chicken_wrap.md'   
-        - Fijiji Steak Sandwich: 'sand/fijiji_steak_sandwich.md'
-        - Meatball Sandwich: 'sand/meatball_sandwich.md'
+        - Philly Steak Sandwich (M, DF): 'sand/philly_steak_sandwich.md'
+        - Meatball Sandwich (M, DF): 'sand/meatball_sandwich.md'
     - Soups & Stews:
         - Soups:
             - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
@@ -54,6 +55,8 @@ nav:
             - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
             - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
         - Stews/Chilis:
+            - Beef Stew (M, GF, DF): 'soups_stews/beef_stew.md'
+            - Chili Con Carne (M, GF, DF): 'soups_stews/chili_con_carne.md'
             - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
             - Hungarian Goulash (V, DF, GF): 'soups_stews/hungarian_goulash.md'
             - Turkey Quinoa Chili (P, DF, GF): 'soups_stews/turkey_quinoa_chili.md'
