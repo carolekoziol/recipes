@@ -10,7 +10,7 @@
 
 - 4 buns
 - 4 boneless and skinless chicken breasts
-	- pound the thicker end to 1/2" to 3/4" thick so they cook evenly
+	- pound the thicker end to 1/4" to 1/2" thick so they cook evenly
 - 1/2 cup all-purpose Flour
 - 2 eggs, beaten
 - bread crumbs/panko/doritos/puffed rice
@@ -21,7 +21,7 @@
 - 1/2 tablespoon salt
 - 1 teaspoon black pepper
 - 2 teaspoons thyme (optional)
-- cayenne pepper (optional for spiceness)
+- cayenne pepper (optional for spiciness)
 
 ** Condiments **
 

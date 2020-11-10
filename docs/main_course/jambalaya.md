@@ -18,7 +18,7 @@
 - 1 yellow onion, diced
 - 2 green bell peppers, chopped, 1 inch
 - 10-12 mushrooms, chopped (optional)
-- 1 head cauliflower, riced (see instructions below if rather use brown rice instead)
+- 1 head cauliflower, riced (or 1 cup of white or brown rice)
 - 1 (6oz) can tomato paste
 - 1 (14oz) can diced tomatoes, undrained
 - 1 cup chicken broth
@@ -35,9 +35,9 @@
 1. Dice all the vegetables and cut the meat in 1 inch cubes. Set aside.
 2. For rice: 
 
-	** If using cauliflower: ** Add the cauliflower in the food processor with the shredding attachment to rice the cauliflower.
+	** If using cauliflower: ** Add the cauliflower head in the food processor with the shredding attachment to rice the cauliflower.
 
-	** If using brown/white rice: ** Cook the rice as the rice's instruction in broth until ready.
+	** If using brown/white rice: ** Cook 1 cup rice with 1 1/2 cup of broth or as per rice's instruction until ready.
 
 3. Cook the Jambalaya: 
 
