@@ -24,7 +24,7 @@
 2. Beat the egg in a mixing bowl
 1. Add the ripe bananas, and mash with a fork until completely smooth. 
 1. Stir in the melted butter, sugar, and vanilla.
-1. In a separate mixing bowl, stir the flour and baking soda together.
+1. In a separate mixing bowl, stir the flour, salt and baking soda together.
 3. Slowly, add the flour mixture to the wet ingredients, while stirring.
 1. Mix in the optional walnuts and/or chocolate chips.
 4. Pour the batter into your prepared loaf pan. 

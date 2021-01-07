@@ -178,27 +178,30 @@ nav:
             - Fruity Coconut Popsicles (P, Ve, GF): 'snacks/fruity_coconut_popsicles.md'
             - Chocolate Nut Butter Banana Popsicles(P, Ve, GF): 'snacks/chocolate_nut_butter_popsicles.md'
     - Desserts:
-        - Cake/Cookies:
+        - Cakes/Cupcakes:
             - Banana Bread: 'desserts/banana_bread.md'
-            - Indoors Campfire Treats: 'desserts/campfire_treats.md'
-            - Mug Brownies: 'desserts/mug_brownie.md'
+            - No Bake Cherry Cheesecake: 'desserts/no_bake_cherry_cheesecake.md'
             - Cheese cake (Ve, DF): 'desserts/vegan_cheese_cake.md'
-            - Gingersnap cookies (GF, DF): 'desserts/gf_gingersnap_cookies.md'
             - Zucchini Bread: 'desserts/zucchini_bread.md'
-        - Crust:
-            - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
-        - Frosting:
-            - For Cake and Cupcake: 'desserts/vegan_frosting.md'
-        - Fudge:
-            - Vegan Chocolate (Ve, DF): 'desserts/vegan_fudge.md'
+        - Cookies:
+            - Gingersnap cookies (GF, DF): 'desserts/gf_gingersnap_cookies.md'            
+        - Bars/Fudges/Squares:
+            - Mug Brownies: 'desserts/mug_brownie.md'
+            - Chocolate and Peanut Rice Krispies: 'desserts/rice_krispies.md'
+            - Vegan Chocolate Fudge (Ve, DF): 'desserts/vegan_fudge.md'
         - Pastries:
             - Indoors Campfire treats: 'desserts/campfire_treats.md'
             - Pets de soeur: 'desserts/pets_de_soeur.md'
         - Pie:
             - Pumpkin Pie (Ve, DF): 'desserts/vegan_pumpkin_pie.md'
             - Lemon Meringue Pie (DF): ''
-        - Toppings:
-            - Whipped Cream: 'desserts/coconut_whipped_cream.md' 
+        - Accessories:  
+            - Crust:
+                - Gingersnap Pie Crust (GF, DF): 'desserts/gingersnap_pie_crust.md'
+            - Frosting:
+                - For Cake and Cupcake (Ve): 'desserts/vegan_frosting.md'            
+            - Toppings:         
+                - Whipped Cream (Ve): 'desserts/coconut_whipped_cream.md' 
 - Basics:
     - Broth:
         - Bone Broth: ''

@@ -1,4 +1,4 @@
-## Authentc German Schnitzel
+## Authentic German Schnitzel
 
 [Original Recipe from The Daring Gourmet](https://www.daringgourmet.com/authentic-german-jagerschnitzel-hunter-schnitzel-with-mushroom-gravy/)
 
@@ -17,11 +17,10 @@
 - 3/4 cup plain breadcrumbs
 - salt and freshly ground black pepper
 
-** Options for accompaning sauces (see below) **
+** Options for accompanying sauces (see below) **
 
 - Brown Mushroom Gravy (Jägerschnitzel “hunter schnitzel”)
 - Gypsy Sauce (Zesty bell peppers) (Zigeunerschnitzel “gypsy schnitzel”)
-- Cream sauce (Rahmschnitzel “cream schnitzel”)
 
 ### Instructions
 
@@ -32,10 +31,10 @@
 3. Heat the oil to 330F (not hotter or the Schnitzel will burn before the meat is done, not lower or the Schnitzel will absorb the oil and be greasy).  Use just enough oil so that the Schnitzels "swim" in it.  Fry the Schnitzel for about 2-3 minutes on both sides until a deep golden brown. Transfer briefly to a plate lined with paper towels.
 
 
-Serve immediately topped with an accompaning sauce or gravy with a side of spaetzle, french fries or swabian potato salad and a leafy green or cucumber salad. Avoid completely drenching the Schnitzel with gravy so that much of the Schnitzel remains crispy.
+Serve immediately topped with an accompanying sauce or gravy with a side of spaetzle, french fries or swabian potato salad and a leafy green or cucumber salad. Avoid completely drenching the Schnitzel with gravy so that much of the Schnitzel remains crispy.
 
 
-## Accompaning gravy or sauces for the schnitzel
+## Accompanying gravy or sauces for the schnitzel
 
 ### 1. Brown Mushroom Gravy (Jägerschnitzel “hunter schnitzel”)
 
@@ -67,7 +66,7 @@ Notes: If using this gravy for German Jägerschnitzel and you prefer a more basi
 1. Melt the butter (or bacon grease, lard, beef dripping)  in a pan over medium-high heat and fry the onions until beginning to brown.  Add the garlic and cook for 30 seconds.
 2. Add the mushrooms and cook 5-7 minutes or until golden and the liquid from the mushrooms has evaporated.
 3. Add the unsalted butter and melt. Add the flour, stir to combine and cook for about 2 minutes, stirring continually.
-4. Add the beef broth, vinegar, thyme, sugar, salt and pepper.  Whisk continually until the gravy is thickened.  Cover and simmer on low, stirring occasionally, for 5-10 minutes.  
+4. Add the beef broth, vinegar, thyme, sugar, salt and pepper.  Whisk continually until the gravy is thickened.  Cover and simmer on low, stirring occasionally, for 5-10 minutes. 
 5. Add salt and pepper to taste.  If you prefer the gravy thinner add a little more water (or heavy cream if using)
 
 ### 2. Gypsy Sauce (Zesty Bell Pepper) - (for Zigeunerschnitzel “gypsy schnitzel”)
@@ -84,45 +83,28 @@ Notes: If using this gravy for German Jägerschnitzel and you prefer a more basi
 - 1 cup sweet onion, chopped
 - 3 cups bell pepper (red, orange or yellow), chopped
 - 2 cloves garlic (pressed)
+- 2 tablespoons tomato paste
 - 1 1/2 tablespoons flour (or brown rice flour)
+- 1 1/2 cup chicken broth
+- 2 teaspoons lemon (optional), to taste
+- 2 teaspoons sugar, to taste
+
+Spices:
+
 - 2 teaspoons paprika (sweet Hungarian, ground)
 - 1 to 2 teaspoons paprika (hot Hungarian, ground)
-- 2 tablespoons tomato paste
-- 1 1/2 cup chicken broth
-- 2 teaspoons lemon (to taste)
-- 2 teaspoons sugar (to taste)
-- Salt to taste
-
-▢ 3 colorful bell peppers cut into strips
-▢ 1 large onion sliced in half-moons
-▢ 2 garlic cloves minced
-▢ 4 tablespoons oil
-▢ ½ teaspoon dried oregano
-▢ 1 teaspoon chili powder or more to taste
-▢ Salt and pepper to taste
-▢ ½ cup vegetable broth
-▢ 1 cup heavy cream
-▢ 10 oz. diced tomatoes
-▢ 4 oz. Gouda cheese grated
-▢ A few twigs of fresh thyme optional
+- 1/2 teaspoon dried oregano
+- 1 teaspoon chili powder (optional)
+- thymes (optional), to taste
+- Salt and pepper, to taste
 
 ** Instructions **
 
 1. Heat the oil in a skillet and sauté the onion until translucent.
 2. Add the bell pepper and cook a few minutes longer.
-3. Add the garlic and flour and both kinds of ground paprika over the vegetables and cook for 1 to 2 minutes.
+3. Add the garlic and flour and spices over the vegetables and cook for 1 to 2 minutes.
 4. Add the tomato paste and stir until blended.
 5. Add the chicken broth, a little at a time, stirring after each addition. Cook and stir until thick.
 6. Let the mixture cook gently for about 20 minutes.
 7. Taste and add lemon juice, sweetener, salt, and pepper to taste. 
 
-    Heat 2 tablespoons of oil in a large cast-iron or non-stick skillet over medium-high heat. Add four schnitzel and sear them for about 5 minutes per side (see recipe tips). Remove the schnitzel to a plate and season with salt and pepper.
-    Pour the remaining two tablespoons of oil into the same skillet. Add sliced onion, three peppers cut in strips, two minced garlic cloves, ½ teaspoon oregano, and a teaspoon of chili powder. Sauté until the vegetables start to soften, about 8-10 minutes, stirring often.
-    Deglaze the skillet with ½ cup of vegetable broth and one cup of cream. Stir in 10 oz. of diced tomatoes, a few twigs of fresh thyme if using, and seared cutlets; bring everything to a boil.
-    Lower the heat and simmer, covered, for 30-45 minutes (depending on the schnitzel thickness). Sprinkle with 4 oz. shredded Gouda cheese and turn the heat off. Let cool for 10 minutes before serving. Garnish with fresh thyme or parsley if you wish.
-
-### 3. Cream Sauce (for Rahmschnitzel “cream schnitzel”)
-
-** Ingredients **
-
-** Instructions **
