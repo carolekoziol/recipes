@@ -13,14 +13,14 @@
 - 1 cup powdered sugar
 - 1 package (250g) cream cheese, softened
 - 1/2 teaspoon vanilla extract
-- 1 can cherry pie filling
+- 1 can (540 mL) cherry pie filling
 - 9 inch baking dish
 
 ### Instructions
 
-1. Butter/Spray the bottom and sides of the pan. 
+1. Butter/spray the bottom and sides of the pan. 
 2. In the pan, mix the baking crumbs, melted butter and sugar. Press it onto the bottom of the dish. Set aside.
-3. Beat on low speed, the cream cheese slightly. Add the sugar and vanilla. Beat until there are no lumps. 
+3. On low speed, beat the cream cheese slightly. Add the powdered sugar and vanilla. Beat until there are no lumps. 
 4. Add half of the dream whip and mix until blended. Add the rest of the whip and mix until well-blended. 
 5. Evenly space the cream cheese mixture over the crust and gently spread ad evenly smooth out the back of the spoon over the entire crust.
 6. Add the cherry pie filling by spooning it out slowly and evenly over the top of the whole cheesecake.

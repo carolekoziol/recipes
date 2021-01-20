@@ -11,14 +11,14 @@
 - 1/2 teaspoon (2 mL) vanilla extract (optional)
 - 6 cups Rice Krispies cereal
 - 1/2 cup chocolate chips
-- 1/2 cup peanut butter chips
+- 1/2 cup smooth peanut butter
 
 ### Instructions
 
-1. Melt butter in a large saucepan over low heat. Add marshmallows and stir until melt and well blended. Remove from the heat. 
+1. Melt butter in a large saucepan over low heat. Add marshmallows and stir until melted and well blended. Remove from the heat. 
 2. Stir in vanilla extract. Add in rice krispies cereal and stir until coated. 
 3. Add the chocolate chips and peanut butter chips and stir in. 
-4. buttered the 13" by 9" baking dish. With a lightly buttered spatula press the coated rice krispies into the dish. 
+4. Butter the 13" by 9" baking dish. With a lightly buttered spatula press the coated rice krispies into the dish. 
 5. Cool until set for at least 30 minutes. Cut into squares. 
 
 Store the rice kirspies squares into a seal container. 
