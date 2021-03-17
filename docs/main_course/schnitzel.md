@@ -30,11 +30,11 @@
 	- Don't let the schnitzel sit in the coating or they will not be as crispy once fried - fry immediately. 
 3. Heat the oil to 330F (not hotter or the Schnitzel will burn before the meat is done, not lower or the Schnitzel will absorb the oil and be greasy).  Use just enough oil so that the Schnitzels "swim" in it.  Fry the Schnitzel for about 2-3 minutes on both sides until a deep golden brown. Transfer briefly to a plate lined with paper towels.
 
+##
 
 Serve immediately topped with an accompanying sauce or gravy with a side of spaetzle, french fries or swabian potato salad and a leafy green or cucumber salad. Avoid completely drenching the Schnitzel with gravy so that much of the Schnitzel remains crispy.
 
-
-## Accompanying gravy or sauces for the schnitzel
+### - Accompanying Sauces
 
 ### 1. Brown Mushroom Gravy (Jägerschnitzel “hunter schnitzel”)
 

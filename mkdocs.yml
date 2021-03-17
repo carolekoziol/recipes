@@ -14,7 +14,7 @@ nav:
         - Dairy-Free Eggnog: 'beverages/dairy_free_eggnog.md'
     - Breads:
         - Italian Pizza Dough (Ve, P, GF, DF): 'breads/italian_pizza_dough.md'
-        - Lard Pie Crust (DF): 'breads/lard_pie_crust.md'
+        - 4 Lard Pie Crust (DF): 'breads/lard_pie_crust.md'
         - North American Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
         - Pretzel Sourdough Discard: ''
         - Sourdough Bagels: 'breads/sourdough_bagels.md'
@@ -27,7 +27,7 @@ nav:
         - Grain-Free Fruit Cereal (P, V, DF): 'breakfast/no_grain_cereal.md'
         - Oatmeal (Ve, V, DF, GF): 'breakfast/oatmeal.md'
         - Pancake (V, DF, GF): 'breakfast/pancakes.md'
-        - Potatoes with eggs bowl (M, GF, DF): 'breakfast/potatoes_eggs_bowl.md'
+        - 4 Potatoes with eggs bowl (M, GF, DF): 'breakfast/potatoes_eggs_bowl.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF, M) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
     - Salads:
@@ -46,7 +46,7 @@ nav:
         - Crispy Chicken Burger (M, DF): 'sand/crispy_chicken_burger.md'
         - Chipotle Chicken Club Wrap: 'sand/chipotle_chicken_wrap.md'   
         - Fijiji Cheesesteak Sandwich (M, DF): 'sand/fijiji_cheesesteak_sandwich.md'
-        - Meatball Sandwich (M, DF): 'sand/meatball_sandwich.md'
+        - 4 Meatball Sandwich (M, DF): 'sand/meatball_sandwich.md'
     - Soups & Stews:
         - Soups:
             - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
@@ -67,8 +67,8 @@ nav:
         - Asian: 
             - General Tao Chicken: 'main_course/general_tao_chicken.md'
             - Peanut Noodles (Ve, DF): 'main_course/peanut_noodles.md'
-            - Spring Rolls (Ve, DF): 'main_course/spring_rolls.md'
-            - Sushi Rolls (Ve, DF, GF, M): 'main_course/sushi_rolls.md'
+            - 4 Spring Rolls (Ve, DF): 'main_course/spring_rolls.md'
+            - 3 Sushi Rolls (Ve, DF, GF, M): 'main_course/sushi_rolls.md'
         - Bowls:
             - Arroz Tapado (M, DF, GF): 'main_course/arroz_tapado.md'
             - Bibimbap: 'main_course/bibimbap.md'
@@ -95,10 +95,12 @@ nav:
             - Aloo Mushroom Masala (Ve, GF): 'main_course/mushroom_masala.md'
             - Baingan Bharta (Ve, GF): 'main_course/baingan_bharta.md'
             - Dairy-Free Butter Chicken (P, GF, DF, M): 'main_course/dairy_free_butter_chicken.md'
+            - 4 Kadai Tofu (P, GF, DF, Ve, M): 'main_course/kadai_tofu.md'
+            - 4 Palak Paneer (GF, V): 'main_course/palak_paneer.md'
         - Mediterranean: 
             - Donair: 'main_course/donair.md'
             - Falafel (Ve, GF): 'main_course/falafel.md'
-            - Foul Mudammas (Ve, DF): 'main_course/foul_mudammas.md'
+            - 4 Foul Mudammas (Ve, DF): 'main_course/foul_mudammas.md'
             - Mujaddara (Ve, DF, GF): 'main_course/mujaddara.md'
             - Samosa (M, DF): 'main_course/samosa.md'
         - Mexican: 
@@ -108,7 +110,7 @@ nav:
             - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
             - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
             - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
-            - Citrus Glazed Haddock (M): 'main_course/citrus_glazed_haddock.md'
+            - 3 Citrus Glazed Haddock (M): 'main_course/citrus_glazed_haddock.md'
             - Meat pie (Tourtière): 'main_course/meat_pie.md'
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
@@ -122,8 +124,8 @@ nav:
             - Dan Dan Chae Noodles (Ve): 'main_course/dan_japchae_noodles.md'
             - Fettuccini Alfredo (Ve, DF, GF): 'main_course/vegan_alfredo.md'
             - Lasagna (Ve, DF): 'main_course/lasagna.md'
-            - Noodles with Corn and Rosemary Sauce (Ve, DF, GF): 'main_course/noodles_corn_rosemary_sauce.md'
-            - Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
+            - 3 Noodles with Corn and Rosemary Sauce (Ve, DF, GF): 'main_course/noodles_corn_rosemary_sauce.md'
+            - 3 Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
             - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
             - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
     - Sides:
@@ -131,16 +133,20 @@ nav:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
             - Black eyed peas Curry (Ve, GF): 'sides/black_eyed_peas_curry_instant_pot.md'
         - Pasta/Dumpling: 
-            - spaetzle (Ve, DF): 'sides/spaetzle.md'
+            - Spaetzle (Ve, DF): 'sides/spaetzle.md'
         - Potatoes:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
+            - 4 Hot Spots (V, GF, M): 'sides/hot_spots.md'
             - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
         - Rice:
-            -  Coconut Rice (Ve, GF): 'sides/coconut_rice.md'
-            -  Dirty Rice (DF, GF, M): 'sides/dirty_rice.md'
+            - Coconut Rice (Ve, GF): 'sides/coconut_rice.md'
+            - Dirty Rice (DF, GF, M): 'sides/dirty_rice.md'
+            - 4 Tehri (DF, GF, V): 'sides/tehri.md'
         - Roasted Vegetables:
             - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
             - Carrot Glaze (V, P, DF, GF): 'sides/carrot_glaze.md'
+            - 4 Lemon Carrot Dill (V, P, DF, GF): 'sides/roasted_lemon_carrot_dill.md'
+            - 4 carrot something (V, P, DF, GF): 'sides/carrot_something.md'
             - Harvest Maple Carrots & Apples (V, P, DF, GF): 'sides/harvest_carrots_apples.md'
             - Roasted Brussel Sprouts with Bacon and Apples (P, DF, GF, M): 'sides/roasted_brussel_sprouts_bacon_apples.md'
             - Roasted Butternut Squash (Ve, P, GF): 'sides/roasted_butternut_squash.md'
@@ -154,7 +160,8 @@ nav:
             - Succotash (Ve, GF): 'sides/succotash.md'
             - Pan-fried Asparagus (Ve, P, GF): ''
             - Italian Style Zucchini and Mushroom (P, Ve, GF): 'sides/italian_zucchini_mushrooms.md'
-            - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'                 
+            - Vegetables Fritters (Ve, P, GF): 'sides/vegetables_fritters.md'
+            - 4 Zucchini Sticks (Ve, DF): 'sides/zucchini_sticks.md'            
     - Sauces/Dips/Cheezes:
         - Cheezes:
             - Cheeze Sauce (Ve, GF): 'sauces/cheeze_sauce.md'
