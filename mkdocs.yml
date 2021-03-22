@@ -53,10 +53,11 @@ nav:
             - Chickpea/Chicken Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
             - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
             - Lentil Soup (Ve, GF): 'soups_stews/lentil_soup.md'
+            - Roasted Tomato Red Pepper Soup (Ve, GF, DF): 'soups_stews/roasted_tomato_peppper_soup.md'
             - Spicy Sausage White Bean Soup (P, DF, GF): 'soups_stews/spicy_sausage_white_bean_soup.md'
         - Stews/Chilis:
             - Beef Stew (M, GF, DF): 'soups_stews/beef_stew.md'
-            - Chili Con Carne (M, GF, DF): 'soups_stews/chili_con_carne.md'
+            - Smoked Chili (P, M, GF, DF): 'soups_stews/smoked_chili.md'
             - Curried Bean and Brussels Stew (Ve, P, GF): 'soups_stews/curried_bean_brussels_stew_squash.md'
             - Hungarian Goulash (V, DF, GF): 'soups_stews/hungarian_goulash.md'
             - Turkey Quinoa Chili (P, DF, GF): 'soups_stews/turkey_quinoa_chili.md'
@@ -136,17 +137,17 @@ nav:
             - Spaetzle (Ve, DF): 'sides/spaetzle.md'
         - Potatoes:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
-            - 4 Hot Spots (V, GF, M): 'sides/hot_spots.md'
+            - Hutspot (V, GF, M): 'sides/hutspot.md'
             - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
         - Rice:
             - Coconut Rice (Ve, GF): 'sides/coconut_rice.md'
             - Dirty Rice (DF, GF, M): 'sides/dirty_rice.md'
-            - 4 Tehri (DF, GF, V): 'sides/tehri.md'
+            - 4 Tehri (Magic Rice) (DF, GF, V): 'sides/tehri.md'
         - Roasted Vegetables:
             - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
             - Carrot Glaze (V, P, DF, GF): 'sides/carrot_glaze.md'
             - 4 Lemon Carrot Dill (V, P, DF, GF): 'sides/roasted_lemon_carrot_dill.md'
-            - 4 carrot something (V, P, DF, GF): 'sides/carrot_something.md'
+            - 4 cauliflowers something (V, P, DF, GF): 'sides/carrot_something.md'
             - Harvest Maple Carrots & Apples (V, P, DF, GF): 'sides/harvest_carrots_apples.md'
             - Roasted Brussel Sprouts with Bacon and Apples (P, DF, GF, M): 'sides/roasted_brussel_sprouts_bacon_apples.md'
             - Roasted Butternut Squash (Ve, P, GF): 'sides/roasted_butternut_squash.md'
@@ -171,10 +172,11 @@ nav:
             - Vegan Ricotta (Ve, GF, P, GF): 'sauces/vegan_ricotta.md'
             - Vegan Sour Cream (Ve, GF, P, GF): 'sauces/vegan_sour_cream.md'
         - Dips:
+            - Baked Spinach Dip (Ve, GF): 'sauces/vegan_baked_spinach_dip.md'
             - Buffalo Chicken Dip (P, DF, GF): 'sauces/buffalo_chicken_dip.md'
             - Cretons (P, DF, GF): 'sauces/cretons.md'
+            - 4 Guacamole (P, DF, GF, V): 'sauces/guacamole.md'
             - Roasted Salsa (P, Ve, GF): 'sauces/roasted_salsa.md'
-            - Baked Spinach Dip (Ve, GF): 'sauces/vegan_baked_spinach_dip.md'
         - Sauces:
             - Authentic Italian Tomato Sauce (P, Ve, GF): 'sauces/italian_tomato_sauce.md'  
             - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'  
