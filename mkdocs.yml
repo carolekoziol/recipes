@@ -145,8 +145,7 @@ nav:
             - 4 Tehri (Magic Rice) (DF, GF, V): 'sides/tehri.md'
         - Roasted Vegetables:
             - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
-            - Carrot Glaze (V, P, DF, GF): 'sides/carrot_glaze.md'
-            - 4 Lemon Carrot Dill (V, P, DF, GF): 'sides/roasted_lemon_carrot_dill.md'
+            - Roast Carrot Recipes (V, P, DF, GF): 'sides/roasted_carrot_recipes.md'
             - 4 cauliflowers something (V, P, DF, GF): 'sides/carrot_something.md'
             - Harvest Maple Carrots & Apples (V, P, DF, GF): 'sides/harvest_carrots_apples.md'
             - Roasted Brussel Sprouts with Bacon and Apples (P, DF, GF, M): 'sides/roasted_brussel_sprouts_bacon_apples.md'
@@ -175,7 +174,7 @@ nav:
             - Baked Spinach Dip (Ve, GF): 'sauces/vegan_baked_spinach_dip.md'
             - Buffalo Chicken Dip (P, DF, GF): 'sauces/buffalo_chicken_dip.md'
             - Cretons (P, DF, GF): 'sauces/cretons.md'
-            - 4 Guacamole (P, DF, GF, V): 'sauces/guacamole.md'
+            - Guacamole (P, Ve, DF, GF): 'sauces/guacamole.md'
             - Roasted Salsa (P, Ve, GF): 'sauces/roasted_salsa.md'
         - Sauces:
             - Authentic Italian Tomato Sauce (P, Ve, GF): 'sauces/italian_tomato_sauce.md'  
