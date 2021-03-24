@@ -105,7 +105,7 @@ nav:
             - Mujaddara (Ve, DF, GF): 'main_course/mujaddara.md'
             - Samosa (M, DF): 'main_course/samosa.md'
         - Mexican: 
-            - Flautas (VE, DF): 'main_course/flautas.md'
+            - Flautas (Ve, DF): 'main_course/flautas.md'
         - North American: 
             - Brisket Burnt Ends (M, GF, DF): 'main_course/brisket_burnt_ends.md'
             - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
@@ -137,7 +137,7 @@ nav:
             - Spaetzle (Ve, DF): 'sides/spaetzle.md'
         - Potatoes:
             - Aloo Palak (Ve, GF): 'sides/aloo_palak.md'
-            - Hutspot (V, GF, M): 'sides/hutspot.md'
+            - Hutspot (Ve, GF, M): 'sides/hutspot.md'
             - Squished Baby Potatoes (Ve, GF): 'sides/squished_baby_potatoes.md'
         - Rice:
             - Coconut Rice (Ve, GF): 'sides/coconut_rice.md'
@@ -145,12 +145,11 @@ nav:
             - 4 Tehri (Magic Rice) (DF, GF, V): 'sides/tehri.md'
         - Roasted Vegetables:
             - Beet Glaze (V, P, DF, GF): 'sides/beet_glaze.md'
-            - Roast Carrot Recipes (V, P, DF, GF): 'sides/roasted_carrot_recipes.md'
-            - 4 cauliflowers something (V, P, DF, GF): 'sides/carrot_something.md'
+            - Roasted Carrot Recipes (Ve, P, DF, GF): 'sides/roasted_carrot_recipes.md'
+            - Spicy Roasted Cauliflower (Ve, P, DF, GF): 'sides/spicy_roasted_cauliflower.md'
             - Harvest Maple Carrots & Apples (V, P, DF, GF): 'sides/harvest_carrots_apples.md'
             - Roasted Brussel Sprouts with Bacon and Apples (P, DF, GF, M): 'sides/roasted_brussel_sprouts_bacon_apples.md'
-            - Roasted Butternut Squash (Ve, P, GF): 'sides/roasted_butternut_squash.md'
-            - Roasted Maple Squash (Ve, P, GF): 'sides/roasted_maple_squash.md'
+            - Roasted Squash Recipes (Ve, P, GF): 'sides/roasted_squash_recipes.md'
             - Roasted Radishes (Ve, P, GF): 'sides/roasted_radishes.md'
         - Vegetable:
             - Grilled Onions (Ve, P, GF): 'sides/grilled_onions.md'
@@ -232,4 +231,8 @@ nav:
             - Soy Tofu: ''
             - Chickpea Tofu: ''
     - Tempeh: '' 
-- About: ''
+- Baby Led Weaning: 
+    - Rainbow Veggie Fritters (V, P, GF, DF): 'blw/rainbow_vwggie_fritters.md'
+    - Carrot Banana Cookies (V, P, GF, DF): 'blw/carrot_banana_cookies.md'
+- About:
+    - Accronyms: 'about/acronyms.md'

@@ -14,7 +14,6 @@
 
 ### Instructions
 1. Pre-heat the oven at 375F.
-2. Boil the carrots until not quite ready, about 8-10 min. Then drain and set aside.
 3. Heat the olive oil in a saucepan over medium-high heat. When warm, fry the onions until translucent. 
 4. Add the cornstarch and mix in the saucepan. 
 5. Add broth until you obtain the right consistency, a glaze should be sticky and thick, not runny. 
