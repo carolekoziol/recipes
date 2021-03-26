@@ -1,10 +1,6 @@
 ## Vegan Baked Spinach Dip
 
 [From The Edgy Veg](https://www.theedgyveg.com/2018/12/31/baked-vegan-spinach-dip-recipe-dairy-free-gluten-free-vegan/)
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
-
 
 ![Picture](../img/vegan_baked_spinach_dip.jpg)
 

@@ -1,9 +1,6 @@
 ## Buffalo Cauliflower Burger
 
 [Original Recipe by Lauren Toyota](https://www.hotforfoodblog.com/recipes/2014/11/01/vegan-buffalo-cauliflower-sandwich/)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
 
 ![Picture](../img/buffalo_cauliflower_burger.jpg)
 

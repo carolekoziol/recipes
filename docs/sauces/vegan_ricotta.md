@@ -1,11 +1,6 @@
 ## Cashew-based Vegan Ricotta
 
 [From the Fuss-Free Vegan Cookbook](https://www.amazon.ca/s?k=fuss+free+vegan&crid=2QXY700P3THUW&sprefix=fuss+fr%2Caps%2C-1&ref=nb_sb_ss_i_1_6)
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![DF](https://img.shields.io/badge/-Dairy--free-blue.svg)
-![Paleo](https://img.shields.io/badge/-Paleo-blueviolet.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
-
 
 ![Picture](../img/vegan_ricotta.jpg)
 

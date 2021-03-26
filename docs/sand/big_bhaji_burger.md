@@ -1,8 +1,6 @@
 ## Bhaji Burger
 
 [Original Recipe by Henry Firth and Ian Theasby](https://thesecretingredientblog.com/2018/05/03/big-bhaji-burger-from-bosh-by-henry-firth-and-ian-theasby/)
-![Vegan](https://img.shields.io/badge/-Vegan-brightgreen.svg)
-![GF](https://img.shields.io/badge/-Gluten--free-yellow.svg)
 
 ![Picture](../img/bhaji_burger.jpg)
 
@@ -32,10 +30,7 @@ TO SERVE (Optional)
 - Lettuce
 - Mango chutney
 
-
-
 ### Instructions
-
 
 1. Pour the vegetable oil into the large saucepan so that it comes no more than two-thirds up the side of the pan. Heat the oil to 350°F, or until a wooden spoon dipped into the oil sizzles around the edges
 3. Meanwhile, peel and very finely slice the onions and put them into a big bowl.

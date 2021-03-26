@@ -10,6 +10,7 @@ nav:
         - Bruschetta (Ve, DF): 'appetizers/bruschetta.md'
         - Eggplant Caponata (Ve, P, DF, GF): 'appetizers/eggplant_caponata.md'
         - Italian Roasted Red Pepper Antipasto (Ve, DF): 'appetizers/roasted_red_pepper_antipasto.md'
+        - Roasted Potato Cups (Ve, GF, DF): 'appetizers/roasted_potato_cups.md'
     - Beverages:
         - Dairy-Free Eggnog: 'beverages/dairy_free_eggnog.md'
     - Breads:
@@ -234,5 +235,6 @@ nav:
 - Baby Led Weaning: 
     - Rainbow Veggie Fritters (V, P, GF, DF): 'blw/rainbow_vwggie_fritters.md'
     - Carrot Banana Cookies (V, P, GF, DF): 'blw/carrot_banana_cookies.md'
+    - Potato Tater Tots (P, Ve, GF, DF, M): 'blw/potato_tater_tots.md'
 - About:
     - Accronyms: 'about/acronyms.md'
