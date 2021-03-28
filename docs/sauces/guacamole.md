@@ -8,19 +8,19 @@
 
 ### Ingredients
 
-- 3 avocados, pitted and mashed
+- 3 avocados, pitted, diced
+- 2 roma (plum) tomatoes, diced
+- 1/2 cup sweet onion, diced
+- 1 teaspoon minced garlic
 - 1 lime juiced
 - 1 teaspoon salt
-- 1/2 cup diced onion
-- 2 roma (plum) tomatoes, diced
-- 1 teaspoon minced garlic
+- 1 teaspoon black pepper
 - 3 tablespoons chopped fresh cilantro (Optional)
 - 1 pinch ground cayenne pepper (Optional) 
 
 ### Instructions
 
-1. In a medium bowl, mash together the avocados, lime juice, and salt. 
-2. Mix in onion, cilantro, tomatoes, and garlic. 
-3. Stir in cayenne pepper. 
+1. In a medium bowl, mix together all ingredients.
+3. Adjust spices if necessary.
 
 Serve immediately or refrigerate 1 hour for best flavor. 

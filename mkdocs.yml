@@ -41,6 +41,7 @@ nav:
         - Macaroni Salad (DF): 'salad/macaroni_salad.md'
         - Moroccan Carrot Slaw (Ve, DF, GF): 'salad/moroccan_carrot_salad.md'
         - Potato Salad (GF, DF): 'salad/potato_salad.md'
+        - 4 Tabouleh (Ve, P, DF): 'salad/tabouleh.md'
     - Sandwiches & Burgers: 
         - Big Bhaji Burger (Ve, GF): 'sand/big_bhaji_burger.md'
         - Buffalo Cauliflower Burger (Ve, GF): 'sand/buffalo_cauliflower_burger.md'
@@ -48,6 +49,7 @@ nav:
         - Chipotle Chicken Club Wrap: 'sand/chipotle_chicken_wrap.md'   
         - Fijiji Cheesesteak Sandwich (M, DF): 'sand/fijiji_cheesesteak_sandwich.md'
         - 4 Meatball Sandwich (M, DF): 'sand/meatball_sandwich.md'
+        - Smoked Tofu Sandwich (Ve, DF): 'sand/smoked_tofu_sandwich.md'
     - Soups & Stews:
         - Soups:
             - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
@@ -112,13 +114,14 @@ nav:
             - Carrot Dogs (Ve, DF): 'main_course/carrot_dogs.md'
             - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
             - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
-            - 3 Citrus Glazed Haddock (M): 'main_course/citrus_glazed_haddock.md'
+            - Citrus Glazed Haddock (M): 'main_course/citrus_glazed_haddock.md'
+            - 2 Honey Roasted Sweet Potato Platter (VE, DF, GF): 'main_course/honey_roasted_sweet_potato_mezze.md'
             - Meat pie (Tourtière): 'main_course/meat_pie.md'
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
             - Roasted Leg of Lamb (P, GF): 'main_course/roasted_leg_lamb.md'
         - Pizza: 
-            - North American Pizzas: 'main_course/pizza.md'
+            - North American Pizza: 'main_course/pizza.md'
             - Rustic Italian Pizza: 'main_course/rustic_italian _pizza.md'   
         - Pasta:
             - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
@@ -128,6 +131,7 @@ nav:
             - Lasagna (Ve, DF): 'main_course/lasagna.md'
             - 3 Noodles with Corn and Rosemary Sauce (Ve, DF, GF): 'main_course/noodles_corn_rosemary_sauce.md'
             - 3 Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
+            - 2 Pesto Radiatore (Ve, DF): 'main_course/pesto_radiatore.md'
             - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
             - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
     - Sides:
@@ -177,7 +181,8 @@ nav:
             - Guacamole (P, Ve, DF, GF): 'sauces/guacamole.md'
             - Roasted Salsa (P, Ve, GF): 'sauces/roasted_salsa.md'
         - Sauces:
-            - Authentic Italian Tomato Sauce (P, Ve, GF): 'sauces/italian_tomato_sauce.md'  
+            - Authentic Italian Tomato Sauce (P, Ve, GF): 'sauces/italian_tomato_sauce.md'
+            - 4 Basil Pesto (P, GF): 'sauces/basil_pesto.md'  
             - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'  
             - Pizza Sauce (P, Ve, GF): 'sauces/pizza_sauce.md'
             - Spaghetti Sauce (P, GF): 'sauces/spaghetti_sauce.md'
@@ -233,7 +238,7 @@ nav:
             - Chickpea Tofu: ''
     - Tempeh: '' 
 - Baby Led Weaning: 
-    - Rainbow Veggie Fritters (V, P, GF, DF): 'blw/rainbow_vwggie_fritters.md'
+    - Rainbow Veggie Fritters (V, P, GF, DF): 'blw/rainbow_veggie_fritters.md'
     - Carrot Banana Cookies (V, P, GF, DF): 'blw/carrot_banana_cookies.md'
     - Potato Tater Tots (P, Ve, GF, DF, M): 'blw/potato_tater_tots.md'
 - About:

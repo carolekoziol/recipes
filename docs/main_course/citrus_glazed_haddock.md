@@ -1,6 +1,6 @@
 ## Citrus Glazed Haddock
 
-![Picture](../img/Link_to_picture)
+![Picture](../img/citrus_glazed_haddock.jpg)
 
 ** Prep time: 10 minutes || Cook time: 35 minutes || Serving: 2 || Rating 9/10 **
 
