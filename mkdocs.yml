@@ -41,7 +41,7 @@ nav:
         - Macaroni Salad (DF): 'salad/macaroni_salad.md'
         - Moroccan Carrot Slaw (Ve, DF, GF): 'salad/moroccan_carrot_salad.md'
         - Potato Salad (GF, DF): 'salad/potato_salad.md'
-        - 4 Tabouleh (Ve, P, DF): 'salad/tabouleh.md'
+        - Tabbouleh (Ve, P, DF): 'salad/tabbouleh.md'
     - Sandwiches & Burgers: 
         - Big Bhaji Burger (Ve, GF): 'sand/big_bhaji_burger.md'
         - Buffalo Cauliflower Burger (Ve, GF): 'sand/buffalo_cauliflower_burger.md'
@@ -115,7 +115,7 @@ nav:
             - Chicken Nuggets (P, GF, DF): 'main_course/chicken_nuggets.md'
             - Chicken a la King (P, DF, GF): 'main_course/chicken_a_la_king.md'
             - Citrus Glazed Haddock (M): 'main_course/citrus_glazed_haddock.md'
-            - 2 Honey Roasted Sweet Potato Platter (VE, DF, GF): 'main_course/honey_roasted_sweet_potato_mezze.md'
+            - Honey Roasted Sweet Potato Platter (VE, DF, GF): 'main_course/honey_roasted_sweet_potato_mezze.md'
             - Meat pie (Tourtière): 'main_course/meat_pie.md'
             - Tofu Quiche (Ve, GF) : 'main_course/tofu_quiche.md'
             - Roasted Cauliflower Steaks (Ve, P, GF): 'main_course/roasted_cauliflower_steaks.md'
