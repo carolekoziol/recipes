@@ -8,19 +8,13 @@
 
 - 4-6 hoagie rolls
 - 1 1/2 pounds top round steak, thin slices
-- 1 sweet onion, slices (optional)
-- 4-6 bell peppers, slices (optional)
+- [basil pesto](../../sauces/basil_pesto/)
+- 1 small sweet onion, slices (optional)
+- 1 bell peppers, slices (optional)
 - mushroom, slices (optional)
 - 1/4 lbs Cheeze (Gusta artisanal vegan Italian) or Cheese (provolone/mozerrella/swiss cheese/parmesan), slices or grates
 - Olive oil
 - Salt and pepper
-
-*- Pesto*
-
-- basil
-- walnuts
-- parmesan cheese
-- olive oil
 
 *- Tomato sauce*
 
@@ -33,7 +27,6 @@
 
 ### Instructions
 
-1. With a food processor, blend in the parmesan cheese. Add walnuts and blended. Add basil and blend well. Then add olive oil and blend until it is a spread.
 1. Over medium high heat, make the tomato sauce by adding all its ingredients: tomato crushed, oregano, parsley, salt and pepper. Adjusted to taste. 
 1. Heat the frying pan with olive oil and saute steak over medium-high heat until desired doneness and remove from the pan. 
 1. Warm the oil in a large skillet over low heat. Add onions and cook 8 to 10 minutes, until caramelized and softened, stirring frequently. Do not allow them to brown. Transfer onions to bowl. 

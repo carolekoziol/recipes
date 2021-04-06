@@ -25,7 +25,7 @@ Original Recipe by GoodFood
 	- On a lined sheet pan, toss the sweet potato wedges with a drizzle of oil. Season with 1/3 of the spice blend. 
 	- Arrange in a single, even layer and roast in the oven, 22 to 24 minutes, flipping halfway through, until browned and tender when pierced with a fork. 
 	- Remove the sheet pan from the oven and switch the oven to broil; drizzle the sweet potatoes with 2/3 of the honey. Return to the oven and continue to cook, 2 to 3 minutes, until browned.
-3. ** Mise en place **
+3. ** Mise en place - need to work on step 3 ** 
 	- Medium-dice the cucumber.
 	- Make the vinaigrette by combining the red wine vinegar, the remaining honey and 1 tablespoon olive oil; season with S&P to taste. 
 4. ** Season the tabbouleh **
