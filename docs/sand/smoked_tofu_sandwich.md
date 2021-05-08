@@ -13,18 +13,17 @@
 - 1 bell peppers, slices (optional)
 - mushroom, slices (optional)
 - 1 garlic cloves, minced
-
-
 - dried hot chillies (optional)
-- Cheeze (Gusta artisanal vegan Italian) or Cheese (provolone/mozerrella/swiss cheese/parmesan), slice or grated (optional)
 - Salt or pepper
 - 4-6 Buns
 
 ** Toppings **
-- 1 tablespoon of hot Salsa sauce 
+
+- [Roasted salsa sauce](../../sauces/roasted_salsa.md/)
+- [Mayonaise](../../basics/homemade_mayo.md/)
+- Cheeze (Gusta artisanal vegan Italian) or Cheese (provolone/mozerrella/swiss cheese/parmesan), slice or grated (optional)
 - Pickles, slices
 - Pickles beets, slices
-- [Mayonaise](../../sauces/basil_pesto/)
 - Lettuce, shredded
 - Tomato, slices
 

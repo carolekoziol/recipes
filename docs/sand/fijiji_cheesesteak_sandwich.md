@@ -8,7 +8,7 @@
 
 - 4-6 hoagie rolls
 - 1 1/2 pounds top round steak, thin slices
-- [basil pesto](../../sauces/basil_pesto/)
+- [Basil pesto](../../sauces/basil_pesto/)
 - 1 small sweet onion, slices (optional)
 - 1 bell peppers, slices (optional)
 - mushroom, slices (optional)
@@ -16,6 +16,14 @@
 - Olive oil
 - Salt and pepper
 
+** Toppings **
+
+- 1 tablespoon of hot Salsa sauce 
+- Pickles, slices
+- Pickles beets, slices
+- [Mayonaise](../../sauces/basil_pesto/)
+- Lettuce, shredded
+- Tomato, slices
 *- Tomato sauce*
 
 - tomato crushed can

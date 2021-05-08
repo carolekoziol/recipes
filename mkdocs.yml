@@ -14,7 +14,9 @@ nav:
     - Beverages:
         - Dairy-Free Eggnog: 'beverages/dairy_free_eggnog.md'
     - Breads:
+        - Crumpet (Ve, DF): 'breads/crumpet.md'
         - Italian Pizza Dough (Ve, P, GF, DF): 'breads/italian_pizza_dough.md'
+        - Italian Loaf - Bread Machine (Ve, DF): 'breads/italian_loaf_bread_machine.md'
         - 4 Lard Pie Crust (DF): 'breads/lard_pie_crust.md'
         - North American Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
         - Pretzel Sourdough Discard: ''
@@ -183,7 +185,8 @@ nav:
         - Sauces:
             - Authentic Italian Tomato Sauce (P, Ve, GF): 'sauces/italian_tomato_sauce.md'
             - Basil Pesto (P, Ve, DF, GF): 'sauces/basil_pesto.md'  
-            - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'  
+            - Honey Garlic Sauce (P, Ve, GF): 'sauces/honey_garlic_sauce.md'
+            - Mayonaise (V, DF, GF, P): 'sauces/homemade_mayo.md'
             - Pizza Sauce (P, Ve, GF): 'sauces/pizza_sauce.md'
             - Spaghetti Sauce (P, GF): 'sauces/spaghetti_sauce.md'
             - Basic Tomato Cream Sauce:  'sauces/tomato_cream.md' 
