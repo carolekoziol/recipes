@@ -2,7 +2,7 @@
 
 [Original Recipe](https://www.recipetineats.com/crumpet-recipe/#wprm-recipe-container-48368)
 
-![Picture](../img/Link_to_picture)
+![Picture](../img/crumpet.xcf)
 
 ** Prep time: 5 minutes || Cook time: 20 minutes || Serving: 6 || Rating 10/10 **
 

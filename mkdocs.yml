@@ -25,6 +25,7 @@ nav:
         - Sourdough Buns: 'breads/sourdough_buns.md'
     - Breakfasts & Brunchs:
         - Baked French Toast Casserole: 'breakfast/baked_french_toast_casserole.md'
+        - Cheesy Spinach Egg Waffle (Ve): 'breakfast/cheesy_spinach_egg_waffle.md'
         - French Crepe Buffet (V, DF): 'breakfast/french_crepe_buffet.md'
         - French Toast (V, DF): 'breakfast/french_toast.md'
         - Grain-Free Fruit Cereal (P, V, DF): 'breakfast/no_grain_cereal.md'
@@ -33,6 +34,7 @@ nav:
         - 4 Potatoes with eggs bowl (M, GF, DF): 'breakfast/potatoes_eggs_bowl.md'
         - Roasted Brussel Sprouts & Bacon (P, DF, GF, M) : 'sides/roasted_brussel_sprouts_bacon_apples.md'
         - Shakshuka (P, DF, GF): 'breakfast/shakshuka.md'
+        - Simmer Apple (P, V, DF, GF): 'breakfast/simmer_apple.md'
     - Salads:
         - Apple Green Salad (Ve, P, GF, DF): 'salad/apple_green_salad.md'
         - Broccoli Salad (P, GF, DF): 'salad/broccoli_salad.md'
@@ -128,6 +130,7 @@ nav:
         - Pasta:
             - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
             - Carbonara (M): 'main_course/creamy_carbonara.md'
+            - Cheezy Hamburger Helper (V, DF, GF, M): 'main_course/cheezy_hamburger_helper.md'
             - Dan Dan Chae Noodles (Ve): 'main_course/dan_japchae_noodles.md'
             - Fettuccini Alfredo (Ve, DF, GF): 'main_course/vegan_alfredo.md'
             - Lasagna (Ve, DF): 'main_course/lasagna.md'
