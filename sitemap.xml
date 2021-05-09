@@ -81,6 +81,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://carolekoziol.github.io/recipes/breakfast/cheesy_spinach_egg_waffle/</loc>
+     <lastmod>2021-05-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://carolekoziol.github.io/recipes/breakfast/french_crepe_buffet/</loc>
      <lastmod>2021-05-08</lastmod>
      <changefreq>daily</changefreq>
@@ -118,6 +123,11 @@
     <url>
      <loc>https://carolekoziol.github.io/recipes/breakfast/shakshuka/</loc>
      <lastmod>2021-05-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
@@ -502,6 +512,11 @@
     </url>
     <url>
      <loc>https://carolekoziol.github.io/recipes/main_course/creamy_carbonara/</loc>
+     <lastmod>2021-05-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://carolekoziol.github.io/recipes/main_course/cheezy_hamburger_helper/</loc>
      <lastmod>2021-05-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
