@@ -20,6 +20,7 @@ nav:
         - 4 Lard Pie Crust (DF): 'breads/lard_pie_crust.md'
         - North American Pizza Crusts (Ve, P, GF, DF): 'breads/pizza_crusts.md'
         - Pretzel Sourdough Discard: ''
+        - Pretzel Buns: ''
         - Sourdough Bagels: 'breads/sourdough_bagels.md'
         - Sourdough Bread: 'breads/sourdough_bread.md'
         - Sourdough Buns: 'breads/sourdough_buns.md'
@@ -47,15 +48,17 @@ nav:
         - Potato Salad (GF, DF): 'salad/potato_salad.md'
         - Tabbouleh (Ve, P, DF): 'salad/tabbouleh.md'
     - Sandwiches & Burgers: 
+        - Beet Burger (Ve, GF): 'sand/beet_burger'   
         - Big Bhaji Burger (Ve, GF): 'sand/big_bhaji_burger.md'
         - Buffalo Cauliflower Burger (Ve, GF): 'sand/buffalo_cauliflower_burger.md'
         - Crispy Chicken Burger (M, DF): 'sand/crispy_chicken_burger.md'
         - Chipotle Chicken Club Wrap: 'sand/chipotle_chicken_wrap.md'   
         - Fijiji Cheesesteak Sandwich (M, DF): 'sand/fijiji_cheesesteak_sandwich.md'
-        - 4 Meatball Sandwich (M, DF): 'sand/meatball_sandwich.md'
+        - Sabich Sandwich: 'sand/sabich.md'
         - Smoked Tofu Sandwich (Ve, DF): 'sand/smoked_tofu_sandwich.md'
     - Soups & Stews:
         - Soups:
+            - Cream of Broccoli Soup (V): 'soups_stews/cream_broccoli_soup.md'
             - Creamy Vegetables Soup (Ve, P, GF, DF): 'soups_stews/creamy_vegetable_soup.md'    
             - Chickpea/Chicken Noodle Soup (Ve, GF, DF): 'soups_stews/chickpea_noodle_soup.md'            
             - French Canadian Pea Soup (Ve, GF): 'soups_stews/soupe_pois_québécoise_french_canadian_pea_soup.md'
@@ -127,18 +130,18 @@ nav:
         - Pizza: 
             - North American Pizza: 'main_course/pizza.md'
             - Rustic Italian Pizza: 'main_course/rustic_italian _pizza.md'   
-        - Pasta:
-            - Cabbage Stroganoff (P, Ve, DF, GF): 'main_course/cabbage_stroganoff.md'
-            - Carbonara (M): 'main_course/creamy_carbonara.md'
-            - Cheezy Hamburger Helper (V, DF, GF, M): 'main_course/cheezy_hamburger_helper.md'
-            - Dan Dan Chae Noodles (Ve): 'main_course/dan_japchae_noodles.md'
-            - Fettuccini Alfredo (Ve, DF, GF): 'main_course/vegan_alfredo.md'
-            - Lasagna (Ve, DF): 'main_course/lasagna.md'
-            - 3 Noodles with Corn and Rosemary Sauce (Ve, DF, GF): 'main_course/noodles_corn_rosemary_sauce.md'
-            - 3 Noodles with Black Bean Sauce (Ve, DF, GF): 'main_course/noodle_pepper_black_bean_sauce.md'
-            - 2 Pesto Radiatore (Ve, DF): 'main_course/pesto_radiatore.md'
-            - Pumpkin Penne (Ve, DF, GF): 'main_course/pumpkin_penne.md'
-            - Tofu Mushroom Stroganoff (Ve, DF, GF): 'main_course/tofu_mushroom_stroganoff.md'
+    - Pasta:
+        - Cabbage Stroganoff (P, Ve, DF, GF): 'pasta/cabbage_stroganoff.md'
+        - Carbonara (M): 'pasta/creamy_carbonara.md'
+        - Cheezy Hamburger Helper (V, DF, GF, M): 'pasta/cheezy_hamburger_helper.md'
+        - Fettuccini Alfredo (Ve, DF, GF): 'pasta/vegan_alfredo.md'
+        - Lasagna (Ve, DF): 'pasta/lasagna.md'
+        - Ultimate Mac and cheese (V): 'pasta/mac_and_cheese.md'
+        - 3 Noodles with Corn and Rosemary Sauce (Ve, DF, GF): 'pasta/noodles_corn_rosemary_sauce.md'
+        - 3 Noodles with Black Bean Sauce (Ve, DF, GF): 'pasta/noodle_pepper_black_bean_sauce.md'
+        - 2 Pesto Radiatore (Ve, DF): 'pasta/pesto_radiatore.md'
+        - Pumpkin Penne (Ve, DF, GF): 'pasta/pumpkin_penne.md'
+        - Tofu Mushroom Stroganoff (Ve, DF, GF): 'pasta/tofu_mushroom_stroganoff.md'
     - Sides:
         - Grains:
             - Baked Beans (Ve, GF): 'sides/baked_beans_instant_pot.md'
@@ -200,6 +203,7 @@ nav:
     - Desserts:
         - Cakes/Cupcakes:
             - Banana Bread: 'desserts/banana_bread.md'
+            - Nana Devil's Food Cake: 'desserts/nana_devils_food_cake.md'
             - No Bake Cherry Cheesecake: 'desserts/no_bake_cherry_cheesecake.md'
             - Cheese cake (Ve, DF): 'desserts/vegan_cheese_cake.md'
             - Zucchini Bread: 'desserts/zucchini_bread.md'
